@@ -1,0 +1,981 @@
+{
+  "subject": "math",
+  "grade": "6th_grade",
+  "questions": [
+    {
+      "id": "math_6_1",
+      "type": "short_answer",
+      "text": "Solve for x: 0x + 6 = 0",
+      "correct_answer": "6",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_2",
+      "type": "multiple_choice",
+      "text": "What is 0% of 60?",
+      "options": [
+        "0.0",
+        "0"
+      ],
+      "correct_answer": "0.0",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_3",
+      "type": "short_answer",
+      "text": "Solve for x: 1x + 6 = 6",
+      "correct_answer": "5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_4",
+      "type": "multiple_choice",
+      "text": "What is 1% of 60?",
+      "options": [
+        "0.6",
+        "1"
+      ],
+      "correct_answer": "0.6",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_5",
+      "type": "short_answer",
+      "text": "Solve for x: 2x + 6 = 12",
+      "correct_answer": "4",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_6",
+      "type": "multiple_choice",
+      "text": "What is 2% of 60?",
+      "options": [
+        "1.2",
+        "2"
+      ],
+      "correct_answer": "1.2",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_7",
+      "type": "short_answer",
+      "text": "Solve for x: 3x + 6 = 18",
+      "correct_answer": "3",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_8",
+      "type": "multiple_choice",
+      "text": "What is 3% of 60?",
+      "options": [
+        "1.8",
+        "3"
+      ],
+      "correct_answer": "1.8",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_9",
+      "type": "short_answer",
+      "text": "Solve for x: 4x + 6 = 24",
+      "correct_answer": "2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_10",
+      "type": "multiple_choice",
+      "text": "What is 4% of 60?",
+      "options": [
+        "2.4",
+        "4"
+      ],
+      "correct_answer": "2.4",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_11",
+      "type": "short_answer",
+      "text": "Solve for x: 5x + 6 = 30",
+      "correct_answer": "1",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_12",
+      "type": "multiple_choice",
+      "text": "What is 5% of 60?",
+      "options": [
+        "3.0",
+        "5"
+      ],
+      "correct_answer": "3.0",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_13",
+      "type": "short_answer",
+      "text": "Solve for x: 6x + 6 = 36",
+      "correct_answer": "0",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_14",
+      "type": "multiple_choice",
+      "text": "What is 6% of 60?",
+      "options": [
+        "3.6",
+        "6"
+      ],
+      "correct_answer": "3.6",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_15",
+      "type": "short_answer",
+      "text": "Solve for x: 7x + 6 = 42",
+      "correct_answer": "-1",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_16",
+      "type": "multiple_choice",
+      "text": "What is 7% of 60?",
+      "options": [
+        "4.2",
+        "7"
+      ],
+      "correct_answer": "4.2",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_17",
+      "type": "short_answer",
+      "text": "Solve for x: 8x + 6 = 48",
+      "correct_answer": "-2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_18",
+      "type": "multiple_choice",
+      "text": "What is 8% of 60?",
+      "options": [
+        "4.8",
+        "8"
+      ],
+      "correct_answer": "4.8",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_19",
+      "type": "short_answer",
+      "text": "Solve for x: 9x + 6 = 54",
+      "correct_answer": "-3",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_20",
+      "type": "multiple_choice",
+      "text": "What is 9% of 60?",
+      "options": [
+        "5.4",
+        "9"
+      ],
+      "correct_answer": "5.4",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_21",
+      "type": "short_answer",
+      "text": "Solve for x: 10x + 6 = 60",
+      "correct_answer": "-4",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_22",
+      "type": "multiple_choice",
+      "text": "What is 10% of 60?",
+      "options": [
+        "6.0",
+        "10"
+      ],
+      "correct_answer": "6.0",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_23",
+      "type": "short_answer",
+      "text": "Solve for x: 11x + 6 = 66",
+      "correct_answer": "-5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_24",
+      "type": "multiple_choice",
+      "text": "What is 11% of 60?",
+      "options": [
+        "6.6",
+        "11"
+      ],
+      "correct_answer": "6.6",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_25",
+      "type": "short_answer",
+      "text": "Solve for x: 12x + 6 = 72",
+      "correct_answer": "-6",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_26",
+      "type": "multiple_choice",
+      "text": "What is 12% of 60?",
+      "options": [
+        "7.2",
+        "12"
+      ],
+      "correct_answer": "7.2",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_27",
+      "type": "short_answer",
+      "text": "Solve for x: 13x + 6 = 78",
+      "correct_answer": "-7",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_28",
+      "type": "multiple_choice",
+      "text": "What is 13% of 60?",
+      "options": [
+        "7.8",
+        "13"
+      ],
+      "correct_answer": "7.8",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_29",
+      "type": "short_answer",
+      "text": "Solve for x: 14x + 6 = 84",
+      "correct_answer": "-8",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_30",
+      "type": "multiple_choice",
+      "text": "What is 14% of 60?",
+      "options": [
+        "8.4",
+        "14"
+      ],
+      "correct_answer": "8.4",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_31",
+      "type": "short_answer",
+      "text": "Solve for x: 15x + 6 = 90",
+      "correct_answer": "-9",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_32",
+      "type": "multiple_choice",
+      "text": "What is 15% of 60?",
+      "options": [
+        "9.0",
+        "15"
+      ],
+      "correct_answer": "9.0",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_33",
+      "type": "short_answer",
+      "text": "Solve for x: 16x + 6 = 96",
+      "correct_answer": "-10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_34",
+      "type": "multiple_choice",
+      "text": "What is 16% of 60?",
+      "options": [
+        "9.6",
+        "16"
+      ],
+      "correct_answer": "9.6",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_35",
+      "type": "short_answer",
+      "text": "Solve for x: 17x + 6 = 102",
+      "correct_answer": "-11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_36",
+      "type": "multiple_choice",
+      "text": "What is 17% of 60?",
+      "options": [
+        "10.2",
+        "17"
+      ],
+      "correct_answer": "10.2",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_37",
+      "type": "short_answer",
+      "text": "Solve for x: 18x + 6 = 108",
+      "correct_answer": "-12",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_38",
+      "type": "multiple_choice",
+      "text": "What is 18% of 60?",
+      "options": [
+        "10.8",
+        "18"
+      ],
+      "correct_answer": "10.8",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_39",
+      "type": "short_answer",
+      "text": "Solve for x: 19x + 6 = 114",
+      "correct_answer": "-13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_40",
+      "type": "multiple_choice",
+      "text": "What is 19% of 60?",
+      "options": [
+        "11.4",
+        "19"
+      ],
+      "correct_answer": "11.4",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_41",
+      "type": "short_answer",
+      "text": "Solve for x: 20x + 6 = 120",
+      "correct_answer": "-14",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_42",
+      "type": "multiple_choice",
+      "text": "What is 20% of 60?",
+      "options": [
+        "12.0",
+        "20"
+      ],
+      "correct_answer": "12.0",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_43",
+      "type": "short_answer",
+      "text": "Solve for x: 21x + 6 = 126",
+      "correct_answer": "-15",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_44",
+      "type": "multiple_choice",
+      "text": "What is 21% of 60?",
+      "options": [
+        "12.6",
+        "21"
+      ],
+      "correct_answer": "12.6",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_45",
+      "type": "short_answer",
+      "text": "Solve for x: 22x + 6 = 132",
+      "correct_answer": "-16",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_46",
+      "type": "multiple_choice",
+      "text": "What is 22% of 60?",
+      "options": [
+        "13.2",
+        "22"
+      ],
+      "correct_answer": "13.2",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_47",
+      "type": "short_answer",
+      "text": "Solve for x: 23x + 6 = 138",
+      "correct_answer": "-17",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_48",
+      "type": "multiple_choice",
+      "text": "What is 23% of 60?",
+      "options": [
+        "13.8",
+        "23"
+      ],
+      "correct_answer": "13.8",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_49",
+      "type": "short_answer",
+      "text": "Solve for x: 24x + 6 = 144",
+      "correct_answer": "-18",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_50",
+      "type": "multiple_choice",
+      "text": "What is 24% of 60?",
+      "options": [
+        "14.4",
+        "24"
+      ],
+      "correct_answer": "14.4",
+      "hint": "Think about the math concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_51",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 1. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "3.14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_52",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 2. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "12.56",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_53",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 3. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "28.26",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_54",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 4. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "50.24",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_55",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 5. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "78.5",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_56",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 1. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "3.14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_57",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 2. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "12.56",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_58",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 3. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "28.26",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_59",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 4. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "50.24",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_60",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 5. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "78.5",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_61",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 1. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "3.14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_62",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 2. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "12.56",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_63",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 3. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "28.26",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_64",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 4. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "50.24",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_65",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 5. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "78.5",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_66",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 1. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "3.14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_67",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 2. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "12.56",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_68",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 3. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "28.26",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_69",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 4. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "50.24",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_70",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 5. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "78.5",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_71",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 1. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "3.14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_72",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 2. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "12.56",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_73",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 3. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "28.26",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_74",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 4. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "50.24",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_75",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 5. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "78.5",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_76",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 1?",
+      "correct_answer": "2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_77",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 2?",
+      "correct_answer": "8",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_78",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 3?",
+      "correct_answer": "18",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_79",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 1?",
+      "correct_answer": "17",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_80",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 2?",
+      "correct_answer": "5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_81",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 3?",
+      "correct_answer": "13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_82",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 1?",
+      "correct_answer": "10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_83",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 2?",
+      "correct_answer": "20",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_84",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 3?",
+      "correct_answer": "10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_85",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 1?",
+      "correct_answer": "5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_86",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 2?",
+      "correct_answer": "13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_87",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 3?",
+      "correct_answer": "25",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_88",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 1?",
+      "correct_answer": "2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_89",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 2?",
+      "correct_answer": "8",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_90",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 3?",
+      "correct_answer": "18",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_91",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 1?",
+      "correct_answer": "17",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_92",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 2?",
+      "correct_answer": "5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_93",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 3?",
+      "correct_answer": "13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_94",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 1?",
+      "correct_answer": "10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_95",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 2?",
+      "correct_answer": "20",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_6_96",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 3?",
+      "correct_answer": "10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_6_97",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 1?",
+      "correct_answer": "5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_6_98",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 2?",
+      "correct_answer": "13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_6_99",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 3?",
+      "correct_answer": "25",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_6_100",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 1?",
+      "correct_answer": "2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,981 @@
+{
+  "subject": "math",
+  "grade": "11th_grade",
+  "questions": [
+    {
+      "id": "math_11_1",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 0x\u00b2 + 11x.",
+      "correct_answer": "0x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_2",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_3",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 1x\u00b2 + 11x.",
+      "correct_answer": "2x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_4",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_5",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 2x\u00b2 + 11x.",
+      "correct_answer": "4x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_6",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_7",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 3x\u00b2 + 11x.",
+      "correct_answer": "6x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_8",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_9",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 4x\u00b2 + 11x.",
+      "correct_answer": "8x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_10",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_11",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 5x\u00b2 + 11x.",
+      "correct_answer": "10x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_12",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_13",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 6x\u00b2 + 11x.",
+      "correct_answer": "12x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_14",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_15",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 7x\u00b2 + 11x.",
+      "correct_answer": "14x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_16",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_17",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 8x\u00b2 + 11x.",
+      "correct_answer": "16x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_18",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_19",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 9x\u00b2 + 11x.",
+      "correct_answer": "18x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_20",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_21",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 10x\u00b2 + 11x.",
+      "correct_answer": "20x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_22",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_23",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 11x\u00b2 + 11x.",
+      "correct_answer": "22x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_24",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_25",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 12x\u00b2 + 11x.",
+      "correct_answer": "24x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_26",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_27",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 13x\u00b2 + 11x.",
+      "correct_answer": "26x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_28",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_29",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 14x\u00b2 + 11x.",
+      "correct_answer": "28x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_30",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_31",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 15x\u00b2 + 11x.",
+      "correct_answer": "30x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_32",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_33",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 16x\u00b2 + 11x.",
+      "correct_answer": "32x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_34",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_35",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 17x\u00b2 + 11x.",
+      "correct_answer": "34x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_36",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_37",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 18x\u00b2 + 11x.",
+      "correct_answer": "36x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_38",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_39",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 19x\u00b2 + 11x.",
+      "correct_answer": "38x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_40",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_41",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 20x\u00b2 + 11x.",
+      "correct_answer": "40x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_42",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_43",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 21x\u00b2 + 11x.",
+      "correct_answer": "42x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_44",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_45",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 22x\u00b2 + 11x.",
+      "correct_answer": "44x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_46",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_47",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 23x\u00b2 + 11x.",
+      "correct_answer": "46x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_48",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_49",
+      "type": "short_answer",
+      "text": "Find the derivative of f(x) = 24x\u00b2 + 11x.",
+      "correct_answer": "48x + 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_50",
+      "type": "multiple_choice",
+      "text": "Solve x\u00b2 + 5x + 6 = 0",
+      "options": [
+        "-2, -3",
+        "2, 3"
+      ],
+      "correct_answer": "-2, -3",
+      "hint": "Think about the math concepts for grade 11.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_51",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.0, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "1.0",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_52",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.2, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.9797958971132712",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_53",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.4, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.916515138991168",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_54",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.6, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.8",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_55",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.8, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.5999999999999999",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_56",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.0, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "1.0",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_57",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.2, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.9797958971132712",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_58",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.4, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.916515138991168",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_59",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.6, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.8",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_60",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.8, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.5999999999999999",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_61",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.0, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "1.0",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_62",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.2, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.9797958971132712",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_63",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.4, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.916515138991168",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_64",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.6, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.8",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_65",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.8, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.5999999999999999",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_66",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.0, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "1.0",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_67",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.2, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.9797958971132712",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_68",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.4, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.916515138991168",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_69",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.6, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.8",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_70",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.8, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.5999999999999999",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_71",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.0, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "1.0",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_72",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.2, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.9797958971132712",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_73",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.4, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.916515138991168",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_74",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.6, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.8",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_75",
+      "type": "problem_solving",
+      "text": "If sin(\u03b8) = 0.8, find cos(\u03b8) in a right triangle.",
+      "steps_to_solve": [
+        "Use sin\u00b2 + cos\u00b2 = 1"
+      ],
+      "correct_answer": "0.5999999999999999",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_76",
+      "type": "short_answer",
+      "text": "What is the vector sum of (1, 1) and (1, 1)?",
+      "correct_answer": "(2, 2)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_77",
+      "type": "short_answer",
+      "text": "What is the vector sum of (2, 2) and (2, 2)?",
+      "correct_answer": "(4, 4)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_78",
+      "type": "short_answer",
+      "text": "What is the vector sum of (3, 1) and (3, 3)?",
+      "correct_answer": "(6, 4)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_79",
+      "type": "short_answer",
+      "text": "What is the vector sum of (1, 2) and (4, 4)?",
+      "correct_answer": "(5, 6)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_80",
+      "type": "short_answer",
+      "text": "What is the vector sum of (2, 1) and (1, 5)?",
+      "correct_answer": "(3, 6)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_81",
+      "type": "short_answer",
+      "text": "What is the vector sum of (3, 2) and (2, 1)?",
+      "correct_answer": "(5, 3)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_82",
+      "type": "short_answer",
+      "text": "What is the vector sum of (1, 1) and (3, 2)?",
+      "correct_answer": "(4, 3)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_83",
+      "type": "short_answer",
+      "text": "What is the vector sum of (2, 2) and (4, 3)?",
+      "correct_answer": "(6, 5)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_84",
+      "type": "short_answer",
+      "text": "What is the vector sum of (3, 1) and (1, 4)?",
+      "correct_answer": "(4, 5)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_85",
+      "type": "short_answer",
+      "text": "What is the vector sum of (1, 2) and (2, 5)?",
+      "correct_answer": "(3, 7)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_86",
+      "type": "short_answer",
+      "text": "What is the vector sum of (2, 1) and (3, 1)?",
+      "correct_answer": "(5, 2)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_87",
+      "type": "short_answer",
+      "text": "What is the vector sum of (3, 2) and (4, 2)?",
+      "correct_answer": "(7, 4)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_88",
+      "type": "short_answer",
+      "text": "What is the vector sum of (1, 1) and (1, 3)?",
+      "correct_answer": "(2, 4)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_89",
+      "type": "short_answer",
+      "text": "What is the vector sum of (2, 2) and (2, 4)?",
+      "correct_answer": "(4, 6)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_90",
+      "type": "short_answer",
+      "text": "What is the vector sum of (3, 1) and (3, 5)?",
+      "correct_answer": "(6, 6)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_91",
+      "type": "short_answer",
+      "text": "What is the vector sum of (1, 2) and (4, 1)?",
+      "correct_answer": "(5, 3)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_92",
+      "type": "short_answer",
+      "text": "What is the vector sum of (2, 1) and (1, 2)?",
+      "correct_answer": "(3, 3)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_93",
+      "type": "short_answer",
+      "text": "What is the vector sum of (3, 2) and (2, 3)?",
+      "correct_answer": "(5, 5)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_11_94",
+      "type": "short_answer",
+      "text": "What is the vector sum of (1, 1) and (3, 4)?",
+      "correct_answer": "(4, 5)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_95",
+      "type": "short_answer",
+      "text": "What is the vector sum of (2, 2) and (4, 5)?",
+      "correct_answer": "(6, 7)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_11_96",
+      "type": "short_answer",
+      "text": "What is the vector sum of (3, 1) and (1, 1)?",
+      "correct_answer": "(4, 2)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_97",
+      "type": "short_answer",
+      "text": "What is the vector sum of (1, 2) and (2, 2)?",
+      "correct_answer": "(3, 4)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_11_98",
+      "type": "short_answer",
+      "text": "What is the vector sum of (2, 1) and (3, 3)?",
+      "correct_answer": "(5, 4)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_11_99",
+      "type": "short_answer",
+      "text": "What is the vector sum of (3, 2) and (4, 4)?",
+      "correct_answer": "(7, 6)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_11_100",
+      "type": "short_answer",
+      "text": "What is the vector sum of (1, 1) and (1, 5)?",
+      "correct_answer": "(2, 6)",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    }
+  ]
+}

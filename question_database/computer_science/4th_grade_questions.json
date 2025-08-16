@@ -1,0 +1,806 @@
+{
+  "subject": "computer_science",
+  "grade": "4th_grade",
+  "questions": [
+    {
+      "id": "computer_science_4_1",
+      "type": "short_answer",
+      "text": "Sample computer_science question 1 for 4th_grade.",
+      "correct_answer": "Answer 1",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_2",
+      "type": "short_answer",
+      "text": "Sample computer_science question 2 for 4th_grade.",
+      "correct_answer": "Answer 2",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_3",
+      "type": "short_answer",
+      "text": "Sample computer_science question 3 for 4th_grade.",
+      "correct_answer": "Answer 3",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_4",
+      "type": "short_answer",
+      "text": "Sample computer_science question 4 for 4th_grade.",
+      "correct_answer": "Answer 4",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_5",
+      "type": "short_answer",
+      "text": "Sample computer_science question 5 for 4th_grade.",
+      "correct_answer": "Answer 5",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_6",
+      "type": "short_answer",
+      "text": "Sample computer_science question 6 for 4th_grade.",
+      "correct_answer": "Answer 6",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_7",
+      "type": "short_answer",
+      "text": "Sample computer_science question 7 for 4th_grade.",
+      "correct_answer": "Answer 7",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_8",
+      "type": "short_answer",
+      "text": "Sample computer_science question 8 for 4th_grade.",
+      "correct_answer": "Answer 8",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_9",
+      "type": "short_answer",
+      "text": "Sample computer_science question 9 for 4th_grade.",
+      "correct_answer": "Answer 9",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_10",
+      "type": "short_answer",
+      "text": "Sample computer_science question 10 for 4th_grade.",
+      "correct_answer": "Answer 10",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_11",
+      "type": "short_answer",
+      "text": "Sample computer_science question 11 for 4th_grade.",
+      "correct_answer": "Answer 11",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_12",
+      "type": "short_answer",
+      "text": "Sample computer_science question 12 for 4th_grade.",
+      "correct_answer": "Answer 12",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_13",
+      "type": "short_answer",
+      "text": "Sample computer_science question 13 for 4th_grade.",
+      "correct_answer": "Answer 13",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_14",
+      "type": "short_answer",
+      "text": "Sample computer_science question 14 for 4th_grade.",
+      "correct_answer": "Answer 14",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_15",
+      "type": "short_answer",
+      "text": "Sample computer_science question 15 for 4th_grade.",
+      "correct_answer": "Answer 15",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_16",
+      "type": "short_answer",
+      "text": "Sample computer_science question 16 for 4th_grade.",
+      "correct_answer": "Answer 16",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_17",
+      "type": "short_answer",
+      "text": "Sample computer_science question 17 for 4th_grade.",
+      "correct_answer": "Answer 17",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_18",
+      "type": "short_answer",
+      "text": "Sample computer_science question 18 for 4th_grade.",
+      "correct_answer": "Answer 18",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_19",
+      "type": "short_answer",
+      "text": "Sample computer_science question 19 for 4th_grade.",
+      "correct_answer": "Answer 19",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_20",
+      "type": "short_answer",
+      "text": "Sample computer_science question 20 for 4th_grade.",
+      "correct_answer": "Answer 20",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_21",
+      "type": "short_answer",
+      "text": "Sample computer_science question 21 for 4th_grade.",
+      "correct_answer": "Answer 21",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_22",
+      "type": "short_answer",
+      "text": "Sample computer_science question 22 for 4th_grade.",
+      "correct_answer": "Answer 22",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_23",
+      "type": "short_answer",
+      "text": "Sample computer_science question 23 for 4th_grade.",
+      "correct_answer": "Answer 23",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_24",
+      "type": "short_answer",
+      "text": "Sample computer_science question 24 for 4th_grade.",
+      "correct_answer": "Answer 24",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_25",
+      "type": "short_answer",
+      "text": "Sample computer_science question 25 for 4th_grade.",
+      "correct_answer": "Answer 25",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_26",
+      "type": "short_answer",
+      "text": "Sample computer_science question 26 for 4th_grade.",
+      "correct_answer": "Answer 26",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_27",
+      "type": "short_answer",
+      "text": "Sample computer_science question 27 for 4th_grade.",
+      "correct_answer": "Answer 27",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_28",
+      "type": "short_answer",
+      "text": "Sample computer_science question 28 for 4th_grade.",
+      "correct_answer": "Answer 28",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_29",
+      "type": "short_answer",
+      "text": "Sample computer_science question 29 for 4th_grade.",
+      "correct_answer": "Answer 29",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_30",
+      "type": "short_answer",
+      "text": "Sample computer_science question 30 for 4th_grade.",
+      "correct_answer": "Answer 30",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_31",
+      "type": "short_answer",
+      "text": "Sample computer_science question 31 for 4th_grade.",
+      "correct_answer": "Answer 31",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_32",
+      "type": "short_answer",
+      "text": "Sample computer_science question 32 for 4th_grade.",
+      "correct_answer": "Answer 32",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_33",
+      "type": "short_answer",
+      "text": "Sample computer_science question 33 for 4th_grade.",
+      "correct_answer": "Answer 33",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_34",
+      "type": "short_answer",
+      "text": "Sample computer_science question 34 for 4th_grade.",
+      "correct_answer": "Answer 34",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_35",
+      "type": "short_answer",
+      "text": "Sample computer_science question 35 for 4th_grade.",
+      "correct_answer": "Answer 35",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_36",
+      "type": "short_answer",
+      "text": "Sample computer_science question 36 for 4th_grade.",
+      "correct_answer": "Answer 36",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_37",
+      "type": "short_answer",
+      "text": "Sample computer_science question 37 for 4th_grade.",
+      "correct_answer": "Answer 37",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_38",
+      "type": "short_answer",
+      "text": "Sample computer_science question 38 for 4th_grade.",
+      "correct_answer": "Answer 38",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_39",
+      "type": "short_answer",
+      "text": "Sample computer_science question 39 for 4th_grade.",
+      "correct_answer": "Answer 39",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_40",
+      "type": "short_answer",
+      "text": "Sample computer_science question 40 for 4th_grade.",
+      "correct_answer": "Answer 40",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_41",
+      "type": "short_answer",
+      "text": "Sample computer_science question 41 for 4th_grade.",
+      "correct_answer": "Answer 41",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_42",
+      "type": "short_answer",
+      "text": "Sample computer_science question 42 for 4th_grade.",
+      "correct_answer": "Answer 42",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_43",
+      "type": "short_answer",
+      "text": "Sample computer_science question 43 for 4th_grade.",
+      "correct_answer": "Answer 43",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_44",
+      "type": "short_answer",
+      "text": "Sample computer_science question 44 for 4th_grade.",
+      "correct_answer": "Answer 44",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_45",
+      "type": "short_answer",
+      "text": "Sample computer_science question 45 for 4th_grade.",
+      "correct_answer": "Answer 45",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_46",
+      "type": "short_answer",
+      "text": "Sample computer_science question 46 for 4th_grade.",
+      "correct_answer": "Answer 46",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_47",
+      "type": "short_answer",
+      "text": "Sample computer_science question 47 for 4th_grade.",
+      "correct_answer": "Answer 47",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_48",
+      "type": "short_answer",
+      "text": "Sample computer_science question 48 for 4th_grade.",
+      "correct_answer": "Answer 48",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_49",
+      "type": "short_answer",
+      "text": "Sample computer_science question 49 for 4th_grade.",
+      "correct_answer": "Answer 49",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_50",
+      "type": "short_answer",
+      "text": "Sample computer_science question 50 for 4th_grade.",
+      "correct_answer": "Answer 50",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_51",
+      "type": "short_answer",
+      "text": "Sample computer_science question 51 for 4th_grade.",
+      "correct_answer": "Answer 51",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_52",
+      "type": "short_answer",
+      "text": "Sample computer_science question 52 for 4th_grade.",
+      "correct_answer": "Answer 52",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_53",
+      "type": "short_answer",
+      "text": "Sample computer_science question 53 for 4th_grade.",
+      "correct_answer": "Answer 53",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_54",
+      "type": "short_answer",
+      "text": "Sample computer_science question 54 for 4th_grade.",
+      "correct_answer": "Answer 54",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_55",
+      "type": "short_answer",
+      "text": "Sample computer_science question 55 for 4th_grade.",
+      "correct_answer": "Answer 55",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_56",
+      "type": "short_answer",
+      "text": "Sample computer_science question 56 for 4th_grade.",
+      "correct_answer": "Answer 56",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_57",
+      "type": "short_answer",
+      "text": "Sample computer_science question 57 for 4th_grade.",
+      "correct_answer": "Answer 57",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_58",
+      "type": "short_answer",
+      "text": "Sample computer_science question 58 for 4th_grade.",
+      "correct_answer": "Answer 58",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_59",
+      "type": "short_answer",
+      "text": "Sample computer_science question 59 for 4th_grade.",
+      "correct_answer": "Answer 59",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_60",
+      "type": "short_answer",
+      "text": "Sample computer_science question 60 for 4th_grade.",
+      "correct_answer": "Answer 60",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_61",
+      "type": "short_answer",
+      "text": "Sample computer_science question 61 for 4th_grade.",
+      "correct_answer": "Answer 61",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_62",
+      "type": "short_answer",
+      "text": "Sample computer_science question 62 for 4th_grade.",
+      "correct_answer": "Answer 62",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_63",
+      "type": "short_answer",
+      "text": "Sample computer_science question 63 for 4th_grade.",
+      "correct_answer": "Answer 63",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_64",
+      "type": "short_answer",
+      "text": "Sample computer_science question 64 for 4th_grade.",
+      "correct_answer": "Answer 64",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_65",
+      "type": "short_answer",
+      "text": "Sample computer_science question 65 for 4th_grade.",
+      "correct_answer": "Answer 65",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_66",
+      "type": "short_answer",
+      "text": "Sample computer_science question 66 for 4th_grade.",
+      "correct_answer": "Answer 66",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_67",
+      "type": "short_answer",
+      "text": "Sample computer_science question 67 for 4th_grade.",
+      "correct_answer": "Answer 67",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_68",
+      "type": "short_answer",
+      "text": "Sample computer_science question 68 for 4th_grade.",
+      "correct_answer": "Answer 68",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_69",
+      "type": "short_answer",
+      "text": "Sample computer_science question 69 for 4th_grade.",
+      "correct_answer": "Answer 69",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_70",
+      "type": "short_answer",
+      "text": "Sample computer_science question 70 for 4th_grade.",
+      "correct_answer": "Answer 70",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_71",
+      "type": "short_answer",
+      "text": "Sample computer_science question 71 for 4th_grade.",
+      "correct_answer": "Answer 71",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_72",
+      "type": "short_answer",
+      "text": "Sample computer_science question 72 for 4th_grade.",
+      "correct_answer": "Answer 72",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_73",
+      "type": "short_answer",
+      "text": "Sample computer_science question 73 for 4th_grade.",
+      "correct_answer": "Answer 73",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_74",
+      "type": "short_answer",
+      "text": "Sample computer_science question 74 for 4th_grade.",
+      "correct_answer": "Answer 74",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_75",
+      "type": "short_answer",
+      "text": "Sample computer_science question 75 for 4th_grade.",
+      "correct_answer": "Answer 75",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_76",
+      "type": "short_answer",
+      "text": "Sample computer_science question 76 for 4th_grade.",
+      "correct_answer": "Answer 76",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_77",
+      "type": "short_answer",
+      "text": "Sample computer_science question 77 for 4th_grade.",
+      "correct_answer": "Answer 77",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_78",
+      "type": "short_answer",
+      "text": "Sample computer_science question 78 for 4th_grade.",
+      "correct_answer": "Answer 78",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_79",
+      "type": "short_answer",
+      "text": "Sample computer_science question 79 for 4th_grade.",
+      "correct_answer": "Answer 79",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_80",
+      "type": "short_answer",
+      "text": "Sample computer_science question 80 for 4th_grade.",
+      "correct_answer": "Answer 80",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_81",
+      "type": "short_answer",
+      "text": "Sample computer_science question 81 for 4th_grade.",
+      "correct_answer": "Answer 81",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_82",
+      "type": "short_answer",
+      "text": "Sample computer_science question 82 for 4th_grade.",
+      "correct_answer": "Answer 82",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_83",
+      "type": "short_answer",
+      "text": "Sample computer_science question 83 for 4th_grade.",
+      "correct_answer": "Answer 83",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_84",
+      "type": "short_answer",
+      "text": "Sample computer_science question 84 for 4th_grade.",
+      "correct_answer": "Answer 84",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_85",
+      "type": "short_answer",
+      "text": "Sample computer_science question 85 for 4th_grade.",
+      "correct_answer": "Answer 85",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_86",
+      "type": "short_answer",
+      "text": "Sample computer_science question 86 for 4th_grade.",
+      "correct_answer": "Answer 86",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_87",
+      "type": "short_answer",
+      "text": "Sample computer_science question 87 for 4th_grade.",
+      "correct_answer": "Answer 87",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_88",
+      "type": "short_answer",
+      "text": "Sample computer_science question 88 for 4th_grade.",
+      "correct_answer": "Answer 88",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_89",
+      "type": "short_answer",
+      "text": "Sample computer_science question 89 for 4th_grade.",
+      "correct_answer": "Answer 89",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "computer_science_4_90",
+      "type": "short_answer",
+      "text": "Sample computer_science question 90 for 4th_grade.",
+      "correct_answer": "Answer 90",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "computer_science_4_91",
+      "type": "short_answer",
+      "text": "Sample computer_science question 91 for 4th_grade.",
+      "correct_answer": "Answer 91",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "computer_science_4_92",
+      "type": "short_answer",
+      "text": "Sample computer_science question 92 for 4th_grade.",
+      "correct_answer": "Answer 92",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_93",
+      "type": "short_answer",
+      "text": "Sample computer_science question 93 for 4th_grade.",
+      "correct_answer": "Answer 93",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_94",
+      "type": "short_answer",
+      "text": "Sample computer_science question 94 for 4th_grade.",
+      "correct_answer": "Answer 94",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_95",
+      "type": "short_answer",
+      "text": "Sample computer_science question 95 for 4th_grade.",
+      "correct_answer": "Answer 95",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_96",
+      "type": "short_answer",
+      "text": "Sample computer_science question 96 for 4th_grade.",
+      "correct_answer": "Answer 96",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_97",
+      "type": "short_answer",
+      "text": "Sample computer_science question 97 for 4th_grade.",
+      "correct_answer": "Answer 97",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "computer_science_4_98",
+      "type": "short_answer",
+      "text": "Sample computer_science question 98 for 4th_grade.",
+      "correct_answer": "Answer 98",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_99",
+      "type": "short_answer",
+      "text": "Sample computer_science question 99 for 4th_grade.",
+      "correct_answer": "Answer 99",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "computer_science_4_100",
+      "type": "short_answer",
+      "text": "Sample computer_science question 100 for 4th_grade.",
+      "correct_answer": "Answer 100",
+      "hint": "Consider basic computer_science principles for this grade level.",
+      "difficulty": 4
+    }
+  ]
+}

@@ -1,0 +1,981 @@
+{
+  "subject": "science",
+  "grade": "6th_grade",
+  "questions": [
+    {
+      "id": "science_6_1",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_2",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_3",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_4",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_5",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_6",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_7",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_8",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_9",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_10",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_6_11",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_12",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_13",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_14",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_15",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_16",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_17",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_18",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_19",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_20",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_6_21",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_22",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_23",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_24",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_25",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_26",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_27",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_28",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_29",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_6_30",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_31",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_32",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_33",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_34",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_35",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_36",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_37",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_38",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_39",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_40",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_41",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_42",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_43",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_44",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_45",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_46",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_47",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_48",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_6_49",
+      "type": "short_answer",
+      "text": "What gas do plants use in photosynthesis?",
+      "correct_answer": "Carbon dioxide",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_50",
+      "type": "multiple_choice",
+      "text": "Which law says an object stays at rest unless acted upon?",
+      "options": [
+        "Newton's 1st",
+        "Newton's 2nd"
+      ],
+      "correct_answer": "Newton's 1st",
+      "hint": "Think about the science concepts for grade 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_51",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 1 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_52",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 2 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_53",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 3 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_6_54",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 4 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_55",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 1 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_6_56",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 2 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_57",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 3 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_6_58",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 4 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_59",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 1 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_60",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 2 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_61",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 3 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_62",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 4 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_63",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 1 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_64",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 2 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_65",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 3 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_66",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 4 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_67",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 1 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_68",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 2 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_69",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 3 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_70",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 4 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_71",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 1 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_72",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 2 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_73",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 3 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_6_74",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 4 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_75",
+      "type": "problem_solving",
+      "text": "How does a cell divide if it has 1 chromosomes?",
+      "steps_to_solve": [
+        "Mitosis duplicates chromosomes."
+      ],
+      "correct_answer": "Mitosis",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_76",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by cooling.",
+      "correct_answer": "igneous",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_77",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by pressure.",
+      "correct_answer": "metamorphic",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_6_78",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by sediment.",
+      "correct_answer": "sedimentary",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_6_79",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by cooling.",
+      "correct_answer": "igneous",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_80",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by pressure.",
+      "correct_answer": "metamorphic",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_81",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by sediment.",
+      "correct_answer": "sedimentary",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_6_82",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by cooling.",
+      "correct_answer": "igneous",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_83",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by pressure.",
+      "correct_answer": "metamorphic",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_84",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by sediment.",
+      "correct_answer": "sedimentary",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_85",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by cooling.",
+      "correct_answer": "igneous",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_86",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by pressure.",
+      "correct_answer": "metamorphic",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_87",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by sediment.",
+      "correct_answer": "sedimentary",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_88",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by cooling.",
+      "correct_answer": "igneous",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_89",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by pressure.",
+      "correct_answer": "metamorphic",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_90",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by sediment.",
+      "correct_answer": "sedimentary",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_91",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by cooling.",
+      "correct_answer": "igneous",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_92",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by pressure.",
+      "correct_answer": "metamorphic",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_93",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by sediment.",
+      "correct_answer": "sedimentary",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_6_94",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by cooling.",
+      "correct_answer": "igneous",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_95",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by pressure.",
+      "correct_answer": "metamorphic",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_96",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by sediment.",
+      "correct_answer": "sedimentary",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_97",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by cooling.",
+      "correct_answer": "igneous",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_6_98",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by pressure.",
+      "correct_answer": "metamorphic",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_6_99",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by sediment.",
+      "correct_answer": "sedimentary",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_6_100",
+      "type": "short_answer",
+      "text": "Name a type of rock formed by cooling.",
+      "correct_answer": "igneous",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    }
+  ]
+}

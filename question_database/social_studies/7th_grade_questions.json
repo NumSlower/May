@@ -1,0 +1,981 @@
+{
+  "subject": "social_studies",
+  "grade": "7th_grade",
+  "questions": [
+    {
+      "id": "social_studies_7_1",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_2",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_3",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_4",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_5",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_6",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_7",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_8",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_9",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_10",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_11",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_12",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_13",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_14",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_15",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_16",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_17",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_18",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_19",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_20",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_21",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_22",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_23",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_24",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_25",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_26",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_27",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_28",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_29",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_30",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_31",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_32",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_33",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_34",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_35",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_36",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_37",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_38",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_39",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_40",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_41",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_42",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_43",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_44",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_45",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_46",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_47",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_48",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_49",
+      "type": "short_answer",
+      "text": "What started the Civil War?",
+      "correct_answer": "Slavery disputes",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_50",
+      "type": "multiple_choice",
+      "text": "What\u2019s in the Constitution?",
+      "options": [
+        "Laws",
+        "Stories"
+      ],
+      "correct_answer": "Laws",
+      "hint": "Think about the social_studies concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_51",
+      "type": "problem_solving",
+      "text": "Describe 1 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_52",
+      "type": "problem_solving",
+      "text": "Describe 2 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_53",
+      "type": "problem_solving",
+      "text": "Describe 3 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_54",
+      "type": "problem_solving",
+      "text": "Describe 1 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_55",
+      "type": "problem_solving",
+      "text": "Describe 2 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_56",
+      "type": "problem_solving",
+      "text": "Describe 3 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_57",
+      "type": "problem_solving",
+      "text": "Describe 1 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_58",
+      "type": "problem_solving",
+      "text": "Describe 2 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_59",
+      "type": "problem_solving",
+      "text": "Describe 3 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_60",
+      "type": "problem_solving",
+      "text": "Describe 1 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_61",
+      "type": "problem_solving",
+      "text": "Describe 2 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_62",
+      "type": "problem_solving",
+      "text": "Describe 3 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_63",
+      "type": "problem_solving",
+      "text": "Describe 1 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_64",
+      "type": "problem_solving",
+      "text": "Describe 2 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_65",
+      "type": "problem_solving",
+      "text": "Describe 3 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_66",
+      "type": "problem_solving",
+      "text": "Describe 1 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_67",
+      "type": "problem_solving",
+      "text": "Describe 2 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_68",
+      "type": "problem_solving",
+      "text": "Describe 3 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_69",
+      "type": "problem_solving",
+      "text": "Describe 1 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_70",
+      "type": "problem_solving",
+      "text": "Describe 2 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_71",
+      "type": "problem_solving",
+      "text": "Describe 3 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_72",
+      "type": "problem_solving",
+      "text": "Describe 1 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_73",
+      "type": "problem_solving",
+      "text": "Describe 2 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_74",
+      "type": "problem_solving",
+      "text": "Describe 3 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_75",
+      "type": "problem_solving",
+      "text": "Describe 1 causes of World War I.",
+      "steps_to_solve": [
+        "Alliances, militarism, etc."
+      ],
+      "correct_answer": "Varies",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_76",
+      "type": "short_answer",
+      "text": "Sample social_studies question 76 for 7th_grade.",
+      "correct_answer": "Answer 76",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_77",
+      "type": "short_answer",
+      "text": "Sample social_studies question 77 for 7th_grade.",
+      "correct_answer": "Answer 77",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_78",
+      "type": "short_answer",
+      "text": "Sample social_studies question 78 for 7th_grade.",
+      "correct_answer": "Answer 78",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_79",
+      "type": "short_answer",
+      "text": "Sample social_studies question 79 for 7th_grade.",
+      "correct_answer": "Answer 79",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_80",
+      "type": "short_answer",
+      "text": "Sample social_studies question 80 for 7th_grade.",
+      "correct_answer": "Answer 80",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_81",
+      "type": "short_answer",
+      "text": "Sample social_studies question 81 for 7th_grade.",
+      "correct_answer": "Answer 81",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_82",
+      "type": "short_answer",
+      "text": "Sample social_studies question 82 for 7th_grade.",
+      "correct_answer": "Answer 82",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_83",
+      "type": "short_answer",
+      "text": "Sample social_studies question 83 for 7th_grade.",
+      "correct_answer": "Answer 83",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_84",
+      "type": "short_answer",
+      "text": "Sample social_studies question 84 for 7th_grade.",
+      "correct_answer": "Answer 84",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_7_85",
+      "type": "short_answer",
+      "text": "Sample social_studies question 85 for 7th_grade.",
+      "correct_answer": "Answer 85",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_86",
+      "type": "short_answer",
+      "text": "Sample social_studies question 86 for 7th_grade.",
+      "correct_answer": "Answer 86",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_87",
+      "type": "short_answer",
+      "text": "Sample social_studies question 87 for 7th_grade.",
+      "correct_answer": "Answer 87",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_7_88",
+      "type": "short_answer",
+      "text": "Sample social_studies question 88 for 7th_grade.",
+      "correct_answer": "Answer 88",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_89",
+      "type": "short_answer",
+      "text": "Sample social_studies question 89 for 7th_grade.",
+      "correct_answer": "Answer 89",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_90",
+      "type": "short_answer",
+      "text": "Sample social_studies question 90 for 7th_grade.",
+      "correct_answer": "Answer 90",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_91",
+      "type": "short_answer",
+      "text": "Sample social_studies question 91 for 7th_grade.",
+      "correct_answer": "Answer 91",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_92",
+      "type": "short_answer",
+      "text": "Sample social_studies question 92 for 7th_grade.",
+      "correct_answer": "Answer 92",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_93",
+      "type": "short_answer",
+      "text": "Sample social_studies question 93 for 7th_grade.",
+      "correct_answer": "Answer 93",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_7_94",
+      "type": "short_answer",
+      "text": "Sample social_studies question 94 for 7th_grade.",
+      "correct_answer": "Answer 94",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_95",
+      "type": "short_answer",
+      "text": "Sample social_studies question 95 for 7th_grade.",
+      "correct_answer": "Answer 95",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_96",
+      "type": "short_answer",
+      "text": "Sample social_studies question 96 for 7th_grade.",
+      "correct_answer": "Answer 96",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_7_97",
+      "type": "short_answer",
+      "text": "Sample social_studies question 97 for 7th_grade.",
+      "correct_answer": "Answer 97",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_98",
+      "type": "short_answer",
+      "text": "Sample social_studies question 98 for 7th_grade.",
+      "correct_answer": "Answer 98",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_99",
+      "type": "short_answer",
+      "text": "Sample social_studies question 99 for 7th_grade.",
+      "correct_answer": "Answer 99",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_7_100",
+      "type": "short_answer",
+      "text": "Sample social_studies question 100 for 7th_grade.",
+      "correct_answer": "Answer 100",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    }
+  ]
+}

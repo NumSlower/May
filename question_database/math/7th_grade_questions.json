@@ -1,0 +1,981 @@
+{
+  "subject": "math",
+  "grade": "7th_grade",
+  "questions": [
+    {
+      "id": "math_7_1",
+      "type": "short_answer",
+      "text": "Solve for x: 0x + 7 = 0",
+      "correct_answer": "7",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_2",
+      "type": "multiple_choice",
+      "text": "What is 0% of 70?",
+      "options": [
+        "0.0",
+        "0"
+      ],
+      "correct_answer": "0.0",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_3",
+      "type": "short_answer",
+      "text": "Solve for x: 1x + 7 = 7",
+      "correct_answer": "6",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_4",
+      "type": "multiple_choice",
+      "text": "What is 1% of 70?",
+      "options": [
+        "0.7",
+        "1"
+      ],
+      "correct_answer": "0.7",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_5",
+      "type": "short_answer",
+      "text": "Solve for x: 2x + 7 = 14",
+      "correct_answer": "5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_6",
+      "type": "multiple_choice",
+      "text": "What is 2% of 70?",
+      "options": [
+        "1.4",
+        "2"
+      ],
+      "correct_answer": "1.4",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_7",
+      "type": "short_answer",
+      "text": "Solve for x: 3x + 7 = 21",
+      "correct_answer": "4",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_8",
+      "type": "multiple_choice",
+      "text": "What is 3% of 70?",
+      "options": [
+        "2.1",
+        "3"
+      ],
+      "correct_answer": "2.1",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_9",
+      "type": "short_answer",
+      "text": "Solve for x: 4x + 7 = 28",
+      "correct_answer": "3",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_10",
+      "type": "multiple_choice",
+      "text": "What is 4% of 70?",
+      "options": [
+        "2.8",
+        "4"
+      ],
+      "correct_answer": "2.8",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_11",
+      "type": "short_answer",
+      "text": "Solve for x: 5x + 7 = 35",
+      "correct_answer": "2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_12",
+      "type": "multiple_choice",
+      "text": "What is 5% of 70?",
+      "options": [
+        "3.5",
+        "5"
+      ],
+      "correct_answer": "3.5",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_13",
+      "type": "short_answer",
+      "text": "Solve for x: 6x + 7 = 42",
+      "correct_answer": "1",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_14",
+      "type": "multiple_choice",
+      "text": "What is 6% of 70?",
+      "options": [
+        "4.2",
+        "6"
+      ],
+      "correct_answer": "4.2",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_15",
+      "type": "short_answer",
+      "text": "Solve for x: 7x + 7 = 49",
+      "correct_answer": "0",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_16",
+      "type": "multiple_choice",
+      "text": "What is 7% of 70?",
+      "options": [
+        "4.9",
+        "7"
+      ],
+      "correct_answer": "4.9",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_17",
+      "type": "short_answer",
+      "text": "Solve for x: 8x + 7 = 56",
+      "correct_answer": "-1",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_18",
+      "type": "multiple_choice",
+      "text": "What is 8% of 70?",
+      "options": [
+        "5.6",
+        "8"
+      ],
+      "correct_answer": "5.6",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_19",
+      "type": "short_answer",
+      "text": "Solve for x: 9x + 7 = 63",
+      "correct_answer": "-2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_20",
+      "type": "multiple_choice",
+      "text": "What is 9% of 70?",
+      "options": [
+        "6.3",
+        "9"
+      ],
+      "correct_answer": "6.3",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_21",
+      "type": "short_answer",
+      "text": "Solve for x: 10x + 7 = 70",
+      "correct_answer": "-3",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_22",
+      "type": "multiple_choice",
+      "text": "What is 10% of 70?",
+      "options": [
+        "7.0",
+        "10"
+      ],
+      "correct_answer": "7.0",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_23",
+      "type": "short_answer",
+      "text": "Solve for x: 11x + 7 = 77",
+      "correct_answer": "-4",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_24",
+      "type": "multiple_choice",
+      "text": "What is 11% of 70?",
+      "options": [
+        "7.7",
+        "11"
+      ],
+      "correct_answer": "7.7",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_25",
+      "type": "short_answer",
+      "text": "Solve for x: 12x + 7 = 84",
+      "correct_answer": "-5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_26",
+      "type": "multiple_choice",
+      "text": "What is 12% of 70?",
+      "options": [
+        "8.4",
+        "12"
+      ],
+      "correct_answer": "8.4",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_27",
+      "type": "short_answer",
+      "text": "Solve for x: 13x + 7 = 91",
+      "correct_answer": "-6",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_28",
+      "type": "multiple_choice",
+      "text": "What is 13% of 70?",
+      "options": [
+        "9.1",
+        "13"
+      ],
+      "correct_answer": "9.1",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_29",
+      "type": "short_answer",
+      "text": "Solve for x: 14x + 7 = 98",
+      "correct_answer": "-7",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_30",
+      "type": "multiple_choice",
+      "text": "What is 14% of 70?",
+      "options": [
+        "9.8",
+        "14"
+      ],
+      "correct_answer": "9.8",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_31",
+      "type": "short_answer",
+      "text": "Solve for x: 15x + 7 = 105",
+      "correct_answer": "-8",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_32",
+      "type": "multiple_choice",
+      "text": "What is 15% of 70?",
+      "options": [
+        "10.5",
+        "15"
+      ],
+      "correct_answer": "10.5",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_33",
+      "type": "short_answer",
+      "text": "Solve for x: 16x + 7 = 112",
+      "correct_answer": "-9",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_34",
+      "type": "multiple_choice",
+      "text": "What is 16% of 70?",
+      "options": [
+        "11.2",
+        "16"
+      ],
+      "correct_answer": "11.2",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_35",
+      "type": "short_answer",
+      "text": "Solve for x: 17x + 7 = 119",
+      "correct_answer": "-10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_36",
+      "type": "multiple_choice",
+      "text": "What is 17% of 70?",
+      "options": [
+        "11.9",
+        "17"
+      ],
+      "correct_answer": "11.9",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_37",
+      "type": "short_answer",
+      "text": "Solve for x: 18x + 7 = 126",
+      "correct_answer": "-11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_38",
+      "type": "multiple_choice",
+      "text": "What is 18% of 70?",
+      "options": [
+        "12.6",
+        "18"
+      ],
+      "correct_answer": "12.6",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_39",
+      "type": "short_answer",
+      "text": "Solve for x: 19x + 7 = 133",
+      "correct_answer": "-12",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_40",
+      "type": "multiple_choice",
+      "text": "What is 19% of 70?",
+      "options": [
+        "13.3",
+        "19"
+      ],
+      "correct_answer": "13.3",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_41",
+      "type": "short_answer",
+      "text": "Solve for x: 20x + 7 = 140",
+      "correct_answer": "-13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_42",
+      "type": "multiple_choice",
+      "text": "What is 20% of 70?",
+      "options": [
+        "14.0",
+        "20"
+      ],
+      "correct_answer": "14.0",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_43",
+      "type": "short_answer",
+      "text": "Solve for x: 21x + 7 = 147",
+      "correct_answer": "-14",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_44",
+      "type": "multiple_choice",
+      "text": "What is 21% of 70?",
+      "options": [
+        "14.7",
+        "21"
+      ],
+      "correct_answer": "14.7",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_45",
+      "type": "short_answer",
+      "text": "Solve for x: 22x + 7 = 154",
+      "correct_answer": "-15",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_46",
+      "type": "multiple_choice",
+      "text": "What is 22% of 70?",
+      "options": [
+        "15.4",
+        "22"
+      ],
+      "correct_answer": "15.4",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_47",
+      "type": "short_answer",
+      "text": "Solve for x: 23x + 7 = 161",
+      "correct_answer": "-16",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_48",
+      "type": "multiple_choice",
+      "text": "What is 23% of 70?",
+      "options": [
+        "16.1",
+        "23"
+      ],
+      "correct_answer": "16.1",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_49",
+      "type": "short_answer",
+      "text": "Solve for x: 24x + 7 = 168",
+      "correct_answer": "-17",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_50",
+      "type": "multiple_choice",
+      "text": "What is 24% of 70?",
+      "options": [
+        "16.8",
+        "24"
+      ],
+      "correct_answer": "16.8",
+      "hint": "Think about the math concepts for grade 7.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_51",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 1. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "3.14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_52",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 2. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "12.56",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_53",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 3. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "28.26",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_54",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 4. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "50.24",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_55",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 5. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "78.5",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_56",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 1. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "3.14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_57",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 2. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "12.56",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_58",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 3. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "28.26",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_59",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 4. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "50.24",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_60",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 5. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "78.5",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_61",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 1. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "3.14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_62",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 2. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "12.56",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_63",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 3. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "28.26",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_64",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 4. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "50.24",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_65",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 5. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "78.5",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_66",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 1. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "3.14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_67",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 2. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "12.56",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_68",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 3. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "28.26",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_69",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 4. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "50.24",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_70",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 5. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "78.5",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_71",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 1. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "3.14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_72",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 2. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "12.56",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_73",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 3. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "28.26",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_74",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 4. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "50.24",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_75",
+      "type": "problem_solving",
+      "text": "Find the area of a circle with radius 5. Use \u03c0 \u2248 3.14.",
+      "steps_to_solve": [
+        "Use A = \u03c0r\u00b2"
+      ],
+      "correct_answer": "78.5",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_76",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 1?",
+      "correct_answer": "2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_77",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 2?",
+      "correct_answer": "8",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_78",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 3?",
+      "correct_answer": "18",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_79",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 1?",
+      "correct_answer": "17",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_80",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 2?",
+      "correct_answer": "5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_81",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 3?",
+      "correct_answer": "13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_82",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 1?",
+      "correct_answer": "10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_83",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 2?",
+      "correct_answer": "20",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_84",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 3?",
+      "correct_answer": "10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_85",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 1?",
+      "correct_answer": "5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_86",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 2?",
+      "correct_answer": "13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_87",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 3?",
+      "correct_answer": "25",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_88",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 1?",
+      "correct_answer": "2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_89",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 2?",
+      "correct_answer": "8",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_90",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 3?",
+      "correct_answer": "18",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_91",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 1?",
+      "correct_answer": "17",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_7_92",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 2?",
+      "correct_answer": "5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_93",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 3?",
+      "correct_answer": "13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_7_94",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 1?",
+      "correct_answer": "10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_7_95",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 2?",
+      "correct_answer": "20",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_96",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 3?",
+      "correct_answer": "10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_97",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 2 and 1?",
+      "correct_answer": "5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_7_98",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 3 and 2?",
+      "correct_answer": "13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_99",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 4 and 3?",
+      "correct_answer": "25",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_7_100",
+      "type": "short_answer",
+      "text": "What is the Pythagorean theorem applied to a triangle with legs 1 and 1?",
+      "correct_answer": "2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    }
+  ]
+}

@@ -1,0 +1,981 @@
+{
+  "subject": "math",
+  "grade": "5th_grade",
+  "questions": [
+    {
+      "id": "math_5_1",
+      "type": "short_answer",
+      "text": "What is 0 \u00d7 5?",
+      "correct_answer": "0",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_2",
+      "type": "multiple_choice",
+      "text": "Divide 0 by 5.",
+      "options": [
+        "0",
+        "0"
+      ],
+      "correct_answer": "0",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_3",
+      "type": "short_answer",
+      "text": "What is 5 \u00d7 5?",
+      "correct_answer": "25",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_4",
+      "type": "multiple_choice",
+      "text": "Divide 10 by 5.",
+      "options": [
+        "2",
+        "1"
+      ],
+      "correct_answer": "2",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_5",
+      "type": "short_answer",
+      "text": "What is 10 \u00d7 5?",
+      "correct_answer": "50",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_6",
+      "type": "multiple_choice",
+      "text": "Divide 20 by 5.",
+      "options": [
+        "4",
+        "2"
+      ],
+      "correct_answer": "4",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_7",
+      "type": "short_answer",
+      "text": "What is 15 \u00d7 5?",
+      "correct_answer": "75",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_8",
+      "type": "multiple_choice",
+      "text": "Divide 30 by 5.",
+      "options": [
+        "6",
+        "3"
+      ],
+      "correct_answer": "6",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_9",
+      "type": "short_answer",
+      "text": "What is 20 \u00d7 5?",
+      "correct_answer": "100",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_10",
+      "type": "multiple_choice",
+      "text": "Divide 40 by 5.",
+      "options": [
+        "8",
+        "4"
+      ],
+      "correct_answer": "8",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_11",
+      "type": "short_answer",
+      "text": "What is 25 \u00d7 5?",
+      "correct_answer": "125",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_12",
+      "type": "multiple_choice",
+      "text": "Divide 50 by 5.",
+      "options": [
+        "10",
+        "5"
+      ],
+      "correct_answer": "10",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_13",
+      "type": "short_answer",
+      "text": "What is 30 \u00d7 5?",
+      "correct_answer": "150",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_14",
+      "type": "multiple_choice",
+      "text": "Divide 60 by 5.",
+      "options": [
+        "12",
+        "6"
+      ],
+      "correct_answer": "12",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_15",
+      "type": "short_answer",
+      "text": "What is 35 \u00d7 5?",
+      "correct_answer": "175",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_16",
+      "type": "multiple_choice",
+      "text": "Divide 70 by 5.",
+      "options": [
+        "14",
+        "7"
+      ],
+      "correct_answer": "14",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_17",
+      "type": "short_answer",
+      "text": "What is 40 \u00d7 5?",
+      "correct_answer": "200",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_18",
+      "type": "multiple_choice",
+      "text": "Divide 80 by 5.",
+      "options": [
+        "16",
+        "8"
+      ],
+      "correct_answer": "16",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_19",
+      "type": "short_answer",
+      "text": "What is 45 \u00d7 5?",
+      "correct_answer": "225",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_20",
+      "type": "multiple_choice",
+      "text": "Divide 90 by 5.",
+      "options": [
+        "18",
+        "9"
+      ],
+      "correct_answer": "18",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_21",
+      "type": "short_answer",
+      "text": "What is 50 \u00d7 5?",
+      "correct_answer": "250",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_22",
+      "type": "multiple_choice",
+      "text": "Divide 100 by 5.",
+      "options": [
+        "20",
+        "10"
+      ],
+      "correct_answer": "20",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_23",
+      "type": "short_answer",
+      "text": "What is 55 \u00d7 5?",
+      "correct_answer": "275",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_24",
+      "type": "multiple_choice",
+      "text": "Divide 110 by 5.",
+      "options": [
+        "22",
+        "11"
+      ],
+      "correct_answer": "22",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_25",
+      "type": "short_answer",
+      "text": "What is 60 \u00d7 5?",
+      "correct_answer": "300",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_26",
+      "type": "multiple_choice",
+      "text": "Divide 120 by 5.",
+      "options": [
+        "24",
+        "12"
+      ],
+      "correct_answer": "24",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_27",
+      "type": "short_answer",
+      "text": "What is 65 \u00d7 5?",
+      "correct_answer": "325",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_28",
+      "type": "multiple_choice",
+      "text": "Divide 130 by 5.",
+      "options": [
+        "26",
+        "13"
+      ],
+      "correct_answer": "26",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_29",
+      "type": "short_answer",
+      "text": "What is 70 \u00d7 5?",
+      "correct_answer": "350",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_30",
+      "type": "multiple_choice",
+      "text": "Divide 140 by 5.",
+      "options": [
+        "28",
+        "14"
+      ],
+      "correct_answer": "28",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_31",
+      "type": "short_answer",
+      "text": "What is 75 \u00d7 5?",
+      "correct_answer": "375",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_32",
+      "type": "multiple_choice",
+      "text": "Divide 150 by 5.",
+      "options": [
+        "30",
+        "15"
+      ],
+      "correct_answer": "30",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_33",
+      "type": "short_answer",
+      "text": "What is 80 \u00d7 5?",
+      "correct_answer": "400",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_34",
+      "type": "multiple_choice",
+      "text": "Divide 160 by 5.",
+      "options": [
+        "32",
+        "16"
+      ],
+      "correct_answer": "32",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_35",
+      "type": "short_answer",
+      "text": "What is 85 \u00d7 5?",
+      "correct_answer": "425",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_36",
+      "type": "multiple_choice",
+      "text": "Divide 170 by 5.",
+      "options": [
+        "34",
+        "17"
+      ],
+      "correct_answer": "34",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_37",
+      "type": "short_answer",
+      "text": "What is 90 \u00d7 5?",
+      "correct_answer": "450",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_38",
+      "type": "multiple_choice",
+      "text": "Divide 180 by 5.",
+      "options": [
+        "36",
+        "18"
+      ],
+      "correct_answer": "36",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_39",
+      "type": "short_answer",
+      "text": "What is 95 \u00d7 5?",
+      "correct_answer": "475",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_40",
+      "type": "multiple_choice",
+      "text": "Divide 190 by 5.",
+      "options": [
+        "38",
+        "19"
+      ],
+      "correct_answer": "38",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_41",
+      "type": "short_answer",
+      "text": "What is 100 \u00d7 5?",
+      "correct_answer": "500",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_42",
+      "type": "multiple_choice",
+      "text": "Divide 200 by 5.",
+      "options": [
+        "40",
+        "20"
+      ],
+      "correct_answer": "40",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_43",
+      "type": "short_answer",
+      "text": "What is 105 \u00d7 5?",
+      "correct_answer": "525",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_44",
+      "type": "multiple_choice",
+      "text": "Divide 210 by 5.",
+      "options": [
+        "42",
+        "21"
+      ],
+      "correct_answer": "42",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_45",
+      "type": "short_answer",
+      "text": "What is 110 \u00d7 5?",
+      "correct_answer": "550",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_46",
+      "type": "multiple_choice",
+      "text": "Divide 220 by 5.",
+      "options": [
+        "44",
+        "22"
+      ],
+      "correct_answer": "44",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_47",
+      "type": "short_answer",
+      "text": "What is 115 \u00d7 5?",
+      "correct_answer": "575",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_48",
+      "type": "multiple_choice",
+      "text": "Divide 230 by 5.",
+      "options": [
+        "46",
+        "23"
+      ],
+      "correct_answer": "46",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_49",
+      "type": "short_answer",
+      "text": "What is 120 \u00d7 5?",
+      "correct_answer": "600",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_50",
+      "type": "multiple_choice",
+      "text": "Divide 240 by 5.",
+      "options": [
+        "48",
+        "24"
+      ],
+      "correct_answer": "48",
+      "hint": "Think about the math concepts for grade 5.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_51",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 1 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "6",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_52",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 2 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "10",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_53",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 3 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_54",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 4 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "12",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_55",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 5 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "16",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_56",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 1 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "10",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_57",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 2 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "8",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_58",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 3 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "12",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_59",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 4 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "16",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_60",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 5 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_61",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 1 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "8",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_62",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 2 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "12",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_63",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 3 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "10",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_64",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 4 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_65",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 5 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "18",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_66",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 1 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "6",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_67",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 2 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "10",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_68",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 3 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_69",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 4 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "12",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_70",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 5 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "16",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_71",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 1 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "10",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_72",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 2 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "8",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_73",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 3 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "12",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_74",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 4 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "16",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_75",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 5 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_76",
+      "type": "short_answer",
+      "text": "Write 50 in words.",
+      "correct_answer": "0 hundred 5 ten 0",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_77",
+      "type": "short_answer",
+      "text": "Write 151 in words.",
+      "correct_answer": "1 hundred 5 ten 1",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_78",
+      "type": "short_answer",
+      "text": "Write 252 in words.",
+      "correct_answer": "2 hundred 5 ten 2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_79",
+      "type": "short_answer",
+      "text": "Write 353 in words.",
+      "correct_answer": "3 hundred 5 ten 3",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_80",
+      "type": "short_answer",
+      "text": "Write 454 in words.",
+      "correct_answer": "4 hundred 5 ten 4",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_81",
+      "type": "short_answer",
+      "text": "Write 555 in words.",
+      "correct_answer": "5 hundred 5 ten 5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_82",
+      "type": "short_answer",
+      "text": "Write 656 in words.",
+      "correct_answer": "6 hundred 5 ten 6",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_83",
+      "type": "short_answer",
+      "text": "Write 757 in words.",
+      "correct_answer": "7 hundred 5 ten 7",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_84",
+      "type": "short_answer",
+      "text": "Write 858 in words.",
+      "correct_answer": "8 hundred 5 ten 8",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_85",
+      "type": "short_answer",
+      "text": "Write 959 in words.",
+      "correct_answer": "9 hundred 5 ten 9",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_86",
+      "type": "short_answer",
+      "text": "Write 1060 in words.",
+      "correct_answer": "10 hundred 5 ten 10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_87",
+      "type": "short_answer",
+      "text": "Write 1161 in words.",
+      "correct_answer": "11 hundred 5 ten 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_5_88",
+      "type": "short_answer",
+      "text": "Write 1262 in words.",
+      "correct_answer": "12 hundred 5 ten 12",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_89",
+      "type": "short_answer",
+      "text": "Write 1363 in words.",
+      "correct_answer": "13 hundred 5 ten 13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_5_90",
+      "type": "short_answer",
+      "text": "Write 1464 in words.",
+      "correct_answer": "14 hundred 5 ten 14",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_91",
+      "type": "short_answer",
+      "text": "Write 1565 in words.",
+      "correct_answer": "15 hundred 5 ten 15",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_92",
+      "type": "short_answer",
+      "text": "Write 1666 in words.",
+      "correct_answer": "16 hundred 5 ten 16",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_93",
+      "type": "short_answer",
+      "text": "Write 1767 in words.",
+      "correct_answer": "17 hundred 5 ten 17",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_94",
+      "type": "short_answer",
+      "text": "Write 1868 in words.",
+      "correct_answer": "18 hundred 5 ten 18",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_95",
+      "type": "short_answer",
+      "text": "Write 1969 in words.",
+      "correct_answer": "19 hundred 5 ten 19",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_5_96",
+      "type": "short_answer",
+      "text": "Write 2070 in words.",
+      "correct_answer": "20 hundred 5 ten 20",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_97",
+      "type": "short_answer",
+      "text": "Write 2171 in words.",
+      "correct_answer": "21 hundred 5 ten 21",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_98",
+      "type": "short_answer",
+      "text": "Write 2272 in words.",
+      "correct_answer": "22 hundred 5 ten 22",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_5_99",
+      "type": "short_answer",
+      "text": "Write 2373 in words.",
+      "correct_answer": "23 hundred 5 ten 23",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_5_100",
+      "type": "short_answer",
+      "text": "Write 2474 in words.",
+      "correct_answer": "24 hundred 5 ten 24",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,981 @@
+{
+  "subject": "social_studies",
+  "grade": "1st_grade",
+  "questions": [
+    {
+      "id": "social_studies_1_1",
+      "type": "short_answer",
+      "text": "Name a job in the community like firefighter.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_2",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_3",
+      "type": "short_answer",
+      "text": "Name a job in the community like teacher.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_4",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_5",
+      "type": "short_answer",
+      "text": "Name a job in the community like doctor.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_6",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_7",
+      "type": "short_answer",
+      "text": "Name a job in the community like firefighter.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_8",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_9",
+      "type": "short_answer",
+      "text": "Name a job in the community like teacher.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_10",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_11",
+      "type": "short_answer",
+      "text": "Name a job in the community like doctor.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_12",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_13",
+      "type": "short_answer",
+      "text": "Name a job in the community like firefighter.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_14",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_15",
+      "type": "short_answer",
+      "text": "Name a job in the community like teacher.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_16",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_17",
+      "type": "short_answer",
+      "text": "Name a job in the community like doctor.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_18",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_19",
+      "type": "short_answer",
+      "text": "Name a job in the community like firefighter.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_20",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_21",
+      "type": "short_answer",
+      "text": "Name a job in the community like teacher.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_22",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_23",
+      "type": "short_answer",
+      "text": "Name a job in the community like doctor.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_24",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_25",
+      "type": "short_answer",
+      "text": "Name a job in the community like firefighter.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_26",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_27",
+      "type": "short_answer",
+      "text": "Name a job in the community like teacher.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_28",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_29",
+      "type": "short_answer",
+      "text": "Name a job in the community like doctor.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_30",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_31",
+      "type": "short_answer",
+      "text": "Name a job in the community like firefighter.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_32",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_33",
+      "type": "short_answer",
+      "text": "Name a job in the community like teacher.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_34",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_35",
+      "type": "short_answer",
+      "text": "Name a job in the community like doctor.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_36",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_37",
+      "type": "short_answer",
+      "text": "Name a job in the community like firefighter.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_38",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_39",
+      "type": "short_answer",
+      "text": "Name a job in the community like teacher.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_40",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_41",
+      "type": "short_answer",
+      "text": "Name a job in the community like doctor.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_42",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_43",
+      "type": "short_answer",
+      "text": "Name a job in the community like firefighter.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_44",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_45",
+      "type": "short_answer",
+      "text": "Name a job in the community like teacher.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_46",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_47",
+      "type": "short_answer",
+      "text": "Name a job in the community like doctor.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_48",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_49",
+      "type": "short_answer",
+      "text": "Name a job in the community like firefighter.",
+      "correct_answer": "Any job",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_50",
+      "type": "multiple_choice",
+      "text": "What\u2019s a holiday in winter?",
+      "options": [
+        "Christmas",
+        "Halloween"
+      ],
+      "correct_answer": "Christmas",
+      "hint": "Think about the social_studies concepts for grade 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_51",
+      "type": "problem_solving",
+      "text": "Why do we have 1 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_52",
+      "type": "problem_solving",
+      "text": "Why do we have 2 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_53",
+      "type": "problem_solving",
+      "text": "Why do we have 3 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_54",
+      "type": "problem_solving",
+      "text": "Why do we have 1 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_55",
+      "type": "problem_solving",
+      "text": "Why do we have 2 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_56",
+      "type": "problem_solving",
+      "text": "Why do we have 3 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_57",
+      "type": "problem_solving",
+      "text": "Why do we have 1 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_58",
+      "type": "problem_solving",
+      "text": "Why do we have 2 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_59",
+      "type": "problem_solving",
+      "text": "Why do we have 3 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_60",
+      "type": "problem_solving",
+      "text": "Why do we have 1 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_61",
+      "type": "problem_solving",
+      "text": "Why do we have 2 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_62",
+      "type": "problem_solving",
+      "text": "Why do we have 3 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_63",
+      "type": "problem_solving",
+      "text": "Why do we have 1 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_64",
+      "type": "problem_solving",
+      "text": "Why do we have 2 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_65",
+      "type": "problem_solving",
+      "text": "Why do we have 3 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_66",
+      "type": "problem_solving",
+      "text": "Why do we have 1 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_67",
+      "type": "problem_solving",
+      "text": "Why do we have 2 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_68",
+      "type": "problem_solving",
+      "text": "Why do we have 3 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_69",
+      "type": "problem_solving",
+      "text": "Why do we have 1 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_70",
+      "type": "problem_solving",
+      "text": "Why do we have 2 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_71",
+      "type": "problem_solving",
+      "text": "Why do we have 3 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_72",
+      "type": "problem_solving",
+      "text": "Why do we have 1 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_73",
+      "type": "problem_solving",
+      "text": "Why do we have 2 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_74",
+      "type": "problem_solving",
+      "text": "Why do we have 3 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_75",
+      "type": "problem_solving",
+      "text": "Why do we have 1 rules at home?",
+      "steps_to_solve": [
+        "To keep order"
+      ],
+      "correct_answer": "Safety/order",
+      "hint": "Break it down step-by-step using social_studies techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_76",
+      "type": "short_answer",
+      "text": "Sample social_studies question 76 for 1st_grade.",
+      "correct_answer": "Answer 76",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_77",
+      "type": "short_answer",
+      "text": "Sample social_studies question 77 for 1st_grade.",
+      "correct_answer": "Answer 77",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_78",
+      "type": "short_answer",
+      "text": "Sample social_studies question 78 for 1st_grade.",
+      "correct_answer": "Answer 78",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_79",
+      "type": "short_answer",
+      "text": "Sample social_studies question 79 for 1st_grade.",
+      "correct_answer": "Answer 79",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_80",
+      "type": "short_answer",
+      "text": "Sample social_studies question 80 for 1st_grade.",
+      "correct_answer": "Answer 80",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_81",
+      "type": "short_answer",
+      "text": "Sample social_studies question 81 for 1st_grade.",
+      "correct_answer": "Answer 81",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_82",
+      "type": "short_answer",
+      "text": "Sample social_studies question 82 for 1st_grade.",
+      "correct_answer": "Answer 82",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_83",
+      "type": "short_answer",
+      "text": "Sample social_studies question 83 for 1st_grade.",
+      "correct_answer": "Answer 83",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_84",
+      "type": "short_answer",
+      "text": "Sample social_studies question 84 for 1st_grade.",
+      "correct_answer": "Answer 84",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_85",
+      "type": "short_answer",
+      "text": "Sample social_studies question 85 for 1st_grade.",
+      "correct_answer": "Answer 85",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_86",
+      "type": "short_answer",
+      "text": "Sample social_studies question 86 for 1st_grade.",
+      "correct_answer": "Answer 86",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "social_studies_1_87",
+      "type": "short_answer",
+      "text": "Sample social_studies question 87 for 1st_grade.",
+      "correct_answer": "Answer 87",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_88",
+      "type": "short_answer",
+      "text": "Sample social_studies question 88 for 1st_grade.",
+      "correct_answer": "Answer 88",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_89",
+      "type": "short_answer",
+      "text": "Sample social_studies question 89 for 1st_grade.",
+      "correct_answer": "Answer 89",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "social_studies_1_90",
+      "type": "short_answer",
+      "text": "Sample social_studies question 90 for 1st_grade.",
+      "correct_answer": "Answer 90",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "social_studies_1_91",
+      "type": "short_answer",
+      "text": "Sample social_studies question 91 for 1st_grade.",
+      "correct_answer": "Answer 91",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_92",
+      "type": "short_answer",
+      "text": "Sample social_studies question 92 for 1st_grade.",
+      "correct_answer": "Answer 92",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_93",
+      "type": "short_answer",
+      "text": "Sample social_studies question 93 for 1st_grade.",
+      "correct_answer": "Answer 93",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_94",
+      "type": "short_answer",
+      "text": "Sample social_studies question 94 for 1st_grade.",
+      "correct_answer": "Answer 94",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_95",
+      "type": "short_answer",
+      "text": "Sample social_studies question 95 for 1st_grade.",
+      "correct_answer": "Answer 95",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_96",
+      "type": "short_answer",
+      "text": "Sample social_studies question 96 for 1st_grade.",
+      "correct_answer": "Answer 96",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_97",
+      "type": "short_answer",
+      "text": "Sample social_studies question 97 for 1st_grade.",
+      "correct_answer": "Answer 97",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "social_studies_1_98",
+      "type": "short_answer",
+      "text": "Sample social_studies question 98 for 1st_grade.",
+      "correct_answer": "Answer 98",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_99",
+      "type": "short_answer",
+      "text": "Sample social_studies question 99 for 1st_grade.",
+      "correct_answer": "Answer 99",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "social_studies_1_100",
+      "type": "short_answer",
+      "text": "Sample social_studies question 100 for 1st_grade.",
+      "correct_answer": "Answer 100",
+      "hint": "Consider basic social_studies principles for this grade level.",
+      "difficulty": 5
+    }
+  ]
+}

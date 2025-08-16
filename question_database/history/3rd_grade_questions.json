@@ -1,0 +1,981 @@
+{
+  "subject": "history",
+  "grade": "3rd_grade",
+  "questions": [
+    {
+      "id": "history_3_1",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_2",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_3",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_4",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_5",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_6",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_7",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_8",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_9",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_10",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_11",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_12",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_13",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_14",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_15",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_16",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_17",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_18",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_19",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_20",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_21",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_22",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_23",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_24",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_25",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_26",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_27",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_28",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_29",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_30",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_31",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_32",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_33",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_34",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_35",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_36",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_37",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_38",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_39",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_40",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_41",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_42",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_43",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_44",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_45",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_46",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_47",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_48",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_49",
+      "type": "short_answer",
+      "text": "Who was America\u2019s first president?",
+      "correct_answer": "George Washington",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_50",
+      "type": "multiple_choice",
+      "text": "Why did pilgrims come to America?",
+      "options": [
+        "Freedom",
+        "Gold"
+      ],
+      "correct_answer": "Freedom",
+      "hint": "Think about the history concepts for grade 3.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_51",
+      "type": "problem_solving",
+      "text": "How did 1 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_52",
+      "type": "problem_solving",
+      "text": "How did 2 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_53",
+      "type": "problem_solving",
+      "text": "How did 3 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_54",
+      "type": "problem_solving",
+      "text": "How did 1 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_55",
+      "type": "problem_solving",
+      "text": "How did 2 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_56",
+      "type": "problem_solving",
+      "text": "How did 3 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_57",
+      "type": "problem_solving",
+      "text": "How did 1 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_58",
+      "type": "problem_solving",
+      "text": "How did 2 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_59",
+      "type": "problem_solving",
+      "text": "How did 3 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_60",
+      "type": "problem_solving",
+      "text": "How did 1 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_61",
+      "type": "problem_solving",
+      "text": "How did 2 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_62",
+      "type": "problem_solving",
+      "text": "How did 3 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_63",
+      "type": "problem_solving",
+      "text": "How did 1 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_64",
+      "type": "problem_solving",
+      "text": "How did 2 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_65",
+      "type": "problem_solving",
+      "text": "How did 3 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_66",
+      "type": "problem_solving",
+      "text": "How did 1 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_67",
+      "type": "problem_solving",
+      "text": "How did 2 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_68",
+      "type": "problem_solving",
+      "text": "How did 3 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_69",
+      "type": "problem_solving",
+      "text": "How did 1 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_70",
+      "type": "problem_solving",
+      "text": "How did 2 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_71",
+      "type": "problem_solving",
+      "text": "How did 3 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_72",
+      "type": "problem_solving",
+      "text": "How did 1 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_73",
+      "type": "problem_solving",
+      "text": "How did 2 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_74",
+      "type": "problem_solving",
+      "text": "How did 3 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_75",
+      "type": "problem_solving",
+      "text": "How did 1 colonies unite?",
+      "steps_to_solve": [
+        "Formed agreements"
+      ],
+      "correct_answer": "United States",
+      "hint": "Break it down step-by-step using history techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_76",
+      "type": "short_answer",
+      "text": "Sample history question 76 for 3rd_grade.",
+      "correct_answer": "Answer 76",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_77",
+      "type": "short_answer",
+      "text": "Sample history question 77 for 3rd_grade.",
+      "correct_answer": "Answer 77",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_78",
+      "type": "short_answer",
+      "text": "Sample history question 78 for 3rd_grade.",
+      "correct_answer": "Answer 78",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_79",
+      "type": "short_answer",
+      "text": "Sample history question 79 for 3rd_grade.",
+      "correct_answer": "Answer 79",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_80",
+      "type": "short_answer",
+      "text": "Sample history question 80 for 3rd_grade.",
+      "correct_answer": "Answer 80",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_81",
+      "type": "short_answer",
+      "text": "Sample history question 81 for 3rd_grade.",
+      "correct_answer": "Answer 81",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_82",
+      "type": "short_answer",
+      "text": "Sample history question 82 for 3rd_grade.",
+      "correct_answer": "Answer 82",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_83",
+      "type": "short_answer",
+      "text": "Sample history question 83 for 3rd_grade.",
+      "correct_answer": "Answer 83",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_84",
+      "type": "short_answer",
+      "text": "Sample history question 84 for 3rd_grade.",
+      "correct_answer": "Answer 84",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_85",
+      "type": "short_answer",
+      "text": "Sample history question 85 for 3rd_grade.",
+      "correct_answer": "Answer 85",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_86",
+      "type": "short_answer",
+      "text": "Sample history question 86 for 3rd_grade.",
+      "correct_answer": "Answer 86",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_87",
+      "type": "short_answer",
+      "text": "Sample history question 87 for 3rd_grade.",
+      "correct_answer": "Answer 87",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_88",
+      "type": "short_answer",
+      "text": "Sample history question 88 for 3rd_grade.",
+      "correct_answer": "Answer 88",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_89",
+      "type": "short_answer",
+      "text": "Sample history question 89 for 3rd_grade.",
+      "correct_answer": "Answer 89",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_90",
+      "type": "short_answer",
+      "text": "Sample history question 90 for 3rd_grade.",
+      "correct_answer": "Answer 90",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "history_3_91",
+      "type": "short_answer",
+      "text": "Sample history question 91 for 3rd_grade.",
+      "correct_answer": "Answer 91",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_92",
+      "type": "short_answer",
+      "text": "Sample history question 92 for 3rd_grade.",
+      "correct_answer": "Answer 92",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_93",
+      "type": "short_answer",
+      "text": "Sample history question 93 for 3rd_grade.",
+      "correct_answer": "Answer 93",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_94",
+      "type": "short_answer",
+      "text": "Sample history question 94 for 3rd_grade.",
+      "correct_answer": "Answer 94",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "history_3_95",
+      "type": "short_answer",
+      "text": "Sample history question 95 for 3rd_grade.",
+      "correct_answer": "Answer 95",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_96",
+      "type": "short_answer",
+      "text": "Sample history question 96 for 3rd_grade.",
+      "correct_answer": "Answer 96",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "history_3_97",
+      "type": "short_answer",
+      "text": "Sample history question 97 for 3rd_grade.",
+      "correct_answer": "Answer 97",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_98",
+      "type": "short_answer",
+      "text": "Sample history question 98 for 3rd_grade.",
+      "correct_answer": "Answer 98",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "history_3_99",
+      "type": "short_answer",
+      "text": "Sample history question 99 for 3rd_grade.",
+      "correct_answer": "Answer 99",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "history_3_100",
+      "type": "short_answer",
+      "text": "Sample history question 100 for 3rd_grade.",
+      "correct_answer": "Answer 100",
+      "hint": "Consider basic history principles for this grade level.",
+      "difficulty": 3
+    }
+  ]
+}

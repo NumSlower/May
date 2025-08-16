@@ -1,0 +1,981 @@
+{
+  "subject": "science",
+  "grade": "4th_grade",
+  "questions": [
+    {
+      "id": "science_4_1",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_2",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_3",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_4",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_5",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_6",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_7",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_8",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_9",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_10",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_11",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_12",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_13",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_14",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_15",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_16",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_17",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_18",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_19",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_20",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_21",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_22",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_23",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_24",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_25",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_26",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_27",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_28",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_29",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_30",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_31",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_32",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_33",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_34",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_35",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_36",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_37",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_38",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_39",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_40",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_41",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_42",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_43",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_44",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_45",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_46",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_47",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_48",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_49",
+      "type": "short_answer",
+      "text": "What causes the day to turn into night?",
+      "correct_answer": "Earth's rotation",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_50",
+      "type": "multiple_choice",
+      "text": "Which state of matter is water in ice?",
+      "options": [
+        "Solid",
+        "Liquid"
+      ],
+      "correct_answer": "Solid",
+      "hint": "Think about the science concepts for grade 4.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_51",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 1 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_52",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 2 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_53",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 3 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_54",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 1 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_55",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 2 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_56",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 3 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_57",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 1 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_58",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 2 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_59",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 3 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_60",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 1 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_61",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 2 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_62",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 3 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_63",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 1 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_64",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 2 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_65",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 3 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_66",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 1 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_67",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 2 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_68",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 3 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_69",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 1 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_70",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 2 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_71",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 3 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_72",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 1 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_73",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 2 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_74",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 3 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_75",
+      "type": "problem_solving",
+      "text": "Describe how rain forms with 1 steps.",
+      "steps_to_solve": [
+        "Evaporation, condensation, precipitation"
+      ],
+      "correct_answer": "Water cycle",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_76",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with growth.",
+      "correct_answer": "leaves",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_77",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with support.",
+      "correct_answer": "stem",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_78",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with food.",
+      "correct_answer": "roots",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_4_79",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with growth.",
+      "correct_answer": "leaves",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_80",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with support.",
+      "correct_answer": "stem",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_81",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with food.",
+      "correct_answer": "roots",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_82",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with growth.",
+      "correct_answer": "leaves",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_83",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with support.",
+      "correct_answer": "stem",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_84",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with food.",
+      "correct_answer": "roots",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_85",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with growth.",
+      "correct_answer": "leaves",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_86",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with support.",
+      "correct_answer": "stem",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_87",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with food.",
+      "correct_answer": "roots",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_88",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with growth.",
+      "correct_answer": "leaves",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_89",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with support.",
+      "correct_answer": "stem",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_90",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with food.",
+      "correct_answer": "roots",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_91",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with growth.",
+      "correct_answer": "leaves",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_92",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with support.",
+      "correct_answer": "stem",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_93",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with food.",
+      "correct_answer": "roots",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_94",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with growth.",
+      "correct_answer": "leaves",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_95",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with support.",
+      "correct_answer": "stem",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_4_96",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with food.",
+      "correct_answer": "roots",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_97",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with growth.",
+      "correct_answer": "leaves",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_4_98",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with support.",
+      "correct_answer": "stem",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_4_99",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with food.",
+      "correct_answer": "roots",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_4_100",
+      "type": "short_answer",
+      "text": "Name a plant part that helps with growth.",
+      "correct_answer": "leaves",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    }
+  ]
+}

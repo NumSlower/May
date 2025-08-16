@@ -1,0 +1,806 @@
+{
+  "subject": "geography",
+  "grade": "12th_grade",
+  "questions": [
+    {
+      "id": "geography_12_1",
+      "type": "short_answer",
+      "text": "Sample geography question 1 for 12th_grade.",
+      "correct_answer": "Answer 1",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_2",
+      "type": "short_answer",
+      "text": "Sample geography question 2 for 12th_grade.",
+      "correct_answer": "Answer 2",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_3",
+      "type": "short_answer",
+      "text": "Sample geography question 3 for 12th_grade.",
+      "correct_answer": "Answer 3",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_4",
+      "type": "short_answer",
+      "text": "Sample geography question 4 for 12th_grade.",
+      "correct_answer": "Answer 4",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_5",
+      "type": "short_answer",
+      "text": "Sample geography question 5 for 12th_grade.",
+      "correct_answer": "Answer 5",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_6",
+      "type": "short_answer",
+      "text": "Sample geography question 6 for 12th_grade.",
+      "correct_answer": "Answer 6",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_7",
+      "type": "short_answer",
+      "text": "Sample geography question 7 for 12th_grade.",
+      "correct_answer": "Answer 7",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_8",
+      "type": "short_answer",
+      "text": "Sample geography question 8 for 12th_grade.",
+      "correct_answer": "Answer 8",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_9",
+      "type": "short_answer",
+      "text": "Sample geography question 9 for 12th_grade.",
+      "correct_answer": "Answer 9",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_10",
+      "type": "short_answer",
+      "text": "Sample geography question 10 for 12th_grade.",
+      "correct_answer": "Answer 10",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_11",
+      "type": "short_answer",
+      "text": "Sample geography question 11 for 12th_grade.",
+      "correct_answer": "Answer 11",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_12",
+      "type": "short_answer",
+      "text": "Sample geography question 12 for 12th_grade.",
+      "correct_answer": "Answer 12",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_13",
+      "type": "short_answer",
+      "text": "Sample geography question 13 for 12th_grade.",
+      "correct_answer": "Answer 13",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_14",
+      "type": "short_answer",
+      "text": "Sample geography question 14 for 12th_grade.",
+      "correct_answer": "Answer 14",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_15",
+      "type": "short_answer",
+      "text": "Sample geography question 15 for 12th_grade.",
+      "correct_answer": "Answer 15",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_16",
+      "type": "short_answer",
+      "text": "Sample geography question 16 for 12th_grade.",
+      "correct_answer": "Answer 16",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_17",
+      "type": "short_answer",
+      "text": "Sample geography question 17 for 12th_grade.",
+      "correct_answer": "Answer 17",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_18",
+      "type": "short_answer",
+      "text": "Sample geography question 18 for 12th_grade.",
+      "correct_answer": "Answer 18",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_19",
+      "type": "short_answer",
+      "text": "Sample geography question 19 for 12th_grade.",
+      "correct_answer": "Answer 19",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_20",
+      "type": "short_answer",
+      "text": "Sample geography question 20 for 12th_grade.",
+      "correct_answer": "Answer 20",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_21",
+      "type": "short_answer",
+      "text": "Sample geography question 21 for 12th_grade.",
+      "correct_answer": "Answer 21",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_22",
+      "type": "short_answer",
+      "text": "Sample geography question 22 for 12th_grade.",
+      "correct_answer": "Answer 22",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_23",
+      "type": "short_answer",
+      "text": "Sample geography question 23 for 12th_grade.",
+      "correct_answer": "Answer 23",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_24",
+      "type": "short_answer",
+      "text": "Sample geography question 24 for 12th_grade.",
+      "correct_answer": "Answer 24",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_25",
+      "type": "short_answer",
+      "text": "Sample geography question 25 for 12th_grade.",
+      "correct_answer": "Answer 25",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_26",
+      "type": "short_answer",
+      "text": "Sample geography question 26 for 12th_grade.",
+      "correct_answer": "Answer 26",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_27",
+      "type": "short_answer",
+      "text": "Sample geography question 27 for 12th_grade.",
+      "correct_answer": "Answer 27",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_28",
+      "type": "short_answer",
+      "text": "Sample geography question 28 for 12th_grade.",
+      "correct_answer": "Answer 28",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_29",
+      "type": "short_answer",
+      "text": "Sample geography question 29 for 12th_grade.",
+      "correct_answer": "Answer 29",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_30",
+      "type": "short_answer",
+      "text": "Sample geography question 30 for 12th_grade.",
+      "correct_answer": "Answer 30",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_31",
+      "type": "short_answer",
+      "text": "Sample geography question 31 for 12th_grade.",
+      "correct_answer": "Answer 31",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_32",
+      "type": "short_answer",
+      "text": "Sample geography question 32 for 12th_grade.",
+      "correct_answer": "Answer 32",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_33",
+      "type": "short_answer",
+      "text": "Sample geography question 33 for 12th_grade.",
+      "correct_answer": "Answer 33",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_34",
+      "type": "short_answer",
+      "text": "Sample geography question 34 for 12th_grade.",
+      "correct_answer": "Answer 34",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_35",
+      "type": "short_answer",
+      "text": "Sample geography question 35 for 12th_grade.",
+      "correct_answer": "Answer 35",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_36",
+      "type": "short_answer",
+      "text": "Sample geography question 36 for 12th_grade.",
+      "correct_answer": "Answer 36",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_37",
+      "type": "short_answer",
+      "text": "Sample geography question 37 for 12th_grade.",
+      "correct_answer": "Answer 37",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_38",
+      "type": "short_answer",
+      "text": "Sample geography question 38 for 12th_grade.",
+      "correct_answer": "Answer 38",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_39",
+      "type": "short_answer",
+      "text": "Sample geography question 39 for 12th_grade.",
+      "correct_answer": "Answer 39",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_40",
+      "type": "short_answer",
+      "text": "Sample geography question 40 for 12th_grade.",
+      "correct_answer": "Answer 40",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_41",
+      "type": "short_answer",
+      "text": "Sample geography question 41 for 12th_grade.",
+      "correct_answer": "Answer 41",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_42",
+      "type": "short_answer",
+      "text": "Sample geography question 42 for 12th_grade.",
+      "correct_answer": "Answer 42",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_43",
+      "type": "short_answer",
+      "text": "Sample geography question 43 for 12th_grade.",
+      "correct_answer": "Answer 43",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_44",
+      "type": "short_answer",
+      "text": "Sample geography question 44 for 12th_grade.",
+      "correct_answer": "Answer 44",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_45",
+      "type": "short_answer",
+      "text": "Sample geography question 45 for 12th_grade.",
+      "correct_answer": "Answer 45",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_46",
+      "type": "short_answer",
+      "text": "Sample geography question 46 for 12th_grade.",
+      "correct_answer": "Answer 46",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_47",
+      "type": "short_answer",
+      "text": "Sample geography question 47 for 12th_grade.",
+      "correct_answer": "Answer 47",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_48",
+      "type": "short_answer",
+      "text": "Sample geography question 48 for 12th_grade.",
+      "correct_answer": "Answer 48",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_49",
+      "type": "short_answer",
+      "text": "Sample geography question 49 for 12th_grade.",
+      "correct_answer": "Answer 49",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_50",
+      "type": "short_answer",
+      "text": "Sample geography question 50 for 12th_grade.",
+      "correct_answer": "Answer 50",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_51",
+      "type": "short_answer",
+      "text": "Sample geography question 51 for 12th_grade.",
+      "correct_answer": "Answer 51",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_52",
+      "type": "short_answer",
+      "text": "Sample geography question 52 for 12th_grade.",
+      "correct_answer": "Answer 52",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_53",
+      "type": "short_answer",
+      "text": "Sample geography question 53 for 12th_grade.",
+      "correct_answer": "Answer 53",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_54",
+      "type": "short_answer",
+      "text": "Sample geography question 54 for 12th_grade.",
+      "correct_answer": "Answer 54",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_55",
+      "type": "short_answer",
+      "text": "Sample geography question 55 for 12th_grade.",
+      "correct_answer": "Answer 55",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_56",
+      "type": "short_answer",
+      "text": "Sample geography question 56 for 12th_grade.",
+      "correct_answer": "Answer 56",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_57",
+      "type": "short_answer",
+      "text": "Sample geography question 57 for 12th_grade.",
+      "correct_answer": "Answer 57",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_58",
+      "type": "short_answer",
+      "text": "Sample geography question 58 for 12th_grade.",
+      "correct_answer": "Answer 58",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_59",
+      "type": "short_answer",
+      "text": "Sample geography question 59 for 12th_grade.",
+      "correct_answer": "Answer 59",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_60",
+      "type": "short_answer",
+      "text": "Sample geography question 60 for 12th_grade.",
+      "correct_answer": "Answer 60",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_61",
+      "type": "short_answer",
+      "text": "Sample geography question 61 for 12th_grade.",
+      "correct_answer": "Answer 61",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_62",
+      "type": "short_answer",
+      "text": "Sample geography question 62 for 12th_grade.",
+      "correct_answer": "Answer 62",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_63",
+      "type": "short_answer",
+      "text": "Sample geography question 63 for 12th_grade.",
+      "correct_answer": "Answer 63",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_64",
+      "type": "short_answer",
+      "text": "Sample geography question 64 for 12th_grade.",
+      "correct_answer": "Answer 64",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_65",
+      "type": "short_answer",
+      "text": "Sample geography question 65 for 12th_grade.",
+      "correct_answer": "Answer 65",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_66",
+      "type": "short_answer",
+      "text": "Sample geography question 66 for 12th_grade.",
+      "correct_answer": "Answer 66",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_67",
+      "type": "short_answer",
+      "text": "Sample geography question 67 for 12th_grade.",
+      "correct_answer": "Answer 67",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_68",
+      "type": "short_answer",
+      "text": "Sample geography question 68 for 12th_grade.",
+      "correct_answer": "Answer 68",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_69",
+      "type": "short_answer",
+      "text": "Sample geography question 69 for 12th_grade.",
+      "correct_answer": "Answer 69",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_70",
+      "type": "short_answer",
+      "text": "Sample geography question 70 for 12th_grade.",
+      "correct_answer": "Answer 70",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_71",
+      "type": "short_answer",
+      "text": "Sample geography question 71 for 12th_grade.",
+      "correct_answer": "Answer 71",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_72",
+      "type": "short_answer",
+      "text": "Sample geography question 72 for 12th_grade.",
+      "correct_answer": "Answer 72",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_73",
+      "type": "short_answer",
+      "text": "Sample geography question 73 for 12th_grade.",
+      "correct_answer": "Answer 73",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_74",
+      "type": "short_answer",
+      "text": "Sample geography question 74 for 12th_grade.",
+      "correct_answer": "Answer 74",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_75",
+      "type": "short_answer",
+      "text": "Sample geography question 75 for 12th_grade.",
+      "correct_answer": "Answer 75",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_76",
+      "type": "short_answer",
+      "text": "Sample geography question 76 for 12th_grade.",
+      "correct_answer": "Answer 76",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_77",
+      "type": "short_answer",
+      "text": "Sample geography question 77 for 12th_grade.",
+      "correct_answer": "Answer 77",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_78",
+      "type": "short_answer",
+      "text": "Sample geography question 78 for 12th_grade.",
+      "correct_answer": "Answer 78",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_79",
+      "type": "short_answer",
+      "text": "Sample geography question 79 for 12th_grade.",
+      "correct_answer": "Answer 79",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_80",
+      "type": "short_answer",
+      "text": "Sample geography question 80 for 12th_grade.",
+      "correct_answer": "Answer 80",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_81",
+      "type": "short_answer",
+      "text": "Sample geography question 81 for 12th_grade.",
+      "correct_answer": "Answer 81",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_82",
+      "type": "short_answer",
+      "text": "Sample geography question 82 for 12th_grade.",
+      "correct_answer": "Answer 82",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_83",
+      "type": "short_answer",
+      "text": "Sample geography question 83 for 12th_grade.",
+      "correct_answer": "Answer 83",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_84",
+      "type": "short_answer",
+      "text": "Sample geography question 84 for 12th_grade.",
+      "correct_answer": "Answer 84",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_85",
+      "type": "short_answer",
+      "text": "Sample geography question 85 for 12th_grade.",
+      "correct_answer": "Answer 85",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_86",
+      "type": "short_answer",
+      "text": "Sample geography question 86 for 12th_grade.",
+      "correct_answer": "Answer 86",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_87",
+      "type": "short_answer",
+      "text": "Sample geography question 87 for 12th_grade.",
+      "correct_answer": "Answer 87",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "geography_12_88",
+      "type": "short_answer",
+      "text": "Sample geography question 88 for 12th_grade.",
+      "correct_answer": "Answer 88",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_89",
+      "type": "short_answer",
+      "text": "Sample geography question 89 for 12th_grade.",
+      "correct_answer": "Answer 89",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_90",
+      "type": "short_answer",
+      "text": "Sample geography question 90 for 12th_grade.",
+      "correct_answer": "Answer 90",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_91",
+      "type": "short_answer",
+      "text": "Sample geography question 91 for 12th_grade.",
+      "correct_answer": "Answer 91",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_92",
+      "type": "short_answer",
+      "text": "Sample geography question 92 for 12th_grade.",
+      "correct_answer": "Answer 92",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_93",
+      "type": "short_answer",
+      "text": "Sample geography question 93 for 12th_grade.",
+      "correct_answer": "Answer 93",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_94",
+      "type": "short_answer",
+      "text": "Sample geography question 94 for 12th_grade.",
+      "correct_answer": "Answer 94",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_95",
+      "type": "short_answer",
+      "text": "Sample geography question 95 for 12th_grade.",
+      "correct_answer": "Answer 95",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "geography_12_96",
+      "type": "short_answer",
+      "text": "Sample geography question 96 for 12th_grade.",
+      "correct_answer": "Answer 96",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "geography_12_97",
+      "type": "short_answer",
+      "text": "Sample geography question 97 for 12th_grade.",
+      "correct_answer": "Answer 97",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "geography_12_98",
+      "type": "short_answer",
+      "text": "Sample geography question 98 for 12th_grade.",
+      "correct_answer": "Answer 98",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_99",
+      "type": "short_answer",
+      "text": "Sample geography question 99 for 12th_grade.",
+      "correct_answer": "Answer 99",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "geography_12_100",
+      "type": "short_answer",
+      "text": "Sample geography question 100 for 12th_grade.",
+      "correct_answer": "Answer 100",
+      "hint": "Consider basic geography principles for this grade level.",
+      "difficulty": 4
+    }
+  ]
+}

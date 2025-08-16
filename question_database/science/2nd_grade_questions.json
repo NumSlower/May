@@ -1,0 +1,981 @@
+{
+  "subject": "science",
+  "grade": "2nd_grade",
+  "questions": [
+    {
+      "id": "science_2_1",
+      "type": "short_answer",
+      "text": "Name an animal with fur.",
+      "correct_answer": "bear",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_2",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_3",
+      "type": "short_answer",
+      "text": "Name an animal with feathers.",
+      "correct_answer": "bird",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_4",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_5",
+      "type": "short_answer",
+      "text": "Name an animal with scales.",
+      "correct_answer": "fish",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_6",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_7",
+      "type": "short_answer",
+      "text": "Name an animal with fur.",
+      "correct_answer": "elephant",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_8",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_9",
+      "type": "short_answer",
+      "text": "Name an animal with feathers.",
+      "correct_answer": "snake",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_10",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_11",
+      "type": "short_answer",
+      "text": "Name an animal with scales.",
+      "correct_answer": "bear",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_12",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_13",
+      "type": "short_answer",
+      "text": "Name an animal with fur.",
+      "correct_answer": "bird",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_14",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_15",
+      "type": "short_answer",
+      "text": "Name an animal with feathers.",
+      "correct_answer": "fish",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_16",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_17",
+      "type": "short_answer",
+      "text": "Name an animal with scales.",
+      "correct_answer": "elephant",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_18",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_19",
+      "type": "short_answer",
+      "text": "Name an animal with fur.",
+      "correct_answer": "snake",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_20",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_21",
+      "type": "short_answer",
+      "text": "Name an animal with feathers.",
+      "correct_answer": "bear",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_22",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_23",
+      "type": "short_answer",
+      "text": "Name an animal with scales.",
+      "correct_answer": "bird",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_24",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_25",
+      "type": "short_answer",
+      "text": "Name an animal with fur.",
+      "correct_answer": "fish",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_26",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_27",
+      "type": "short_answer",
+      "text": "Name an animal with feathers.",
+      "correct_answer": "elephant",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_28",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_29",
+      "type": "short_answer",
+      "text": "Name an animal with scales.",
+      "correct_answer": "snake",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_30",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_31",
+      "type": "short_answer",
+      "text": "Name an animal with fur.",
+      "correct_answer": "bear",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_32",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_33",
+      "type": "short_answer",
+      "text": "Name an animal with feathers.",
+      "correct_answer": "bird",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_34",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_35",
+      "type": "short_answer",
+      "text": "Name an animal with scales.",
+      "correct_answer": "fish",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_36",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_37",
+      "type": "short_answer",
+      "text": "Name an animal with fur.",
+      "correct_answer": "elephant",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_38",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_39",
+      "type": "short_answer",
+      "text": "Name an animal with feathers.",
+      "correct_answer": "snake",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_40",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_41",
+      "type": "short_answer",
+      "text": "Name an animal with scales.",
+      "correct_answer": "bear",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_42",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_43",
+      "type": "short_answer",
+      "text": "Name an animal with fur.",
+      "correct_answer": "bird",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_44",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_45",
+      "type": "short_answer",
+      "text": "Name an animal with feathers.",
+      "correct_answer": "fish",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_46",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_47",
+      "type": "short_answer",
+      "text": "Name an animal with scales.",
+      "correct_answer": "elephant",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_48",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_49",
+      "type": "short_answer",
+      "text": "Name an animal with fur.",
+      "correct_answer": "snake",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_50",
+      "type": "multiple_choice",
+      "text": "What does a plant need most?",
+      "options": [
+        "Water",
+        "Candy"
+      ],
+      "correct_answer": "Water",
+      "hint": "Think about the science concepts for grade 2.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_51",
+      "type": "problem_solving",
+      "text": "If you see 1 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_52",
+      "type": "problem_solving",
+      "text": "If you see 2 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_53",
+      "type": "problem_solving",
+      "text": "If you see 3 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_54",
+      "type": "problem_solving",
+      "text": "If you see 1 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_55",
+      "type": "problem_solving",
+      "text": "If you see 2 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_56",
+      "type": "problem_solving",
+      "text": "If you see 3 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_57",
+      "type": "problem_solving",
+      "text": "If you see 1 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_58",
+      "type": "problem_solving",
+      "text": "If you see 2 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_59",
+      "type": "problem_solving",
+      "text": "If you see 3 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_60",
+      "type": "problem_solving",
+      "text": "If you see 1 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_61",
+      "type": "problem_solving",
+      "text": "If you see 2 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_62",
+      "type": "problem_solving",
+      "text": "If you see 3 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_63",
+      "type": "problem_solving",
+      "text": "If you see 1 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_64",
+      "type": "problem_solving",
+      "text": "If you see 2 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_65",
+      "type": "problem_solving",
+      "text": "If you see 3 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_66",
+      "type": "problem_solving",
+      "text": "If you see 1 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_67",
+      "type": "problem_solving",
+      "text": "If you see 2 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_68",
+      "type": "problem_solving",
+      "text": "If you see 3 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_69",
+      "type": "problem_solving",
+      "text": "If you see 1 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_70",
+      "type": "problem_solving",
+      "text": "If you see 2 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_71",
+      "type": "problem_solving",
+      "text": "If you see 3 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_72",
+      "type": "problem_solving",
+      "text": "If you see 1 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_73",
+      "type": "problem_solving",
+      "text": "If you see 2 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_74",
+      "type": "problem_solving",
+      "text": "If you see 3 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_75",
+      "type": "problem_solving",
+      "text": "If you see 1 clouds, will it rain soon?",
+      "steps_to_solve": [
+        "Clouds often mean rain."
+      ],
+      "correct_answer": "Maybe",
+      "hint": "Break it down step-by-step using science techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_76",
+      "type": "short_answer",
+      "text": "What season comes after fall?",
+      "correct_answer": "winter",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_77",
+      "type": "short_answer",
+      "text": "What season comes after winter?",
+      "correct_answer": "spring",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_78",
+      "type": "short_answer",
+      "text": "What season comes after spring?",
+      "correct_answer": "summer",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_79",
+      "type": "short_answer",
+      "text": "What season comes after fall?",
+      "correct_answer": "winter",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_80",
+      "type": "short_answer",
+      "text": "What season comes after winter?",
+      "correct_answer": "spring",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_81",
+      "type": "short_answer",
+      "text": "What season comes after spring?",
+      "correct_answer": "summer",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_82",
+      "type": "short_answer",
+      "text": "What season comes after fall?",
+      "correct_answer": "winter",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_83",
+      "type": "short_answer",
+      "text": "What season comes after winter?",
+      "correct_answer": "spring",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_84",
+      "type": "short_answer",
+      "text": "What season comes after spring?",
+      "correct_answer": "summer",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_85",
+      "type": "short_answer",
+      "text": "What season comes after fall?",
+      "correct_answer": "winter",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_86",
+      "type": "short_answer",
+      "text": "What season comes after winter?",
+      "correct_answer": "spring",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_87",
+      "type": "short_answer",
+      "text": "What season comes after spring?",
+      "correct_answer": "summer",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_88",
+      "type": "short_answer",
+      "text": "What season comes after fall?",
+      "correct_answer": "winter",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_89",
+      "type": "short_answer",
+      "text": "What season comes after winter?",
+      "correct_answer": "spring",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_90",
+      "type": "short_answer",
+      "text": "What season comes after spring?",
+      "correct_answer": "summer",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_91",
+      "type": "short_answer",
+      "text": "What season comes after fall?",
+      "correct_answer": "winter",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_92",
+      "type": "short_answer",
+      "text": "What season comes after winter?",
+      "correct_answer": "spring",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_93",
+      "type": "short_answer",
+      "text": "What season comes after spring?",
+      "correct_answer": "summer",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_94",
+      "type": "short_answer",
+      "text": "What season comes after fall?",
+      "correct_answer": "winter",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "science_2_95",
+      "type": "short_answer",
+      "text": "What season comes after winter?",
+      "correct_answer": "spring",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_96",
+      "type": "short_answer",
+      "text": "What season comes after spring?",
+      "correct_answer": "summer",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "science_2_97",
+      "type": "short_answer",
+      "text": "What season comes after fall?",
+      "correct_answer": "winter",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "science_2_98",
+      "type": "short_answer",
+      "text": "What season comes after winter?",
+      "correct_answer": "spring",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "science_2_99",
+      "type": "short_answer",
+      "text": "What season comes after spring?",
+      "correct_answer": "summer",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "science_2_100",
+      "type": "short_answer",
+      "text": "What season comes after fall?",
+      "correct_answer": "winter",
+      "hint": "Consider basic science principles for this grade level.",
+      "difficulty": 5
+    }
+  ]
+}

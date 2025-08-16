@@ -1,0 +1,981 @@
+{
+  "subject": "math",
+  "grade": "3rd_grade",
+  "questions": [
+    {
+      "id": "math_3_1",
+      "type": "short_answer",
+      "text": "What is 0 \u00d7 3?",
+      "correct_answer": "0",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_2",
+      "type": "multiple_choice",
+      "text": "Divide 0 by 3.",
+      "options": [
+        "0",
+        "0"
+      ],
+      "correct_answer": "0",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_3",
+      "type": "short_answer",
+      "text": "What is 3 \u00d7 3?",
+      "correct_answer": "9",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_4",
+      "type": "multiple_choice",
+      "text": "Divide 6 by 3.",
+      "options": [
+        "2",
+        "1"
+      ],
+      "correct_answer": "2",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_5",
+      "type": "short_answer",
+      "text": "What is 6 \u00d7 3?",
+      "correct_answer": "18",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_6",
+      "type": "multiple_choice",
+      "text": "Divide 12 by 3.",
+      "options": [
+        "4",
+        "2"
+      ],
+      "correct_answer": "4",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_7",
+      "type": "short_answer",
+      "text": "What is 9 \u00d7 3?",
+      "correct_answer": "27",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_8",
+      "type": "multiple_choice",
+      "text": "Divide 18 by 3.",
+      "options": [
+        "6",
+        "3"
+      ],
+      "correct_answer": "6",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_9",
+      "type": "short_answer",
+      "text": "What is 12 \u00d7 3?",
+      "correct_answer": "36",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_10",
+      "type": "multiple_choice",
+      "text": "Divide 24 by 3.",
+      "options": [
+        "8",
+        "4"
+      ],
+      "correct_answer": "8",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_11",
+      "type": "short_answer",
+      "text": "What is 15 \u00d7 3?",
+      "correct_answer": "45",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_12",
+      "type": "multiple_choice",
+      "text": "Divide 30 by 3.",
+      "options": [
+        "10",
+        "5"
+      ],
+      "correct_answer": "10",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_13",
+      "type": "short_answer",
+      "text": "What is 18 \u00d7 3?",
+      "correct_answer": "54",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_14",
+      "type": "multiple_choice",
+      "text": "Divide 36 by 3.",
+      "options": [
+        "12",
+        "6"
+      ],
+      "correct_answer": "12",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_15",
+      "type": "short_answer",
+      "text": "What is 21 \u00d7 3?",
+      "correct_answer": "63",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_16",
+      "type": "multiple_choice",
+      "text": "Divide 42 by 3.",
+      "options": [
+        "14",
+        "7"
+      ],
+      "correct_answer": "14",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_17",
+      "type": "short_answer",
+      "text": "What is 24 \u00d7 3?",
+      "correct_answer": "72",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_18",
+      "type": "multiple_choice",
+      "text": "Divide 48 by 3.",
+      "options": [
+        "16",
+        "8"
+      ],
+      "correct_answer": "16",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_19",
+      "type": "short_answer",
+      "text": "What is 27 \u00d7 3?",
+      "correct_answer": "81",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_20",
+      "type": "multiple_choice",
+      "text": "Divide 54 by 3.",
+      "options": [
+        "18",
+        "9"
+      ],
+      "correct_answer": "18",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_21",
+      "type": "short_answer",
+      "text": "What is 30 \u00d7 3?",
+      "correct_answer": "90",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_22",
+      "type": "multiple_choice",
+      "text": "Divide 60 by 3.",
+      "options": [
+        "20",
+        "10"
+      ],
+      "correct_answer": "20",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_23",
+      "type": "short_answer",
+      "text": "What is 33 \u00d7 3?",
+      "correct_answer": "99",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_24",
+      "type": "multiple_choice",
+      "text": "Divide 66 by 3.",
+      "options": [
+        "22",
+        "11"
+      ],
+      "correct_answer": "22",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_25",
+      "type": "short_answer",
+      "text": "What is 36 \u00d7 3?",
+      "correct_answer": "108",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_26",
+      "type": "multiple_choice",
+      "text": "Divide 72 by 3.",
+      "options": [
+        "24",
+        "12"
+      ],
+      "correct_answer": "24",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_27",
+      "type": "short_answer",
+      "text": "What is 39 \u00d7 3?",
+      "correct_answer": "117",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_28",
+      "type": "multiple_choice",
+      "text": "Divide 78 by 3.",
+      "options": [
+        "26",
+        "13"
+      ],
+      "correct_answer": "26",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_29",
+      "type": "short_answer",
+      "text": "What is 42 \u00d7 3?",
+      "correct_answer": "126",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_30",
+      "type": "multiple_choice",
+      "text": "Divide 84 by 3.",
+      "options": [
+        "28",
+        "14"
+      ],
+      "correct_answer": "28",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_31",
+      "type": "short_answer",
+      "text": "What is 45 \u00d7 3?",
+      "correct_answer": "135",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_32",
+      "type": "multiple_choice",
+      "text": "Divide 90 by 3.",
+      "options": [
+        "30",
+        "15"
+      ],
+      "correct_answer": "30",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_33",
+      "type": "short_answer",
+      "text": "What is 48 \u00d7 3?",
+      "correct_answer": "144",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_34",
+      "type": "multiple_choice",
+      "text": "Divide 96 by 3.",
+      "options": [
+        "32",
+        "16"
+      ],
+      "correct_answer": "32",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_35",
+      "type": "short_answer",
+      "text": "What is 51 \u00d7 3?",
+      "correct_answer": "153",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_36",
+      "type": "multiple_choice",
+      "text": "Divide 102 by 3.",
+      "options": [
+        "34",
+        "17"
+      ],
+      "correct_answer": "34",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_37",
+      "type": "short_answer",
+      "text": "What is 54 \u00d7 3?",
+      "correct_answer": "162",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_38",
+      "type": "multiple_choice",
+      "text": "Divide 108 by 3.",
+      "options": [
+        "36",
+        "18"
+      ],
+      "correct_answer": "36",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_39",
+      "type": "short_answer",
+      "text": "What is 57 \u00d7 3?",
+      "correct_answer": "171",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_40",
+      "type": "multiple_choice",
+      "text": "Divide 114 by 3.",
+      "options": [
+        "38",
+        "19"
+      ],
+      "correct_answer": "38",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_41",
+      "type": "short_answer",
+      "text": "What is 60 \u00d7 3?",
+      "correct_answer": "180",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_42",
+      "type": "multiple_choice",
+      "text": "Divide 120 by 3.",
+      "options": [
+        "40",
+        "20"
+      ],
+      "correct_answer": "40",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_43",
+      "type": "short_answer",
+      "text": "What is 63 \u00d7 3?",
+      "correct_answer": "189",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_44",
+      "type": "multiple_choice",
+      "text": "Divide 126 by 3.",
+      "options": [
+        "42",
+        "21"
+      ],
+      "correct_answer": "42",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_45",
+      "type": "short_answer",
+      "text": "What is 66 \u00d7 3?",
+      "correct_answer": "198",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_46",
+      "type": "multiple_choice",
+      "text": "Divide 132 by 3.",
+      "options": [
+        "44",
+        "22"
+      ],
+      "correct_answer": "44",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_47",
+      "type": "short_answer",
+      "text": "What is 69 \u00d7 3?",
+      "correct_answer": "207",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_48",
+      "type": "multiple_choice",
+      "text": "Divide 138 by 3.",
+      "options": [
+        "46",
+        "23"
+      ],
+      "correct_answer": "46",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_49",
+      "type": "short_answer",
+      "text": "What is 72 \u00d7 3?",
+      "correct_answer": "216",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_50",
+      "type": "multiple_choice",
+      "text": "Divide 144 by 3.",
+      "options": [
+        "48",
+        "24"
+      ],
+      "correct_answer": "48",
+      "hint": "Think about the math concepts for grade 3.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_51",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 1 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "6",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_52",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 2 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "10",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_53",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 3 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_54",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 4 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "12",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_55",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 5 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "16",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_56",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 1 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "10",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_57",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 2 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "8",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_58",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 3 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "12",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_59",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 4 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "16",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_60",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 5 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_61",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 1 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "8",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_62",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 2 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "12",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_63",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 3 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "10",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_64",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 4 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_65",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 5 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "18",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_66",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 1 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "6",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_67",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 2 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "10",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_68",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 3 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_69",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 4 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "12",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_70",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 5 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "16",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_71",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 1 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "10",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_72",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 2 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "8",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_73",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 3 and 3.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "12",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_74",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 4 and 4.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "16",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_75",
+      "type": "problem_solving",
+      "text": "Find the perimeter of a rectangle with sides 5 and 2.",
+      "steps_to_solve": [
+        "Add all sides: 2 \u00d7 length + 2 \u00d7 width"
+      ],
+      "correct_answer": "14",
+      "hint": "Break it down step-by-step using math techniques.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_76",
+      "type": "short_answer",
+      "text": "Write 30 in words.",
+      "correct_answer": "0 hundred 3 ten 0",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_77",
+      "type": "short_answer",
+      "text": "Write 131 in words.",
+      "correct_answer": "1 hundred 3 ten 1",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_78",
+      "type": "short_answer",
+      "text": "Write 232 in words.",
+      "correct_answer": "2 hundred 3 ten 2",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_79",
+      "type": "short_answer",
+      "text": "Write 333 in words.",
+      "correct_answer": "3 hundred 3 ten 3",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_80",
+      "type": "short_answer",
+      "text": "Write 434 in words.",
+      "correct_answer": "4 hundred 3 ten 4",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_81",
+      "type": "short_answer",
+      "text": "Write 535 in words.",
+      "correct_answer": "5 hundred 3 ten 5",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_82",
+      "type": "short_answer",
+      "text": "Write 636 in words.",
+      "correct_answer": "6 hundred 3 ten 6",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_83",
+      "type": "short_answer",
+      "text": "Write 737 in words.",
+      "correct_answer": "7 hundred 3 ten 7",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_84",
+      "type": "short_answer",
+      "text": "Write 838 in words.",
+      "correct_answer": "8 hundred 3 ten 8",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_85",
+      "type": "short_answer",
+      "text": "Write 939 in words.",
+      "correct_answer": "9 hundred 3 ten 9",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_86",
+      "type": "short_answer",
+      "text": "Write 1040 in words.",
+      "correct_answer": "10 hundred 3 ten 10",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_87",
+      "type": "short_answer",
+      "text": "Write 1141 in words.",
+      "correct_answer": "11 hundred 3 ten 11",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_88",
+      "type": "short_answer",
+      "text": "Write 1242 in words.",
+      "correct_answer": "12 hundred 3 ten 12",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 4
+    },
+    {
+      "id": "math_3_89",
+      "type": "short_answer",
+      "text": "Write 1343 in words.",
+      "correct_answer": "13 hundred 3 ten 13",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_90",
+      "type": "short_answer",
+      "text": "Write 1444 in words.",
+      "correct_answer": "14 hundred 3 ten 14",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_91",
+      "type": "short_answer",
+      "text": "Write 1545 in words.",
+      "correct_answer": "15 hundred 3 ten 15",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_92",
+      "type": "short_answer",
+      "text": "Write 1646 in words.",
+      "correct_answer": "16 hundred 3 ten 16",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_93",
+      "type": "short_answer",
+      "text": "Write 1747 in words.",
+      "correct_answer": "17 hundred 3 ten 17",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_94",
+      "type": "short_answer",
+      "text": "Write 1848 in words.",
+      "correct_answer": "18 hundred 3 ten 18",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_95",
+      "type": "short_answer",
+      "text": "Write 1949 in words.",
+      "correct_answer": "19 hundred 3 ten 19",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    },
+    {
+      "id": "math_3_96",
+      "type": "short_answer",
+      "text": "Write 2050 in words.",
+      "correct_answer": "20 hundred 3 ten 20",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_97",
+      "type": "short_answer",
+      "text": "Write 2151 in words.",
+      "correct_answer": "21 hundred 3 ten 21",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 3
+    },
+    {
+      "id": "math_3_98",
+      "type": "short_answer",
+      "text": "Write 2252 in words.",
+      "correct_answer": "22 hundred 3 ten 22",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 5
+    },
+    {
+      "id": "math_3_99",
+      "type": "short_answer",
+      "text": "Write 2353 in words.",
+      "correct_answer": "23 hundred 3 ten 23",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 2
+    },
+    {
+      "id": "math_3_100",
+      "type": "short_answer",
+      "text": "Write 2454 in words.",
+      "correct_answer": "24 hundred 3 ten 24",
+      "hint": "Consider basic math principles for this grade level.",
+      "difficulty": 1
+    }
+  ]
+}
