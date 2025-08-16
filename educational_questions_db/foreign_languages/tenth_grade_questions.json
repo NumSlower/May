@@ -1,0 +1,1507 @@
+{
+  "subject": "foreign_languages",
+  "grade": "tenth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "foreign_languages_10_6597",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_7094",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_2017",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_6742",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_8954",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_2513",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_7346",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_3443",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_4507",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_5928",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_6996",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_9868",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_7696",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_4974",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_8610",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_3790",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_5642",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_3661",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_5631",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_7572",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_6595",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_1247",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_5762",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_3896",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_8940",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_3848",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_6543",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_8812",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_6338",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_1911",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_9477",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_5069",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_1914",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_9306",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_8059",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_2946",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_3354",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_6276",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_9018",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_7089",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_8991",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_5438",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_1689",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_3816",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_3320",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_4131",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_7055",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_3702",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_4953",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_4506",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_3132",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_8165",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_7564",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_8332",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_5636",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_5382",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_8448",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_8432",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_7878",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_6298",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_7482",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_2702",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_6361",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_8550",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_8601",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_7155",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_7917",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_9706",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_6206",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_5901",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_3386",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_4275",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_6568",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_3114",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_8636",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_5072",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_8646",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_5316",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_3353",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_2897",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_8360",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_6678",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_4181",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_1210",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_7612",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_7330",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_2632",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_1376",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_4545",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_3120",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_9615",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_1607",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_7982",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_7995",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_4170",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_7972",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_3427",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_4353",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_4153",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_4739",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_8139",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_2819",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_3796",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_8965",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_8788",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_1841",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_5815",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_4536",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_5484",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_5727",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_1393",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_2905",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_9735",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_2769",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_7523",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_3398",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_5071",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_4172",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_3518",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_6988",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_6905",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_3834",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_5892",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_2820",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_8421",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_1527",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_8182",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_7920",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_5566",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_2970",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_9791",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_2760",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_7581",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_5611",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_3895",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_9822",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_3099",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_8744",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_2912",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_1456",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_3242",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_9367",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_6630",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_4215",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_10_2830",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_6373",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_4638",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_8368",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_10_3318",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_10_8740",
+      "subject": "foreign_languages",
+      "grade": "tenth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    }
+  ]
+}

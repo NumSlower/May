@@ -1,0 +1,1507 @@
+{
+  "subject": "science",
+  "grade": "seventh_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "science_7_5512",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_9585",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_7555",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_7755",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_5483",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4270",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_6045",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_8007",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3754",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_2648",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4646",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_2697",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_2641",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_2328",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_5163",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_1878",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_6578",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3059",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_8409",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_1225",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_4644",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_2537",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_1555",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_5248",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_1141",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_9411",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_7290",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3387",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_8610",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_7425",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_7876",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_2920",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_9719",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_8630",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_5448",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_8768",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_8913",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_3511",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4532",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_6579",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_2820",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_4645",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_5305",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_3284",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4606",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_8845",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_8496",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_2976",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_2086",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_4108",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_2728",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_2930",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_8342",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_2032",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4487",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_2514",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_9580",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_9043",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4867",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_8109",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_1323",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_4229",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_5610",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_7497",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_6189",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3030",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_7419",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_3101",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4525",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_1612",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_9463",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_9391",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_1835",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_4943",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_6856",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_4316",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_1522",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3709",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_6156",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_3411",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_7960",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_1784",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_4098",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4257",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_1543",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_2834",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_9305",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_7886",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_1078",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4032",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_6025",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3464",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_2185",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3105",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_6979",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_6148",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3804",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4096",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_6786",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4366",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_6922",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_2797",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_2130",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_6900",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_5827",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_6671",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_9272",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_9639",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_6630",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_6963",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_5489",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_6543",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_6998",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_6231",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_7691",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_6277",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_9121",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_8795",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3207",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_9102",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4307",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_8449",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_7782",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_8190",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_5025",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_7688",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_8905",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3136",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3239",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_5672",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_5718",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_1703",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_2567",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_5705",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_4442",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_2712",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_7381",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_1999",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_7842",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_4751",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_6261",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_4633",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_6733",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_7781",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_2367",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_6335",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_7_3204",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_8370",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_8743",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_7_3227",
+      "subject": "science",
+      "grade": "seventh_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    }
+  ]
+}

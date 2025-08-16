@@ -1,0 +1,1507 @@
+{
+  "subject": "english_language_arts",
+  "grade": "third_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "english_language_arts_3_9373",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_2930",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_6658",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_5495",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_2253",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_6847",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_4950",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_9774",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_2524",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_2394",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_8545",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_9507",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_9751",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_8812",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_3300",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_7570",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_2313",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_3194",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_2737",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_2278",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_6036",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_1971",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_8761",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_9261",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_4335",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_2994",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_4845",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_2999",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_2452",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_1484",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_7102",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_1198",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_3182",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_5035",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_5030",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_2396",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_3058",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_6806",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_5499",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_9895",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_7191",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_3891",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_7717",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_4924",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_9893",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_6408",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_8305",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_7770",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_4311",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_1310",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_9286",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_2312",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_4620",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_5401",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_3841",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_3843",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_9318",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_9764",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_5603",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_4472",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_6419",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_3855",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_6990",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_8042",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_6479",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_3551",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_5583",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_7947",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_6361",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_6911",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_3592",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_6138",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_4842",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_6225",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_9938",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_4633",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_3048",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_4376",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_3575",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_1825",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_2084",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_9804",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_8709",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_8951",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_8788",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_5238",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_5386",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_2480",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_7345",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_6316",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_6854",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_1946",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_5422",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_7017",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_5155",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_4569",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_8165",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_8803",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_9150",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_2296",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_9349",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_3071",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_3471",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_1254",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_2428",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_3587",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_2382",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_3999",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_7554",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_6434",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_9050",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_4436",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_9059",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_5228",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_6116",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_2028",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_9799",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_2363",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_7272",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_6997",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_5566",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_1709",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_3312",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_4455",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_7207",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_9420",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_9801",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_4534",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_5025",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_2018",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_4949",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_8817",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_1020",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_9064",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_5950",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_6801",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_8325",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_3705",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_9482",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_2778",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_3_6287",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_7842",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_9337",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_3_4746",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_7673",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_3_3372",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_2287",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_3830",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_6244",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_3_4405",
+      "subject": "english_language_arts",
+      "grade": "third_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    }
+  ]
+}

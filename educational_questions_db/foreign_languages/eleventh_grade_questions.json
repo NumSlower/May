@@ -1,0 +1,1507 @@
+{
+  "subject": "foreign_languages",
+  "grade": "eleventh_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "foreign_languages_11_1810",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_1579",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_3443",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_1086",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9699",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_4958",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_5207",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_4220",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_2753",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_6788",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_4883",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_7697",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_1449",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_5834",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_1311",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_4478",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_3669",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_2390",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_7408",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6079",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9687",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_1740",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6769",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_2548",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_4760",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_4888",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_2623",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_9797",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_3182",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9269",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_7605",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_4859",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9380",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_8808",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_7040",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_1419",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_6785",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_3638",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_3536",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_3238",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_5345",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_4020",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_8677",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_5147",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_7860",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_7509",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_9495",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_5271",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_7511",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_3598",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_8507",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9935",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_8501",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_8653",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9742",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_3361",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_7273",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_8422",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_7654",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_3415",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_1358",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_7074",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6305",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_2048",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_5146",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6300",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_3002",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_4593",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_5280",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_4994",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_3003",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_5397",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_1685",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6410",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_9518",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_8599",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_9871",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_4033",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_9471",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_5620",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_8184",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_4467",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9125",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_4930",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_1251",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_1242",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_5087",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_8857",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_3932",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_4283",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_6737",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_8041",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_3042",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_8518",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_8457",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6715",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_6972",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_4533",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9560",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9734",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9142",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_7890",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_5133",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6008",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_5215",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_7680",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_3852",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_2005",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_6135",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6394",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6401",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_6425",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_3256",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_8682",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_1138",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6472",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_9887",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_1042",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_3671",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_4904",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_5071",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_7597",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_3857",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9059",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_7608",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_7646",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_5898",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9798",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_5051",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_7805",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_1556",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_8284",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_3648",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_5280",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9488",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9269",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_5202",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_6462",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6948",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_9500",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_4615",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_3926",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6217",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_2829",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_3600",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_2297",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_7939",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_7235",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_11_6626",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_11_3313",
+      "subject": "foreign_languages",
+      "grade": "eleventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    }
+  ]
+}

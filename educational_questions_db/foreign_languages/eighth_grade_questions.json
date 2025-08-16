@@ -1,0 +1,1507 @@
+{
+  "subject": "foreign_languages",
+  "grade": "eighth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "foreign_languages_8_4320",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_2106",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_7056",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_8921",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_1146",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_2235",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_2382",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_9182",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_7321",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_9518",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_9524",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_1641",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_3810",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_8677",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_8119",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_6212",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_5611",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_1114",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_7922",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_5603",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_9654",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_7599",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_5362",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_2733",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_9648",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_1708",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_7651",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_7652",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_4557",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_4147",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_6227",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_7031",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_7321",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_8078",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_2932",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_2709",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_4351",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_1634",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_5792",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_3346",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_9736",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_2614",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_9688",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_2618",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_6532",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_4289",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_5700",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_2000",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_6631",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_6867",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_9741",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_1490",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_4859",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_8005",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_5529",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_2564",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_4926",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_2122",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_5923",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_4719",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_8967",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_7646",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_2393",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_8762",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_5035",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_2139",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_4300",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_4139",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_4166",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_8348",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_5910",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_5802",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_2709",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_9030",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_6143",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_5526",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_8005",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_2035",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_1096",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_9698",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_5143",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_4574",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_8786",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_9598",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_2509",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_1571",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_5625",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_7668",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_8394",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_7741",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_1810",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_3613",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_2366",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_2936",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_4245",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_7511",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_9249",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_7172",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_4065",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_2929",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_1450",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_3609",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_6323",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_4050",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_3830",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_4919",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_5542",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_6778",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_2569",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_6859",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_9909",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_3169",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_6221",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_9836",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_7628",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_7105",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_8557",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_5366",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_4486",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_2817",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_3522",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_3893",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_9507",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_3302",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_2789",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_3974",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_4032",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_8512",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_1928",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_5541",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_3589",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_1682",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_6844",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_5026",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_5571",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_7484",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_1241",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_8126",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_1184",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_8_4498",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_8866",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_2090",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_5898",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_1354",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_8678",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_9203",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_1171",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_3353",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_8_6865",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_8_3892",
+      "subject": "foreign_languages",
+      "grade": "eighth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    }
+  ]
+}

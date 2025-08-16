@@ -1,0 +1,1507 @@
+{
+  "subject": "english_language_arts",
+  "grade": "twelfth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "english_language_arts_12_1582",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_7860",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_7845",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_8633",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_4538",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_3212",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_3517",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_8407",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_1291",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_5777",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_9973",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_6759",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_9932",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_9026",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_1728",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_1575",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_1576",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_2006",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_4762",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_5981",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_2119",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_4203",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_3772",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_4038",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_2639",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_1096",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_8750",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_5692",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_2982",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_9693",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_3414",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_9894",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_1093",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_3344",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_4987",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_4564",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_4244",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_7711",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_5698",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_6907",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_5846",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_9963",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_3871",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_4476",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_3324",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_9353",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_3949",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_2171",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_1137",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_6015",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_5318",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_9311",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_8156",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_6132",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_5397",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_8405",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_3255",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_4644",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_1252",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_4746",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_9299",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_4875",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_5172",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_4139",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_4470",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_8835",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_8387",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_9820",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_6940",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_7937",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_7400",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_4489",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_3270",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_4236",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_8196",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_9204",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_7609",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_2410",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_8399",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_1946",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_2700",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_2471",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_5447",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_5594",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_2636",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_2298",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_1657",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_1381",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_9608",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_5271",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_9664",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_9174",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_7547",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_1560",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_4651",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_9997",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_8695",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_9015",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_9730",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_4008",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_9342",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_7502",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_4599",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_8035",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_5220",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_6855",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_7595",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_5825",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_7291",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_1349",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_7323",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_2373",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_6172",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_2510",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_6785",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_3333",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_1728",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_2139",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_8853",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_3230",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_6951",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_6389",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_4677",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_9239",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_1305",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_5889",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_1261",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_7346",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_2028",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_3651",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_1039",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_7403",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_9651",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_1491",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_3736",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_8125",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_9364",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_2831",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_1595",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_9532",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_6299",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_8776",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_12_2777",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_1031",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_8374",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_9910",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_12_6091",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_9359",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_12_2567",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_12_8904",
+      "subject": "english_language_arts",
+      "grade": "twelfth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    }
+  ]
+}

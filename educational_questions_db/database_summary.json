@@ -1,0 +1,162 @@
+{
+  "generation_timestamp": "1755347208.9249165",
+  "total_subjects": 6,
+  "subjects": [
+    "mathematics",
+    "science",
+    "english_language_arts",
+    "social_studies",
+    "computer_science",
+    "foreign_languages"
+  ],
+  "grade_levels": [
+    "kindergarten",
+    "first_grade",
+    "second_grade",
+    "third_grade",
+    "fourth_grade",
+    "fifth_grade",
+    "sixth_grade",
+    "seventh_grade",
+    "eighth_grade",
+    "ninth_grade",
+    "tenth_grade",
+    "eleventh_grade",
+    "twelfth_grade"
+  ],
+  "question_statistics": {
+    "mathematics": {
+      "total_questions": 1950,
+      "grades": {
+        "kindergarten": 150,
+        "first_grade": 150,
+        "second_grade": 150,
+        "third_grade": 150,
+        "fourth_grade": 150,
+        "fifth_grade": 150,
+        "sixth_grade": 150,
+        "seventh_grade": 150,
+        "eighth_grade": 150,
+        "ninth_grade": 150,
+        "tenth_grade": 150,
+        "eleventh_grade": 150,
+        "twelfth_grade": 150
+      },
+      "topics": [
+        "geometry",
+        "arithmetic",
+        "algebra",
+        "calculus",
+        "multiplication",
+        "division"
+      ]
+    },
+    "science": {
+      "total_questions": 1800,
+      "grades": {
+        "first_grade": 150,
+        "second_grade": 150,
+        "third_grade": 150,
+        "fourth_grade": 150,
+        "fifth_grade": 150,
+        "sixth_grade": 150,
+        "seventh_grade": 150,
+        "eighth_grade": 150,
+        "ninth_grade": 150,
+        "tenth_grade": 150,
+        "eleventh_grade": 150,
+        "twelfth_grade": 150
+      },
+      "topics": [
+        "physics",
+        "general_science",
+        "earth_science",
+        "chemistry",
+        "biology"
+      ]
+    },
+    "english_language_arts": {
+      "total_questions": 1800,
+      "grades": {
+        "first_grade": 150,
+        "second_grade": 150,
+        "third_grade": 150,
+        "fourth_grade": 150,
+        "fifth_grade": 150,
+        "sixth_grade": 150,
+        "seventh_grade": 150,
+        "eighth_grade": 150,
+        "ninth_grade": 150,
+        "tenth_grade": 150,
+        "eleventh_grade": 150,
+        "twelfth_grade": 150
+      },
+      "topics": [
+        "grammar",
+        "literature",
+        "writing",
+        "reading",
+        "vocabulary"
+      ]
+    },
+    "social_studies": {
+      "total_questions": 1650,
+      "grades": {
+        "second_grade": 150,
+        "third_grade": 150,
+        "fourth_grade": 150,
+        "fifth_grade": 150,
+        "sixth_grade": 150,
+        "seventh_grade": 150,
+        "eighth_grade": 150,
+        "ninth_grade": 150,
+        "tenth_grade": 150,
+        "eleventh_grade": 150,
+        "twelfth_grade": 150
+      },
+      "topics": [
+        "history",
+        "culture",
+        "geography",
+        "economics",
+        "civics"
+      ]
+    },
+    "computer_science": {
+      "total_questions": 1050,
+      "grades": {
+        "sixth_grade": 150,
+        "seventh_grade": 150,
+        "eighth_grade": 150,
+        "ninth_grade": 150,
+        "tenth_grade": 150,
+        "eleventh_grade": 150,
+        "twelfth_grade": 150
+      },
+      "topics": [
+        "web_development",
+        "data_structures",
+        "programming",
+        "algorithms"
+      ]
+    },
+    "foreign_languages": {
+      "total_questions": 1050,
+      "grades": {
+        "sixth_grade": 150,
+        "seventh_grade": 150,
+        "eighth_grade": 150,
+        "ninth_grade": 150,
+        "tenth_grade": 150,
+        "eleventh_grade": 150,
+        "twelfth_grade": 150
+      },
+      "topics": [
+        "grammar",
+        "culture",
+        "vocabulary"
+      ]
+    }
+  },
+  "total_questions": 9300
+}

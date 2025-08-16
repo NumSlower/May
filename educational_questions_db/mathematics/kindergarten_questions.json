@@ -1,0 +1,2257 @@
+{
+  "subject": "mathematics",
+  "grade": "kindergarten",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "mathematics_0_5924",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 + 16?",
+      "answer": "30",
+      "variables": {
+        "a": 14,
+        "b": 16,
+        "result": 30
+      }
+    },
+    {
+      "id": "mathematics_0_3823",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 12 + 5?",
+      "answer": "17",
+      "variables": {
+        "a": 12,
+        "b": 5,
+        "result": 17
+      }
+    },
+    {
+      "id": "mathematics_0_1780",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 18 + 20?",
+      "answer": "38",
+      "variables": {
+        "a": 18,
+        "b": 20,
+        "result": 38
+      }
+    },
+    {
+      "id": "mathematics_0_9873",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 10 + 12?",
+      "answer": "22",
+      "variables": {
+        "a": 10,
+        "b": 12,
+        "result": 22
+      }
+    },
+    {
+      "id": "mathematics_0_1682",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 18 + 17?",
+      "answer": "35",
+      "variables": {
+        "a": 18,
+        "b": 17,
+        "result": 35
+      }
+    },
+    {
+      "id": "mathematics_0_4853",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 - 11?",
+      "answer": "5",
+      "variables": {
+        "a": 16,
+        "b": 11,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_0_5985",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 17 - 2?",
+      "answer": "15",
+      "variables": {
+        "a": 17,
+        "b": 2,
+        "result": 15
+      }
+    },
+    {
+      "id": "mathematics_0_8050",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 20 - 9?",
+      "answer": "11",
+      "variables": {
+        "a": 20,
+        "b": 9,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_0_6951",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 13 + 18?",
+      "answer": "31",
+      "variables": {
+        "a": 13,
+        "b": 18,
+        "result": 31
+      }
+    },
+    {
+      "id": "mathematics_0_8736",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 18 - 6?",
+      "answer": "12",
+      "variables": {
+        "a": 18,
+        "b": 6,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_0_4127",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 4 + 8?",
+      "answer": "12",
+      "variables": {
+        "a": 4,
+        "b": 8,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_0_9333",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 20 - 12?",
+      "answer": "8",
+      "variables": {
+        "a": 20,
+        "b": 12,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_0_4445",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 17 - 7?",
+      "answer": "10",
+      "variables": {
+        "a": 17,
+        "b": 7,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_0_5397",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 + 4?",
+      "answer": "16",
+      "variables": {
+        "a": 12,
+        "b": 4,
+        "result": 16
+      }
+    },
+    {
+      "id": "mathematics_0_6540",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 16 - 11?",
+      "answer": "5",
+      "variables": {
+        "a": 16,
+        "b": 11,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_0_3861",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 - 6?",
+      "answer": "10",
+      "variables": {
+        "a": 16,
+        "b": 6,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_0_1535",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 7 + 16?",
+      "answer": "23",
+      "variables": {
+        "a": 7,
+        "b": 16,
+        "result": 23
+      }
+    },
+    {
+      "id": "mathematics_0_5362",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 3 - 2?",
+      "answer": "1",
+      "variables": {
+        "a": 3,
+        "b": 2,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_0_8730",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 17 - 9?",
+      "answer": "8",
+      "variables": {
+        "a": 17,
+        "b": 9,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_0_4049",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 6 + 13?",
+      "answer": "19",
+      "variables": {
+        "a": 6,
+        "b": 13,
+        "result": 19
+      }
+    },
+    {
+      "id": "mathematics_0_1026",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 13 - 10?",
+      "answer": "3",
+      "variables": {
+        "a": 13,
+        "b": 10,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_0_2697",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 18 - 6?",
+      "answer": "12",
+      "variables": {
+        "a": 18,
+        "b": 6,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_0_5707",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 19 - 4?",
+      "answer": "15",
+      "variables": {
+        "a": 19,
+        "b": 4,
+        "result": 15
+      }
+    },
+    {
+      "id": "mathematics_0_7593",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 8 + 20?",
+      "answer": "28",
+      "variables": {
+        "a": 8,
+        "b": 20,
+        "result": 28
+      }
+    },
+    {
+      "id": "mathematics_0_7714",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 17 - 16?",
+      "answer": "1",
+      "variables": {
+        "a": 17,
+        "b": 16,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_0_9394",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 10 + 1?",
+      "answer": "11",
+      "variables": {
+        "a": 10,
+        "b": 1,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_0_3409",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 18 - 6?",
+      "answer": "12",
+      "variables": {
+        "a": 18,
+        "b": 6,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_0_1985",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 4 - 1?",
+      "answer": "3",
+      "variables": {
+        "a": 4,
+        "b": 1,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_0_1507",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 15 - 6?",
+      "answer": "9",
+      "variables": {
+        "a": 15,
+        "b": 6,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_0_1749",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 17 + 20?",
+      "answer": "37",
+      "variables": {
+        "a": 17,
+        "b": 20,
+        "result": 37
+      }
+    },
+    {
+      "id": "mathematics_0_3330",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 19 - 2?",
+      "answer": "17",
+      "variables": {
+        "a": 19,
+        "b": 2,
+        "result": 17
+      }
+    },
+    {
+      "id": "mathematics_0_6570",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 18 + 13?",
+      "answer": "31",
+      "variables": {
+        "a": 18,
+        "b": 13,
+        "result": 31
+      }
+    },
+    {
+      "id": "mathematics_0_3514",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 2 + 18?",
+      "answer": "20",
+      "variables": {
+        "a": 2,
+        "b": 18,
+        "result": 20
+      }
+    },
+    {
+      "id": "mathematics_0_3527",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 + 20?",
+      "answer": "34",
+      "variables": {
+        "a": 14,
+        "b": 20,
+        "result": 34
+      }
+    },
+    {
+      "id": "mathematics_0_4610",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 4 + 19?",
+      "answer": "23",
+      "variables": {
+        "a": 4,
+        "b": 19,
+        "result": 23
+      }
+    },
+    {
+      "id": "mathematics_0_2785",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 10 - 8?",
+      "answer": "2",
+      "variables": {
+        "a": 10,
+        "b": 8,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_0_8131",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 14 + 19?",
+      "answer": "33",
+      "variables": {
+        "a": 14,
+        "b": 19,
+        "result": 33
+      }
+    },
+    {
+      "id": "mathematics_0_3015",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 7 + 7?",
+      "answer": "14",
+      "variables": {
+        "a": 7,
+        "b": 7,
+        "result": 14
+      }
+    },
+    {
+      "id": "mathematics_0_2978",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 20 - 12?",
+      "answer": "8",
+      "variables": {
+        "a": 20,
+        "b": 12,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_0_6573",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 18 - 3?",
+      "answer": "15",
+      "variables": {
+        "a": 18,
+        "b": 3,
+        "result": 15
+      }
+    },
+    {
+      "id": "mathematics_0_1192",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 + 7?",
+      "answer": "23",
+      "variables": {
+        "a": 16,
+        "b": 7,
+        "result": 23
+      }
+    },
+    {
+      "id": "mathematics_0_4728",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 19 + 19?",
+      "answer": "38",
+      "variables": {
+        "a": 19,
+        "b": 19,
+        "result": 38
+      }
+    },
+    {
+      "id": "mathematics_0_1334",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 20 - 12?",
+      "answer": "8",
+      "variables": {
+        "a": 20,
+        "b": 12,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_0_1368",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 - 1?",
+      "answer": "13",
+      "variables": {
+        "a": 14,
+        "b": 1,
+        "result": 13
+      }
+    },
+    {
+      "id": "mathematics_0_5449",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 15 - 7?",
+      "answer": "8",
+      "variables": {
+        "a": 15,
+        "b": 7,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_0_1312",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 3 + 5?",
+      "answer": "8",
+      "variables": {
+        "a": 3,
+        "b": 5,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_0_1399",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 8 - 3?",
+      "answer": "5",
+      "variables": {
+        "a": 8,
+        "b": 3,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_0_8997",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 19 - 12?",
+      "answer": "7",
+      "variables": {
+        "a": 19,
+        "b": 12,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_0_9497",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 + 5?",
+      "answer": "21",
+      "variables": {
+        "a": 16,
+        "b": 5,
+        "result": 21
+      }
+    },
+    {
+      "id": "mathematics_0_8404",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 17 - 7?",
+      "answer": "10",
+      "variables": {
+        "a": 17,
+        "b": 7,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_0_2902",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 15 - 2?",
+      "answer": "13",
+      "variables": {
+        "a": 15,
+        "b": 2,
+        "result": 13
+      }
+    },
+    {
+      "id": "mathematics_0_4288",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 8 - 7?",
+      "answer": "1",
+      "variables": {
+        "a": 8,
+        "b": 7,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_0_5120",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 11 - 5?",
+      "answer": "6",
+      "variables": {
+        "a": 11,
+        "b": 5,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_0_7673",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 7 + 8?",
+      "answer": "15",
+      "variables": {
+        "a": 7,
+        "b": 8,
+        "result": 15
+      }
+    },
+    {
+      "id": "mathematics_0_3940",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 6 - 5?",
+      "answer": "1",
+      "variables": {
+        "a": 6,
+        "b": 5,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_0_7280",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 17 - 11?",
+      "answer": "6",
+      "variables": {
+        "a": 17,
+        "b": 11,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_0_4103",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 16 - 6?",
+      "answer": "10",
+      "variables": {
+        "a": 16,
+        "b": 6,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_0_3560",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 8 - 6?",
+      "answer": "2",
+      "variables": {
+        "a": 8,
+        "b": 6,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_0_6903",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 17 + 1?",
+      "answer": "18",
+      "variables": {
+        "a": 17,
+        "b": 1,
+        "result": 18
+      }
+    },
+    {
+      "id": "mathematics_0_7803",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 16 - 10?",
+      "answer": "6",
+      "variables": {
+        "a": 16,
+        "b": 10,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_0_1090",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 1 + 15?",
+      "answer": "16",
+      "variables": {
+        "a": 1,
+        "b": 15,
+        "result": 16
+      }
+    },
+    {
+      "id": "mathematics_0_7630",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 20 - 10?",
+      "answer": "10",
+      "variables": {
+        "a": 20,
+        "b": 10,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_0_5031",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 12 + 17?",
+      "answer": "29",
+      "variables": {
+        "a": 12,
+        "b": 17,
+        "result": 29
+      }
+    },
+    {
+      "id": "mathematics_0_4116",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 7 + 9?",
+      "answer": "16",
+      "variables": {
+        "a": 7,
+        "b": 9,
+        "result": 16
+      }
+    },
+    {
+      "id": "mathematics_0_5830",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 10 - 7?",
+      "answer": "3",
+      "variables": {
+        "a": 10,
+        "b": 7,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_0_6009",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 15 - 6?",
+      "answer": "9",
+      "variables": {
+        "a": 15,
+        "b": 6,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_0_7997",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 15 + 5?",
+      "answer": "20",
+      "variables": {
+        "a": 15,
+        "b": 5,
+        "result": 20
+      }
+    },
+    {
+      "id": "mathematics_0_2406",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 19 - 9?",
+      "answer": "10",
+      "variables": {
+        "a": 19,
+        "b": 9,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_0_5729",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 4 - 3?",
+      "answer": "1",
+      "variables": {
+        "a": 4,
+        "b": 3,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_0_4255",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 7 + 15?",
+      "answer": "22",
+      "variables": {
+        "a": 7,
+        "b": 15,
+        "result": 22
+      }
+    },
+    {
+      "id": "mathematics_0_6339",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 12 + 9?",
+      "answer": "21",
+      "variables": {
+        "a": 12,
+        "b": 9,
+        "result": 21
+      }
+    },
+    {
+      "id": "mathematics_0_1121",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 8 - 1?",
+      "answer": "7",
+      "variables": {
+        "a": 8,
+        "b": 1,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_0_1404",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 2 + 17?",
+      "answer": "19",
+      "variables": {
+        "a": 2,
+        "b": 17,
+        "result": 19
+      }
+    },
+    {
+      "id": "mathematics_0_5697",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 13 - 9?",
+      "answer": "4",
+      "variables": {
+        "a": 13,
+        "b": 9,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_0_1599",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 11 - 9?",
+      "answer": "2",
+      "variables": {
+        "a": 11,
+        "b": 9,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_0_4887",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 - 5?",
+      "answer": "9",
+      "variables": {
+        "a": 14,
+        "b": 5,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_0_2475",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 1 + 16?",
+      "answer": "17",
+      "variables": {
+        "a": 1,
+        "b": 16,
+        "result": 17
+      }
+    },
+    {
+      "id": "mathematics_0_4351",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 7 - 4?",
+      "answer": "3",
+      "variables": {
+        "a": 7,
+        "b": 4,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_0_3131",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 11 - 4?",
+      "answer": "7",
+      "variables": {
+        "a": 11,
+        "b": 4,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_0_3787",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 13 + 11?",
+      "answer": "24",
+      "variables": {
+        "a": 13,
+        "b": 11,
+        "result": 24
+      }
+    },
+    {
+      "id": "mathematics_0_6880",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 1 + 17?",
+      "answer": "18",
+      "variables": {
+        "a": 1,
+        "b": 17,
+        "result": 18
+      }
+    },
+    {
+      "id": "mathematics_0_4911",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 17 - 1?",
+      "answer": "16",
+      "variables": {
+        "a": 17,
+        "b": 1,
+        "result": 16
+      }
+    },
+    {
+      "id": "mathematics_0_7509",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 15 + 19?",
+      "answer": "34",
+      "variables": {
+        "a": 15,
+        "b": 19,
+        "result": 34
+      }
+    },
+    {
+      "id": "mathematics_0_7079",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 3 - 3?",
+      "answer": "0",
+      "variables": {
+        "a": 3,
+        "b": 3,
+        "result": 0
+      }
+    },
+    {
+      "id": "mathematics_0_4399",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 19 + 5?",
+      "answer": "24",
+      "variables": {
+        "a": 19,
+        "b": 5,
+        "result": 24
+      }
+    },
+    {
+      "id": "mathematics_0_1185",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 10 + 12?",
+      "answer": "22",
+      "variables": {
+        "a": 10,
+        "b": 12,
+        "result": 22
+      }
+    },
+    {
+      "id": "mathematics_0_3197",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 10 + 12?",
+      "answer": "22",
+      "variables": {
+        "a": 10,
+        "b": 12,
+        "result": 22
+      }
+    },
+    {
+      "id": "mathematics_0_4431",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 19 + 19?",
+      "answer": "38",
+      "variables": {
+        "a": 19,
+        "b": 19,
+        "result": 38
+      }
+    },
+    {
+      "id": "mathematics_0_9541",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 12 - 11?",
+      "answer": "1",
+      "variables": {
+        "a": 12,
+        "b": 11,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_0_6307",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 7 + 9?",
+      "answer": "16",
+      "variables": {
+        "a": 7,
+        "b": 9,
+        "result": 16
+      }
+    },
+    {
+      "id": "mathematics_0_8211",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 18 - 7?",
+      "answer": "11",
+      "variables": {
+        "a": 18,
+        "b": 7,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_0_5462",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 - 4?",
+      "answer": "10",
+      "variables": {
+        "a": 14,
+        "b": 4,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_0_9813",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 6 - 2?",
+      "answer": "4",
+      "variables": {
+        "a": 6,
+        "b": 2,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_0_2194",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 1 + 4?",
+      "answer": "5",
+      "variables": {
+        "a": 1,
+        "b": 4,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_0_7922",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 8 + 8?",
+      "answer": "16",
+      "variables": {
+        "a": 8,
+        "b": 8,
+        "result": 16
+      }
+    },
+    {
+      "id": "mathematics_0_1133",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 17 + 8?",
+      "answer": "25",
+      "variables": {
+        "a": 17,
+        "b": 8,
+        "result": 25
+      }
+    },
+    {
+      "id": "mathematics_0_6210",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 18 - 16?",
+      "answer": "2",
+      "variables": {
+        "a": 18,
+        "b": 16,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_0_3688",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 18 + 6?",
+      "answer": "24",
+      "variables": {
+        "a": 18,
+        "b": 6,
+        "result": 24
+      }
+    },
+    {
+      "id": "mathematics_0_1668",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 2 - 2?",
+      "answer": "0",
+      "variables": {
+        "a": 2,
+        "b": 2,
+        "result": 0
+      }
+    },
+    {
+      "id": "mathematics_0_3919",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 15 + 11?",
+      "answer": "26",
+      "variables": {
+        "a": 15,
+        "b": 11,
+        "result": 26
+      }
+    },
+    {
+      "id": "mathematics_0_4710",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 15 - 10?",
+      "answer": "5",
+      "variables": {
+        "a": 15,
+        "b": 10,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_0_2384",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 4 + 15?",
+      "answer": "19",
+      "variables": {
+        "a": 4,
+        "b": 15,
+        "result": 19
+      }
+    },
+    {
+      "id": "mathematics_0_7414",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 20 - 6?",
+      "answer": "14",
+      "variables": {
+        "a": 20,
+        "b": 6,
+        "result": 14
+      }
+    },
+    {
+      "id": "mathematics_0_5689",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 - 6?",
+      "answer": "6",
+      "variables": {
+        "a": 12,
+        "b": 6,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_0_5519",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 - 8?",
+      "answer": "6",
+      "variables": {
+        "a": 14,
+        "b": 8,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_0_6273",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 4 + 16?",
+      "answer": "20",
+      "variables": {
+        "a": 4,
+        "b": 16,
+        "result": 20
+      }
+    },
+    {
+      "id": "mathematics_0_8445",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 - 6?",
+      "answer": "2",
+      "variables": {
+        "a": 8,
+        "b": 6,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_0_7457",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 13 - 4?",
+      "answer": "9",
+      "variables": {
+        "a": 13,
+        "b": 4,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_0_3640",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 17 - 13?",
+      "answer": "4",
+      "variables": {
+        "a": 17,
+        "b": 13,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_0_2937",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 20 - 17?",
+      "answer": "3",
+      "variables": {
+        "a": 20,
+        "b": 17,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_0_4629",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 4 + 15?",
+      "answer": "19",
+      "variables": {
+        "a": 4,
+        "b": 15,
+        "result": 19
+      }
+    },
+    {
+      "id": "mathematics_0_1156",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 17 - 16?",
+      "answer": "1",
+      "variables": {
+        "a": 17,
+        "b": 16,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_0_2868",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 10 + 9?",
+      "answer": "19",
+      "variables": {
+        "a": 10,
+        "b": 9,
+        "result": 19
+      }
+    },
+    {
+      "id": "mathematics_0_5110",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 + 17?",
+      "answer": "33",
+      "variables": {
+        "a": 16,
+        "b": 17,
+        "result": 33
+      }
+    },
+    {
+      "id": "mathematics_0_5320",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 12 + 14?",
+      "answer": "26",
+      "variables": {
+        "a": 12,
+        "b": 14,
+        "result": 26
+      }
+    },
+    {
+      "id": "mathematics_0_6839",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 - 4?",
+      "answer": "10",
+      "variables": {
+        "a": 14,
+        "b": 4,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_0_3320",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 1 + 10?",
+      "answer": "11",
+      "variables": {
+        "a": 1,
+        "b": 10,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_0_6219",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 12 + 20?",
+      "answer": "32",
+      "variables": {
+        "a": 12,
+        "b": 20,
+        "result": 32
+      }
+    },
+    {
+      "id": "mathematics_0_8033",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 15 - 14?",
+      "answer": "1",
+      "variables": {
+        "a": 15,
+        "b": 14,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_0_6280",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 5 + 4?",
+      "answer": "9",
+      "variables": {
+        "a": 5,
+        "b": 4,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_0_5928",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 - 1?",
+      "answer": "15",
+      "variables": {
+        "a": 16,
+        "b": 1,
+        "result": 15
+      }
+    },
+    {
+      "id": "mathematics_0_4472",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 18 + 3?",
+      "answer": "21",
+      "variables": {
+        "a": 18,
+        "b": 3,
+        "result": 21
+      }
+    },
+    {
+      "id": "mathematics_0_2867",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 15 + 1?",
+      "answer": "16",
+      "variables": {
+        "a": 15,
+        "b": 1,
+        "result": 16
+      }
+    },
+    {
+      "id": "mathematics_0_4958",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 19 + 4?",
+      "answer": "23",
+      "variables": {
+        "a": 19,
+        "b": 4,
+        "result": 23
+      }
+    },
+    {
+      "id": "mathematics_0_4096",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 6 - 2?",
+      "answer": "4",
+      "variables": {
+        "a": 6,
+        "b": 2,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_0_6956",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 20 - 14?",
+      "answer": "6",
+      "variables": {
+        "a": 20,
+        "b": 14,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_0_5192",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 12 + 2?",
+      "answer": "14",
+      "variables": {
+        "a": 12,
+        "b": 2,
+        "result": 14
+      }
+    },
+    {
+      "id": "mathematics_0_7518",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 19 + 9?",
+      "answer": "28",
+      "variables": {
+        "a": 19,
+        "b": 9,
+        "result": 28
+      }
+    },
+    {
+      "id": "mathematics_0_1183",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 4 + 16?",
+      "answer": "20",
+      "variables": {
+        "a": 4,
+        "b": 16,
+        "result": 20
+      }
+    },
+    {
+      "id": "mathematics_0_5211",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 11 - 6?",
+      "answer": "5",
+      "variables": {
+        "a": 11,
+        "b": 6,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_0_6800",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 9 - 1?",
+      "answer": "8",
+      "variables": {
+        "a": 9,
+        "b": 1,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_0_7054",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 4 + 4?",
+      "answer": "8",
+      "variables": {
+        "a": 4,
+        "b": 4,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_0_7660",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 7 + 6?",
+      "answer": "13",
+      "variables": {
+        "a": 7,
+        "b": 6,
+        "result": 13
+      }
+    },
+    {
+      "id": "mathematics_0_8121",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 6 + 17?",
+      "answer": "23",
+      "variables": {
+        "a": 6,
+        "b": 17,
+        "result": 23
+      }
+    },
+    {
+      "id": "mathematics_0_7137",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 15 + 15?",
+      "answer": "30",
+      "variables": {
+        "a": 15,
+        "b": 15,
+        "result": 30
+      }
+    },
+    {
+      "id": "mathematics_0_8553",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 - 7?",
+      "answer": "9",
+      "variables": {
+        "a": 16,
+        "b": 7,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_0_6667",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 20 - 16?",
+      "answer": "4",
+      "variables": {
+        "a": 20,
+        "b": 16,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_0_5673",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 4 + 9?",
+      "answer": "13",
+      "variables": {
+        "a": 4,
+        "b": 9,
+        "result": 13
+      }
+    },
+    {
+      "id": "mathematics_0_5776",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 15 - 9?",
+      "answer": "6",
+      "variables": {
+        "a": 15,
+        "b": 9,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_0_1465",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 5 + 7?",
+      "answer": "12",
+      "variables": {
+        "a": 5,
+        "b": 7,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_0_7720",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 17 + 8?",
+      "answer": "25",
+      "variables": {
+        "a": 17,
+        "b": 8,
+        "result": 25
+      }
+    },
+    {
+      "id": "mathematics_0_2182",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 17 - 5?",
+      "answer": "12",
+      "variables": {
+        "a": 17,
+        "b": 5,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_0_5702",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 10 + 10?",
+      "answer": "20",
+      "variables": {
+        "a": 10,
+        "b": 10,
+        "result": 20
+      }
+    },
+    {
+      "id": "mathematics_0_8735",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 - 15?",
+      "answer": "1",
+      "variables": {
+        "a": 16,
+        "b": 15,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_0_4683",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 - 11?",
+      "answer": "1",
+      "variables": {
+        "a": 12,
+        "b": 11,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_0_3320",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 17 + 3?",
+      "answer": "20",
+      "variables": {
+        "a": 17,
+        "b": 3,
+        "result": 20
+      }
+    },
+    {
+      "id": "mathematics_0_2733",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 + 9?",
+      "answer": "21",
+      "variables": {
+        "a": 12,
+        "b": 9,
+        "result": 21
+      }
+    },
+    {
+      "id": "mathematics_0_2153",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 + 19?",
+      "answer": "27",
+      "variables": {
+        "a": 8,
+        "b": 19,
+        "result": 27
+      }
+    },
+    {
+      "id": "mathematics_0_4744",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 15 + 15?",
+      "answer": "30",
+      "variables": {
+        "a": 15,
+        "b": 15,
+        "result": 30
+      }
+    },
+    {
+      "id": "mathematics_0_1711",
+      "subject": "mathematics",
+      "grade": "kindergarten",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 5 + 5?",
+      "answer": "10",
+      "variables": {
+        "a": 5,
+        "b": 5,
+        "result": 10
+      }
+    }
+  ]
+}

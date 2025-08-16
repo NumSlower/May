@@ -1,0 +1,1507 @@
+{
+  "subject": "social_studies",
+  "grade": "sixth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "social_studies_6_4317",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_8187",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_2403",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_5704",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_8792",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_4032",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_9047",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_8791",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_2176",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_8719",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_9874",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_6976",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_2177",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_2385",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_4073",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_9073",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_1525",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_9440",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_3391",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_4135",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_2546",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_5730",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_2023",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_1256",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_5318",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_4199",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_3668",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_3278",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_3317",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_4908",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_4258",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_4611",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_1274",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_1138",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_7408",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_7032",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_8958",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_3066",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_9226",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_2083",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_9993",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_3565",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_2948",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_8653",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_4069",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_6220",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_2205",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_7453",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_8257",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_2819",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_3127",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_3131",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_6329",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_6545",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_3208",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_9643",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_3936",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_8340",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_6912",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_5700",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_6188",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_8876",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_8678",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_4712",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_6901",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_6877",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_3552",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_9509",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_7862",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_5095",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_1649",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_7672",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_4356",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_6356",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_1860",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_4272",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_8034",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_6072",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_7411",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_6575",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_1667",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_8330",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_7720",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_2119",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_4825",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_1215",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_1551",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_9838",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_6337",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_6264",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_2303",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_1985",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_6264",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_7871",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_2221",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_6608",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_7995",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_1359",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_1994",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_4420",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_3133",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_5027",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_8569",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_9652",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_8521",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_5847",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_7943",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_2805",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_1334",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_6107",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_6714",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_4536",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_2595",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_5408",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_9705",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_1564",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_4644",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_9021",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_9820",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_2486",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_8826",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_9603",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_6884",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_1690",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_2571",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_5848",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_2873",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_5532",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_8154",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_1025",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_9980",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_6_4012",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_3369",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_7698",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_1153",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_9819",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_1305",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_2448",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_4116",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_6100",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_6575",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_2266",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_5748",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_6_9698",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_3359",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_6_1189",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_4831",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_5800",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_4528",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_6_5629",
+      "subject": "social_studies",
+      "grade": "sixth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    }
+  ]
+}

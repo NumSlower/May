@@ -1,0 +1,1507 @@
+{
+  "subject": "foreign_languages",
+  "grade": "twelfth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "foreign_languages_12_5375",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_7826",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_4875",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_5704",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_5563",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_6532",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_6613",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3755",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_2041",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_5046",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_8389",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_7267",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_8846",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_4248",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_6300",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_9783",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_5048",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_9919",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1798",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_4597",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1328",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_5684",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_2588",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_9932",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3705",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3903",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1675",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1832",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3894",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_8610",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_4356",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_9333",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_9620",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_8691",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_5791",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_6625",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_6627",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_6557",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_9305",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1613",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_5839",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1370",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_3407",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1417",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_6026",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_4027",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_9531",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_9080",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_7134",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_2540",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1617",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_3370",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_7334",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_6406",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3487",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_8731",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_3727",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_3836",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3167",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_2726",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_7073",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_8751",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1100",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_3967",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_9759",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_4865",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3402",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_7247",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_9743",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1646",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1970",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_6172",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_4904",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_3090",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3957",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1363",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_8394",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_7043",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1408",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_5830",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3090",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_4810",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_7158",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_6325",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_7788",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_8943",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1252",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_6709",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3639",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_8972",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3520",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_9267",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_2405",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_7752",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3098",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_9760",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_6631",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_3042",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_9651",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_2987",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_3437",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1886",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3009",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_7789",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_9425",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_5100",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1024",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_5251",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_3250",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3239",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_2594",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_5554",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3436",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1587",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_4498",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_2336",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3764",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_8840",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1384",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_6046",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_2200",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_8210",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_9013",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_7937",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_5198",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1121",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_7103",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_3746",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_6603",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1773",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_2958",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_9185",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_5703",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1107",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1063",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_5662",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1535",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_5234",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_7347",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_1504",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_5023",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_8554",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_4826",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_7961",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_1850",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_7338",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_7293",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_3894",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_12_9546",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_12_3608",
+      "subject": "foreign_languages",
+      "grade": "twelfth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    }
+  ]
+}

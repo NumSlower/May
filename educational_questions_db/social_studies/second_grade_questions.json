@@ -1,0 +1,1507 @@
+{
+  "subject": "social_studies",
+  "grade": "second_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "social_studies_2_6102",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5383",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3807",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9448",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7668",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8407",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8513",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5893",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9408",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6328",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_2026",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1469",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4208",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_2924",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9841",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7661",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4560",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_2598",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7033",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7045",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1679",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7096",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_2606",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1243",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5971",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3320",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1123",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5177",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6250",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8825",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5647",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6982",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1237",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1279",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1715",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8140",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8670",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7285",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7532",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5631",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5823",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9950",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9606",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7872",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5351",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7716",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3351",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4114",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5165",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8989",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7681",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8237",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3535",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9394",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_2403",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6407",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4692",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9599",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6785",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1904",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9968",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3505",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6857",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5631",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9097",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3644",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9951",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9213",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8158",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9334",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3009",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6156",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7766",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1198",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5611",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7123",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_2130",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8297",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3801",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6802",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1645",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9921",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4530",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1007",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7896",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4564",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3005",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4387",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_2156",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3067",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9160",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7779",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3928",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_2284",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7109",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5686",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1606",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4753",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8510",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4334",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4900",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9353",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_2324",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6471",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6894",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3163",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9055",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6902",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4781",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8175",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3813",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7016",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6176",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9964",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6814",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4216",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9242",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9123",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9974",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7654",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7711",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5703",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6741",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3813",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1033",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6756",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6940",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6310",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7326",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9172",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8178",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1646",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8584",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_4133",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_2504",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_5373",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8808",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8705",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6070",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_3029",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6113",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8689",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8273",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_7526",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_9546",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_1017",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6818",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6744",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_6043",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_2_8846",
+      "subject": "social_studies",
+      "grade": "second_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    }
+  ]
+}

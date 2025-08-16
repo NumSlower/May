@@ -1,0 +1,1507 @@
+{
+  "subject": "foreign_languages",
+  "grade": "seventh_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "foreign_languages_7_3718",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_4729",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_1772",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_2454",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_7714",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_6954",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_2243",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_5163",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_5261",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_3800",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_7424",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_4344",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_6611",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_7167",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_6410",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_9636",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_2657",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_5484",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_8815",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_5597",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_7025",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_2853",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_4921",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_1453",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_4434",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_3589",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_1916",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_3196",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_3564",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_9847",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_6704",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_4389",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_9180",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_4679",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_7458",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_7139",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_9281",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_1968",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_6442",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_4460",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_4550",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_9705",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_3156",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_3403",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_5783",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_6996",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_2884",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_9883",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_8379",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_9967",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_3533",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_4483",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_8070",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_1293",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_6754",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_2627",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_5571",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_4772",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_5715",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_4074",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_2410",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_2492",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_4826",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_9269",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_1801",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_9496",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_3657",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_3401",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_3042",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_1759",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_4642",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_9910",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_3490",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_9768",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_2781",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_1691",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_4842",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_8377",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_7593",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_3653",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_8553",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_1715",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_1575",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_9980",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_2812",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_8308",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_7006",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_3368",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_2000",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_8300",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_8870",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_3959",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_6383",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_8103",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_4852",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_4288",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_1643",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_1569",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_2706",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_7142",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_9891",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_1126",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_7667",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_2776",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_9305",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_4246",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_6293",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_5319",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_5907",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_8862",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_7372",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_2542",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_1556",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_1684",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_7552",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_9131",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_1680",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_5956",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_3597",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_6830",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_2759",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_7843",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_1050",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_9866",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_4439",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_6279",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_8221",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_2346",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_4061",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_4395",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_4633",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_8625",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_2142",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_2579",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_4747",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_4059",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_6944",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_5778",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_1975",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_2709",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_1266",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_4345",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_3416",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_7708",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_4829",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_9449",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    },
+    {
+      "id": "foreign_languages_7_9449",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "How do you say '{english_word}' in {language}?",
+      "answer": "{translation}"
+    },
+    {
+      "id": "foreign_languages_7_9632",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_2930",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Conjugate the verb '{verb}' in {tense} tense.",
+      "answer": "{conjugation}"
+    },
+    {
+      "id": "foreign_languages_7_8680",
+      "subject": "foreign_languages",
+      "grade": "seventh_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a famous landmark in {country}?",
+      "answer": "{landmark}"
+    }
+  ]
+}

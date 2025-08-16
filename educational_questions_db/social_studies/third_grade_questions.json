@@ -1,0 +1,1507 @@
+{
+  "subject": "social_studies",
+  "grade": "third_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "social_studies_3_6451",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_8802",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_9663",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_8845",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_3757",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_9680",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_7932",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_2805",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_2776",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_7214",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_3051",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_4656",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_9868",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_8186",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_3948",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_7472",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_4008",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_9529",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_1680",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_6508",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_7274",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_7211",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_6378",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_7339",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_4816",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_7663",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_6005",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_4374",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_1192",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_1546",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_8140",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_2800",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_1554",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_7672",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_7964",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_2485",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_1785",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_6058",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_6828",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_9372",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_1563",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_1527",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_9029",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_5986",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_4037",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_2219",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_2555",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_3663",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_6343",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_8417",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_1492",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_2529",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_3549",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_9520",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_4844",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_7188",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_9605",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_9028",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_3926",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_2765",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_5542",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_4872",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_1491",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_5585",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_6277",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_6491",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_8694",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_6330",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_7468",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_8538",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_6996",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_8297",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_1462",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_9993",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_5325",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_7345",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_9509",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_8389",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_1947",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_7097",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_1952",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_1729",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_1189",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_7449",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_2101",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_8168",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_1896",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_7245",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_4528",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_3585",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_2349",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_4842",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_2733",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_1837",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_7081",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_6010",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_6653",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_6235",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_2894",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_4893",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_1677",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_2080",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_3452",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_9904",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_9606",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_2814",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_9353",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_1896",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_6425",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_2395",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_2211",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_9785",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_1847",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_8248",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_7081",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_4039",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_8366",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_2002",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_8219",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_1726",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_8962",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_4547",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_9519",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_9860",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_5477",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_4065",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_8366",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_2520",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_8574",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_9727",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_7335",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_1170",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_8004",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_4831",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_8484",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_3341",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_3346",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_4775",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_8220",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_6784",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_2609",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_9202",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_5754",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_3_3644",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_1905",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_9671",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_7405",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "geography",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the capital of {state/country}?",
+      "answer": "{capital}"
+    },
+    {
+      "id": "social_studies_3_4687",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_6811",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "culture",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is a tradition from {culture}?",
+      "answer": "{tradition}"
+    },
+    {
+      "id": "social_studies_3_6733",
+      "subject": "social_studies",
+      "grade": "third_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    }
+  ]
+}

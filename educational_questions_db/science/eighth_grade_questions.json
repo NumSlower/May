@@ -1,0 +1,1507 @@
+{
+  "subject": "science",
+  "grade": "eighth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "science_8_9544",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_9835",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_2933",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_1022",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_4430",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_6675",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_5160",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_9472",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_1751",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_8999",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_6475",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_9085",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_3247",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_1516",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_2778",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_1082",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_6057",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_8355",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_8777",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_4830",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_2450",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_4713",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_2130",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_3662",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_9800",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_5885",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_3619",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_8283",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_8409",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_3642",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_9731",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_1505",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_2896",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_7892",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_1677",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_4834",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_2297",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_4373",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_1059",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_2109",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_6521",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_1815",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_9057",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_7397",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_2940",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_1130",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_6639",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_2960",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_5671",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_1258",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_3807",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_8806",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_7784",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_4209",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_5894",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_9968",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_7242",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_4382",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_9235",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_1587",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_4933",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_9816",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_1717",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_2437",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_8788",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_4698",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_9563",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_2799",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_8826",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_9140",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_1558",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_4843",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_7537",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_9309",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_5272",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_9682",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_1226",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_5555",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_2781",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_8368",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_9509",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_9043",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_4885",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_8981",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_6091",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_9510",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_4608",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_3321",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_9341",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_4291",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_6869",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_9300",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_8173",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_7417",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_5263",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_5850",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_7648",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_2105",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_7395",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_1203",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_4755",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_9427",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_9650",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_2255",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_3048",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_5123",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_5917",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_4671",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_3993",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_6665",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_5407",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_3016",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_6095",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_9449",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_9734",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_4732",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_1581",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_8211",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_7816",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_8249",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_9236",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_2538",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_2297",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_5272",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_1987",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_8829",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_2963",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_2712",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_7123",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_6976",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_5718",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_3842",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_1609",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_1296",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_1385",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_5870",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_3135",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_7648",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_1740",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_6904",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_4602",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "earth_science",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What causes the seasons on Earth?",
+      "answer": "Earth's tilted axis"
+    },
+    {
+      "id": "science_8_1188",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_7436",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_2128",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_3290",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_9345",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_4773",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_8_9118",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "id": "science_8_4417",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_8_9756",
+      "subject": "science",
+      "grade": "eighth_grade",
+      "topic": "biology",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What gas do plants use during photosynthesis?",
+      "answer": "Carbon dioxide"
+    }
+  ]
+}

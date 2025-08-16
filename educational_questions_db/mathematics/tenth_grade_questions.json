@@ -1,0 +1,1507 @@
+{
+  "subject": "mathematics",
+  "grade": "tenth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "mathematics_10_8291",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8307",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5796",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3529",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3197",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2358",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_9335",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3419",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2545",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1810",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4793",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3896",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4324",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2099",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4022",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1108",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3846",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2613",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5555",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1621",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6729",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5576",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7611",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2110",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2822",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6890",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1491",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4205",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7577",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1779",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5136",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8252",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8470",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5786",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1674",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6923",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8776",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1232",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4274",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2776",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_9753",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8776",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3373",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3052",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3892",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8807",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5941",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3397",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_9532",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1827",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8435",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1593",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2643",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4081",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5854",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1145",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7246",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7895",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7396",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5066",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1200",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1772",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2325",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1198",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6050",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2049",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1143",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7696",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8139",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5388",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7574",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5139",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2881",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8027",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3679",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6957",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7793",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6786",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4521",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7590",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3866",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6180",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2734",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4405",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_9843",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_9078",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6376",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_9827",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2362",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1718",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7181",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5318",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5392",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7009",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8099",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7142",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2746",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4477",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4494",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5796",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7681",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7551",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5624",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6321",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3296",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4275",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8691",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5260",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3402",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5846",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3901",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6376",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2818",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5082",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8913",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8292",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4748",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5326",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1017",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3310",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2357",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4684",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3803",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8994",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5223",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_9434",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2432",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2820",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_9389",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5293",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6594",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1396",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5834",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_6534",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2317",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_7392",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1854",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4301",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_3924",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4052",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_4468",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_5932",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_1942",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8726",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8306",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_9669",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_2395",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_9053",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_9104",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_10_8379",
+      "subject": "mathematics",
+      "grade": "tenth_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    }
+  ]
+}

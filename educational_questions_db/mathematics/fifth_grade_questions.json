@@ -1,0 +1,2112 @@
+{
+  "subject": "mathematics",
+  "grade": "fifth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "mathematics_5_8211",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 121 ÷ 11?",
+      "answer": "11",
+      "variables": {
+        "a": 121,
+        "b": 11,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_5_9295",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 7 + 10?",
+      "answer": "17",
+      "variables": {
+        "a": 7,
+        "b": 10,
+        "result": 17
+      }
+    },
+    {
+      "id": "mathematics_5_1131",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_6818",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 5 × 2?",
+      "answer": "10",
+      "variables": {
+        "a": 5,
+        "b": 2,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_5_9963",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_2891",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 + 9?",
+      "answer": "21",
+      "variables": {
+        "a": 12,
+        "b": 9,
+        "result": 21
+      }
+    },
+    {
+      "id": "mathematics_5_2300",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 4 ÷ 4?",
+      "answer": "1",
+      "variables": {
+        "a": 4,
+        "b": 4,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_5_5738",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 2 × 11?",
+      "answer": "22",
+      "variables": {
+        "a": 2,
+        "b": 11,
+        "result": 22
+      }
+    },
+    {
+      "id": "mathematics_5_1833",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 5 × 7?",
+      "answer": "35",
+      "variables": {
+        "a": 5,
+        "b": 7,
+        "result": 35
+      }
+    },
+    {
+      "id": "mathematics_5_7727",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 10 - 6?",
+      "answer": "4",
+      "variables": {
+        "a": 10,
+        "b": 6,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_5_5263",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 2 + 7?",
+      "answer": "9",
+      "variables": {
+        "a": 2,
+        "b": 7,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_5_7992",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_8298",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_2904",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 4 + 6?",
+      "answer": "10",
+      "variables": {
+        "a": 4,
+        "b": 6,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_5_3675",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 15 ÷ 3?",
+      "answer": "5",
+      "variables": {
+        "a": 15,
+        "b": 3,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_5_1926",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_6578",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 21 ÷ 3?",
+      "answer": "7",
+      "variables": {
+        "a": 21,
+        "b": 3,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_5_6433",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 10 × 4?",
+      "answer": "40",
+      "variables": {
+        "a": 10,
+        "b": 4,
+        "result": 40
+      }
+    },
+    {
+      "id": "mathematics_5_1363",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 11 × 3?",
+      "answer": "33",
+      "variables": {
+        "a": 11,
+        "b": 3,
+        "result": 33
+      }
+    },
+    {
+      "id": "mathematics_5_4422",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 9 × 11?",
+      "answer": "99",
+      "variables": {
+        "a": 9,
+        "b": 11,
+        "result": 99
+      }
+    },
+    {
+      "id": "mathematics_5_6144",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 14 ÷ 7?",
+      "answer": "2",
+      "variables": {
+        "a": 14,
+        "b": 7,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_5_4732",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 1 × 5?",
+      "answer": "5",
+      "variables": {
+        "a": 1,
+        "b": 5,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_5_4101",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 20 ÷ 4?",
+      "answer": "5",
+      "variables": {
+        "a": 20,
+        "b": 4,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_5_1803",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 11 × 11?",
+      "answer": "121",
+      "variables": {
+        "a": 11,
+        "b": 11,
+        "result": 121
+      }
+    },
+    {
+      "id": "mathematics_5_4499",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 4 - 3?",
+      "answer": "1",
+      "variables": {
+        "a": 4,
+        "b": 3,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_5_7709",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_7169",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 8 × 7?",
+      "answer": "56",
+      "variables": {
+        "a": 8,
+        "b": 7,
+        "result": 56
+      }
+    },
+    {
+      "id": "mathematics_5_3175",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 17 - 13?",
+      "answer": "4",
+      "variables": {
+        "a": 17,
+        "b": 13,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_5_3424",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_5882",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 12 ÷ 2?",
+      "answer": "6",
+      "variables": {
+        "a": 12,
+        "b": 2,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_5_4894",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_1678",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 13 + 12?",
+      "answer": "25",
+      "variables": {
+        "a": 13,
+        "b": 12,
+        "result": 25
+      }
+    },
+    {
+      "id": "mathematics_5_2069",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 + 8?",
+      "answer": "22",
+      "variables": {
+        "a": 14,
+        "b": 8,
+        "result": 22
+      }
+    },
+    {
+      "id": "mathematics_5_1060",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 8 + 6?",
+      "answer": "14",
+      "variables": {
+        "a": 8,
+        "b": 6,
+        "result": 14
+      }
+    },
+    {
+      "id": "mathematics_5_1938",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 4 + 1?",
+      "answer": "5",
+      "variables": {
+        "a": 4,
+        "b": 1,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_5_3832",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 18 - 11?",
+      "answer": "7",
+      "variables": {
+        "a": 18,
+        "b": 11,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_5_9123",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 15 - 8?",
+      "answer": "7",
+      "variables": {
+        "a": 15,
+        "b": 8,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_5_5012",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 8 × 7?",
+      "answer": "56",
+      "variables": {
+        "a": 8,
+        "b": 7,
+        "result": 56
+      }
+    },
+    {
+      "id": "mathematics_5_5478",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 9 + 10?",
+      "answer": "19",
+      "variables": {
+        "a": 9,
+        "b": 10,
+        "result": 19
+      }
+    },
+    {
+      "id": "mathematics_5_7779",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 12 + 11?",
+      "answer": "23",
+      "variables": {
+        "a": 12,
+        "b": 11,
+        "result": 23
+      }
+    },
+    {
+      "id": "mathematics_5_1625",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_2888",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 19 - 13?",
+      "answer": "6",
+      "variables": {
+        "a": 19,
+        "b": 13,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_5_6424",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 8 × 4?",
+      "answer": "32",
+      "variables": {
+        "a": 8,
+        "b": 4,
+        "result": 32
+      }
+    },
+    {
+      "id": "mathematics_5_2320",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_5911",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 20 - 18?",
+      "answer": "2",
+      "variables": {
+        "a": 20,
+        "b": 18,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_5_2688",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 108 ÷ 12?",
+      "answer": "9",
+      "variables": {
+        "a": 108,
+        "b": 12,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_5_3530",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 9 × 10?",
+      "answer": "90",
+      "variables": {
+        "a": 9,
+        "b": 10,
+        "result": 90
+      }
+    },
+    {
+      "id": "mathematics_5_6296",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 33 ÷ 11?",
+      "answer": "3",
+      "variables": {
+        "a": 33,
+        "b": 11,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_5_8192",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_3599",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 24 ÷ 4?",
+      "answer": "6",
+      "variables": {
+        "a": 24,
+        "b": 4,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_5_3885",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 18 ÷ 6?",
+      "answer": "3",
+      "variables": {
+        "a": 18,
+        "b": 6,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_5_5276",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 24 ÷ 8?",
+      "answer": "3",
+      "variables": {
+        "a": 24,
+        "b": 8,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_5_1976",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 15 + 10?",
+      "answer": "25",
+      "variables": {
+        "a": 15,
+        "b": 10,
+        "result": 25
+      }
+    },
+    {
+      "id": "mathematics_5_2541",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 16 + 8?",
+      "answer": "24",
+      "variables": {
+        "a": 16,
+        "b": 8,
+        "result": 24
+      }
+    },
+    {
+      "id": "mathematics_5_8391",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 56 ÷ 7?",
+      "answer": "8",
+      "variables": {
+        "a": 56,
+        "b": 7,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_5_8210",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 20 - 19?",
+      "answer": "1",
+      "variables": {
+        "a": 20,
+        "b": 19,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_5_4316",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 2 + 13?",
+      "answer": "15",
+      "variables": {
+        "a": 2,
+        "b": 13,
+        "result": 15
+      }
+    },
+    {
+      "id": "mathematics_5_1026",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 2 - 1?",
+      "answer": "1",
+      "variables": {
+        "a": 2,
+        "b": 1,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_5_6750",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 5 × 12?",
+      "answer": "60",
+      "variables": {
+        "a": 5,
+        "b": 12,
+        "result": 60
+      }
+    },
+    {
+      "id": "mathematics_5_4384",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_9909",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 70 ÷ 10?",
+      "answer": "7",
+      "variables": {
+        "a": 70,
+        "b": 10,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_5_7760",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 11 × 1?",
+      "answer": "11",
+      "variables": {
+        "a": 11,
+        "b": 1,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_5_6045",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 24 ÷ 3?",
+      "answer": "8",
+      "variables": {
+        "a": 24,
+        "b": 3,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_5_5460",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 12 ÷ 12?",
+      "answer": "1",
+      "variables": {
+        "a": 12,
+        "b": 12,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_5_6930",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 36 ÷ 3?",
+      "answer": "12",
+      "variables": {
+        "a": 36,
+        "b": 3,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_5_9220",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 15 + 4?",
+      "answer": "19",
+      "variables": {
+        "a": 15,
+        "b": 4,
+        "result": 19
+      }
+    },
+    {
+      "id": "mathematics_5_9508",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 16 - 12?",
+      "answer": "4",
+      "variables": {
+        "a": 16,
+        "b": 12,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_5_2045",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 45 ÷ 5?",
+      "answer": "9",
+      "variables": {
+        "a": 45,
+        "b": 5,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_5_8728",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 48 ÷ 8?",
+      "answer": "6",
+      "variables": {
+        "a": 48,
+        "b": 8,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_5_3331",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 5 × 7?",
+      "answer": "35",
+      "variables": {
+        "a": 5,
+        "b": 7,
+        "result": 35
+      }
+    },
+    {
+      "id": "mathematics_5_2717",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 3 × 10?",
+      "answer": "30",
+      "variables": {
+        "a": 3,
+        "b": 10,
+        "result": 30
+      }
+    },
+    {
+      "id": "mathematics_5_2559",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 19 - 2?",
+      "answer": "17",
+      "variables": {
+        "a": 19,
+        "b": 2,
+        "result": 17
+      }
+    },
+    {
+      "id": "mathematics_5_2148",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 11 × 7?",
+      "answer": "77",
+      "variables": {
+        "a": 11,
+        "b": 7,
+        "result": 77
+      }
+    },
+    {
+      "id": "mathematics_5_5939",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 6 × 12?",
+      "answer": "72",
+      "variables": {
+        "a": 6,
+        "b": 12,
+        "result": 72
+      }
+    },
+    {
+      "id": "mathematics_5_2192",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 19 + 9?",
+      "answer": "28",
+      "variables": {
+        "a": 19,
+        "b": 9,
+        "result": 28
+      }
+    },
+    {
+      "id": "mathematics_5_9858",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 7 × 2?",
+      "answer": "14",
+      "variables": {
+        "a": 7,
+        "b": 2,
+        "result": 14
+      }
+    },
+    {
+      "id": "mathematics_5_5280",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 + 12?",
+      "answer": "26",
+      "variables": {
+        "a": 14,
+        "b": 12,
+        "result": 26
+      }
+    },
+    {
+      "id": "mathematics_5_7922",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 5 × 11?",
+      "answer": "55",
+      "variables": {
+        "a": 5,
+        "b": 11,
+        "result": 55
+      }
+    },
+    {
+      "id": "mathematics_5_3734",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_2789",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 2 × 2?",
+      "answer": "4",
+      "variables": {
+        "a": 2,
+        "b": 2,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_5_4276",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 64 ÷ 8?",
+      "answer": "8",
+      "variables": {
+        "a": 64,
+        "b": 8,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_5_1384",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 7 × 8?",
+      "answer": "56",
+      "variables": {
+        "a": 7,
+        "b": 8,
+        "result": 56
+      }
+    },
+    {
+      "id": "mathematics_5_9852",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 20 + 7?",
+      "answer": "27",
+      "variables": {
+        "a": 20,
+        "b": 7,
+        "result": 27
+      }
+    },
+    {
+      "id": "mathematics_5_6992",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 - 5?",
+      "answer": "9",
+      "variables": {
+        "a": 14,
+        "b": 5,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_5_9324",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 18 ÷ 3?",
+      "answer": "6",
+      "variables": {
+        "a": 18,
+        "b": 3,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_5_2373",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 14 + 17?",
+      "answer": "31",
+      "variables": {
+        "a": 14,
+        "b": 17,
+        "result": 31
+      }
+    },
+    {
+      "id": "mathematics_5_8777",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_7087",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 3 + 12?",
+      "answer": "15",
+      "variables": {
+        "a": 3,
+        "b": 12,
+        "result": 15
+      }
+    },
+    {
+      "id": "mathematics_5_3540",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 9 - 2?",
+      "answer": "7",
+      "variables": {
+        "a": 9,
+        "b": 2,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_5_4871",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 17 + 9?",
+      "answer": "26",
+      "variables": {
+        "a": 17,
+        "b": 9,
+        "result": 26
+      }
+    },
+    {
+      "id": "mathematics_5_9088",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 17 + 18?",
+      "answer": "35",
+      "variables": {
+        "a": 17,
+        "b": 18,
+        "result": 35
+      }
+    },
+    {
+      "id": "mathematics_5_4492",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 12 ÷ 6?",
+      "answer": "2",
+      "variables": {
+        "a": 12,
+        "b": 6,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_5_1057",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_6178",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_6903",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 11 × 8?",
+      "answer": "88",
+      "variables": {
+        "a": 11,
+        "b": 8,
+        "result": 88
+      }
+    },
+    {
+      "id": "mathematics_5_8343",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 2 × 8?",
+      "answer": "16",
+      "variables": {
+        "a": 2,
+        "b": 8,
+        "result": 16
+      }
+    },
+    {
+      "id": "mathematics_5_1171",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 63 ÷ 7?",
+      "answer": "9",
+      "variables": {
+        "a": 63,
+        "b": 7,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_5_7930",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_8205",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 - 9?",
+      "answer": "7",
+      "variables": {
+        "a": 16,
+        "b": 9,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_5_4216",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 12 ÷ 3?",
+      "answer": "4",
+      "variables": {
+        "a": 12,
+        "b": 3,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_5_8674",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_7056",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 10 + 10?",
+      "answer": "20",
+      "variables": {
+        "a": 10,
+        "b": 10,
+        "result": 20
+      }
+    },
+    {
+      "id": "mathematics_5_3737",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 10 - 6?",
+      "answer": "4",
+      "variables": {
+        "a": 10,
+        "b": 6,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_5_6749",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 17 + 18?",
+      "answer": "35",
+      "variables": {
+        "a": 17,
+        "b": 18,
+        "result": 35
+      }
+    },
+    {
+      "id": "mathematics_5_8586",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_1766",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 2 + 11?",
+      "answer": "13",
+      "variables": {
+        "a": 2,
+        "b": 11,
+        "result": 13
+      }
+    },
+    {
+      "id": "mathematics_5_2448",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_5453",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 ÷ 8?",
+      "answer": "2",
+      "variables": {
+        "a": 16,
+        "b": 8,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_5_3071",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 20 + 19?",
+      "answer": "39",
+      "variables": {
+        "a": 20,
+        "b": 19,
+        "result": 39
+      }
+    },
+    {
+      "id": "mathematics_5_7765",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 1 + 3?",
+      "answer": "4",
+      "variables": {
+        "a": 1,
+        "b": 3,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_5_9601",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 12 + 18?",
+      "answer": "30",
+      "variables": {
+        "a": 12,
+        "b": 18,
+        "result": 30
+      }
+    },
+    {
+      "id": "mathematics_5_4801",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 18 - 12?",
+      "answer": "6",
+      "variables": {
+        "a": 18,
+        "b": 12,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_5_7844",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_2535",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 4 + 13?",
+      "answer": "17",
+      "variables": {
+        "a": 4,
+        "b": 13,
+        "result": 17
+      }
+    },
+    {
+      "id": "mathematics_5_5079",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_1171",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 44 ÷ 11?",
+      "answer": "4",
+      "variables": {
+        "a": 44,
+        "b": 11,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_5_4086",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 20 - 7?",
+      "answer": "13",
+      "variables": {
+        "a": 20,
+        "b": 7,
+        "result": 13
+      }
+    },
+    {
+      "id": "mathematics_5_7929",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 19 + 16?",
+      "answer": "35",
+      "variables": {
+        "a": 19,
+        "b": 16,
+        "result": 35
+      }
+    },
+    {
+      "id": "mathematics_5_3957",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 132 ÷ 12?",
+      "answer": "11",
+      "variables": {
+        "a": 132,
+        "b": 12,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_5_8638",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 7 + 5?",
+      "answer": "12",
+      "variables": {
+        "a": 7,
+        "b": 5,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_5_1212",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 19 + 5?",
+      "answer": "24",
+      "variables": {
+        "a": 19,
+        "b": 5,
+        "result": 24
+      }
+    },
+    {
+      "id": "mathematics_5_6890",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_7760",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 13 - 8?",
+      "answer": "5",
+      "variables": {
+        "a": 13,
+        "b": 8,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_5_1040",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 11 × 8?",
+      "answer": "88",
+      "variables": {
+        "a": 11,
+        "b": 8,
+        "result": 88
+      }
+    },
+    {
+      "id": "mathematics_5_4706",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 11 ÷ 1?",
+      "answer": "11",
+      "variables": {
+        "a": 11,
+        "b": 1,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_5_8015",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 7 - 2?",
+      "answer": "5",
+      "variables": {
+        "a": 7,
+        "b": 2,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_5_2108",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 6 + 3?",
+      "answer": "9",
+      "variables": {
+        "a": 6,
+        "b": 3,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_5_5722",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 17 - 9?",
+      "answer": "8",
+      "variables": {
+        "a": 17,
+        "b": 9,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_5_3248",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 8 × 10?",
+      "answer": "80",
+      "variables": {
+        "a": 8,
+        "b": 10,
+        "result": 80
+      }
+    },
+    {
+      "id": "mathematics_5_8640",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 5 × 12?",
+      "answer": "60",
+      "variables": {
+        "a": 5,
+        "b": 12,
+        "result": 60
+      }
+    },
+    {
+      "id": "mathematics_5_9765",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_9917",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 20 + 4?",
+      "answer": "24",
+      "variables": {
+        "a": 20,
+        "b": 4,
+        "result": 24
+      }
+    },
+    {
+      "id": "mathematics_5_4702",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_5717",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_2884",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 132 ÷ 11?",
+      "answer": "12",
+      "variables": {
+        "a": 132,
+        "b": 11,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_5_9514",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 60 ÷ 10?",
+      "answer": "6",
+      "variables": {
+        "a": 60,
+        "b": 10,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_5_9280",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 15 - 14?",
+      "answer": "1",
+      "variables": {
+        "a": 15,
+        "b": 14,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_5_4674",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 20 + 20?",
+      "answer": "40",
+      "variables": {
+        "a": 20,
+        "b": 20,
+        "result": 40
+      }
+    },
+    {
+      "id": "mathematics_5_9037",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 19 - 2?",
+      "answer": "17",
+      "variables": {
+        "a": 19,
+        "b": 2,
+        "result": 17
+      }
+    },
+    {
+      "id": "mathematics_5_7212",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 13 - 12?",
+      "answer": "1",
+      "variables": {
+        "a": 13,
+        "b": 12,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_5_8480",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_8677",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 9 × 9?",
+      "answer": "81",
+      "variables": {
+        "a": 9,
+        "b": 9,
+        "result": 81
+      }
+    },
+    {
+      "id": "mathematics_5_9616",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_3359",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_5_7631",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 9 ÷ 3?",
+      "answer": "3",
+      "variables": {
+        "a": 9,
+        "b": 3,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_5_2357",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 13 - 3?",
+      "answer": "10",
+      "variables": {
+        "a": 13,
+        "b": 3,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_5_6739",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 12 + 5?",
+      "answer": "17",
+      "variables": {
+        "a": 12,
+        "b": 5,
+        "result": 17
+      }
+    },
+    {
+      "id": "mathematics_5_1473",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 10 × 10?",
+      "answer": "100",
+      "variables": {
+        "a": 10,
+        "b": 10,
+        "result": 100
+      }
+    },
+    {
+      "id": "mathematics_5_4010",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 3 × 8?",
+      "answer": "24",
+      "variables": {
+        "a": 3,
+        "b": 8,
+        "result": 24
+      }
+    },
+    {
+      "id": "mathematics_5_5035",
+      "subject": "mathematics",
+      "grade": "fifth_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 11 + 11?",
+      "answer": "22",
+      "variables": {
+        "a": 11,
+        "b": 11,
+        "result": 22
+      }
+    }
+  ]
+}

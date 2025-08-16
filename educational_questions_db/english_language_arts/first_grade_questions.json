@@ -1,0 +1,1507 @@
+{
+  "subject": "english_language_arts",
+  "grade": "first_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "english_language_arts_1_7931",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2559",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4245",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8626",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2696",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9123",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3959",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2442",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8723",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9735",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9208",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2330",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4344",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9980",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6179",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5885",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7795",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5543",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9763",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8154",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7129",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6703",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4943",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6392",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2229",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4477",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9027",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7943",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3972",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6604",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3901",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3071",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2947",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4472",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7521",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1948",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9623",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5105",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6934",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5448",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2698",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4353",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4328",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6704",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5963",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7367",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2852",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9137",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3664",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3641",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9726",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6424",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8961",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2555",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6200",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4278",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8806",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7473",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1100",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7117",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6328",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4783",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5609",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1586",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9597",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2494",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1719",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9307",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1393",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5909",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1634",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5923",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3789",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3353",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5268",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5897",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4885",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8150",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1750",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1521",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6208",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9815",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5231",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8137",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7819",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8569",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6766",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2689",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5763",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9514",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7418",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3743",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5104",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5542",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6510",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8167",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4338",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5517",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6629",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8949",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7725",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7964",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5548",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4553",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1630",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6511",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5046",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3800",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2632",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5459",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9064",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4085",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1317",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9498",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7638",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3916",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7979",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4470",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6772",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7469",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1978",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5065",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7782",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8768",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5375",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9119",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6270",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_8257",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1490",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9566",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1217",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6369",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9745",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9158",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1053",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9943",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9205",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_3176",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_6723",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7293",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_9368",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4031",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_7313",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4959",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1610",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_5872",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_1326",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_2349",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4385",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_1_4074",
+      "subject": "english_language_arts",
+      "grade": "first_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    }
+  ]
+}

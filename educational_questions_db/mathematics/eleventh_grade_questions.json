@@ -1,0 +1,1507 @@
+{
+  "subject": "mathematics",
+  "grade": "eleventh_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "mathematics_11_5321",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_7455",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_6546",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_2476",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_8324",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_1485",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_8227",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5456",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_4517",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_3879",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_3795",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5952",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_6208",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_1356",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_3891",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_2506",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_6705",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_6216",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_5838",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_6566",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_3906",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5755",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_3483",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_5546",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_6748",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_2381",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5474",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_2113",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_9922",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_1433",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_2485",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_1736",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_9935",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_5438",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_3501",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_3425",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_6179",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_1347",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_8235",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_2972",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_8858",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_2926",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_5545",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_5801",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_2175",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_2023",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_3928",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_6529",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_3932",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_9215",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5853",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_7920",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_5743",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_3666",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5795",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_9635",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_9049",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_7633",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_7115",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5897",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_4590",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_9231",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_1511",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_7495",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_5933",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_8779",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_1697",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_9295",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_2900",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_9169",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_4220",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_8066",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5281",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_3664",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_2105",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_2387",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_3813",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_1487",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_4190",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_9082",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_1685",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5857",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_6919",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_5549",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_6507",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_7470",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_2810",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_7915",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_4086",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5567",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_9672",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_2482",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_9978",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5699",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_6328",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_9695",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_9535",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_3086",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_2727",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_6588",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_1793",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5354",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_7468",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_1856",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_7333",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_4771",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_1187",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_9115",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_2974",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_2068",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_6040",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_1825",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5553",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_1743",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_4329",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5936",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_2676",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_7586",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_1666",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_3171",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_5563",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_7702",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_6072",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_2784",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_4737",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_9923",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_9871",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_7812",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_4383",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_8791",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_3586",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_4690",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5200",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_9885",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_4123",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_3564",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5960",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_5028",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_7819",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_8598",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_4857",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_1852",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_9129",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_6099",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_6039",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_9019",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_3701",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_11_9461",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_8699",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "calculus",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the derivative of f(x) = {a}x² + {b}x + {c}",
+      "answer": "f'(x) = {result}"
+    },
+    {
+      "id": "mathematics_11_1972",
+      "subject": "mathematics",
+      "grade": "eleventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    }
+  ]
+}

@@ -1,0 +1,1507 @@
+{
+  "subject": "social_studies",
+  "grade": "twelfth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "social_studies_12_5884",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_6135",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_2160",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_9921",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_2486",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_6079",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_9837",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_8267",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_6407",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_8016",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_6635",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_1806",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_9341",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_6261",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_4443",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_8680",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_9082",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_8565",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_5168",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_4370",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_5244",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_1056",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_9700",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_3832",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_8556",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_1387",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_7268",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_5463",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_5407",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_2836",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_2426",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_8856",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_2034",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_3090",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_6818",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_5826",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_3222",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_3538",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_6037",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_5762",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_4577",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_1739",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_9828",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_6701",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_6606",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_8762",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_6571",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_1201",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_9668",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_3229",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_6271",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_9640",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_2249",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_7574",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_2439",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_8242",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_5121",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_7126",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_2329",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_3508",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_4766",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_6895",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_7760",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_6687",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_9911",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_1977",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_6267",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_8600",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_5184",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_6685",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_9387",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_7412",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_7418",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_8477",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_3675",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_2875",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_4198",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_9756",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_2098",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_2102",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_4405",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_8346",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_9764",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_9501",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_5321",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_4039",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_3806",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_2971",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_2469",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_6727",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_1543",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_5527",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_5241",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_9113",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_9287",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_3118",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_3564",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_3518",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_6716",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_5771",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_7546",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_5253",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_4148",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_4443",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_3892",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_2295",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_7029",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_5468",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_2244",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_1013",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_6052",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_9147",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_7862",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_2105",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_5260",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_5839",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_9785",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_3720",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_1762",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_1201",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_6245",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_8532",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_4397",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_5011",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_9476",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_1373",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_9145",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_4512",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_5153",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_7524",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_9735",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_3120",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_5501",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_9081",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_2592",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_1323",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_4249",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_5548",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_4997",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_3218",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_7010",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_7305",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_7284",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_2320",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_5831",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_6503",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_12_3385",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_6862",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_12_4009",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_12_9419",
+      "subject": "social_studies",
+      "grade": "twelfth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    }
+  ]
+}

@@ -1,0 +1,1507 @@
+{
+  "subject": "computer_science",
+  "grade": "ninth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "computer_science_9_7078",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_6491",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_1383",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_5604",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_1868",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_4249",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_6412",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_9036",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_5997",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_7108",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_1289",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_1244",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_6252",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_7001",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_4235",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_9196",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_1168",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_4306",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_1260",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_6352",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_1949",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_3005",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_4956",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_9230",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_7183",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_7080",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_1311",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_1387",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_5828",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_3082",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_3250",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_5565",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_1849",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_8990",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_5324",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_7959",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_2762",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_9102",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_6437",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_2766",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_7839",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_9596",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_8343",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_4784",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_9485",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_4594",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_3124",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_7060",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_4827",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_3159",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_1489",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_4502",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_2974",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_5011",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_7108",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_2865",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_1166",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_4616",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_3856",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_7663",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_6046",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_5610",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_4087",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_8071",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_8683",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_6135",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_4866",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_3593",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_1977",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_4806",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_7142",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_1941",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_2457",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_9153",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_5157",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_7959",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_1704",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_3597",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_3539",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_9217",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_8681",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_5250",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_3445",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_6318",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_2991",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_7487",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_3052",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_1102",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_1910",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_5011",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_3822",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_3984",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_8767",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_8066",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_2051",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_6076",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_3200",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_4628",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_3710",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_1892",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_1774",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_4008",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_7382",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_4319",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_4529",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_4535",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_7213",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_7989",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_6374",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_5582",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_1050",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_3758",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_4334",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_1959",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_6193",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_5247",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_3362",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_7266",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_9081",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_3227",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_8371",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_2502",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_6465",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_9549",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_7672",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_6181",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_4056",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_1723",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_2667",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_5693",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_4048",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_4671",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_7783",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_7881",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_1735",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_2352",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_4006",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_1861",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_6886",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_2655",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_5321",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_2705",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "algorithms",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the time complexity of {algorithm}?",
+      "answer": "{complexity}"
+    },
+    {
+      "id": "computer_science_9_1533",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_8830",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "programming",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does this code do: {code}?",
+      "answer": "{explanation}"
+    },
+    {
+      "id": "computer_science_9_6444",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_5224",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_7328",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_6418",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "web_development",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does HTML stand for?",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": "computer_science_9_1461",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    },
+    {
+      "id": "computer_science_9_6378",
+      "subject": "computer_science",
+      "grade": "ninth_grade",
+      "topic": "data_structures",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What data structure uses LIFO (Last In, First Out)?",
+      "answer": "Stack"
+    }
+  ]
+}

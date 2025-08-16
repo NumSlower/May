@@ -1,0 +1,1507 @@
+{
+  "subject": "english_language_arts",
+  "grade": "seventh_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "english_language_arts_7_6970",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_9576",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_3708",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_8792",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_2717",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_7036",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_5152",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_2789",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_6564",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_3463",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_8319",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_3624",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_3298",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_8432",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_4230",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_6710",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_1903",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_6764",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_5666",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_1984",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_1562",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_8682",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_5254",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_4600",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_7557",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_6539",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_1579",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_1013",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_2346",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_6258",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_8942",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_9639",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_7907",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_2413",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_1995",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_8258",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_3036",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_6360",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_4398",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_4841",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_6902",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_1298",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_6478",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_3839",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_9392",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_3955",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_2573",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_1487",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_8987",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_8069",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_7094",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_4817",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_7492",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_8370",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_2814",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_9861",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_1172",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_8088",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_5760",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_4268",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_4836",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_1315",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_3533",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_5243",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_7159",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_7230",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_9215",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_2124",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_5557",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_7890",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_1991",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_9084",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_3374",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_1827",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_5503",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_1356",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_9079",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_1128",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_9887",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_8802",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_3228",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_5149",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_8345",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_6370",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_7224",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_6261",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_1847",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_8253",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_9460",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_4602",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_4558",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_9706",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_2062",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_7036",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_7204",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_9574",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_5549",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_3303",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_1127",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_1517",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_3993",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_8974",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_9197",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_5480",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_9851",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_3191",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_1473",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_2161",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_1490",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_6225",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_7534",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_1990",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_3709",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_8589",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_3421",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_4483",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_2126",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_3607",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_4772",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_4798",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_2385",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_5584",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_7950",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_7757",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_6300",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_6486",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_4343",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_7759",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_4554",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_1916",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_7_9231",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_1213",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_3507",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_5857",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_1700",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_4694",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_1683",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_1075",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_4007",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_5103",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_1359",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_6687",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_4936",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_6219",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_2006",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_4557",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_7_3942",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_7_4482",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_4928",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_7_9278",
+      "subject": "english_language_arts",
+      "grade": "seventh_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    }
+  ]
+}

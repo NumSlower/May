@@ -1,0 +1,1897 @@
+{
+  "subject": "mathematics",
+  "grade": "seventh_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "mathematics_7_7669",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 × 7?",
+      "answer": "56",
+      "variables": {
+        "a": 8,
+        "b": 7,
+        "result": 56
+      }
+    },
+    {
+      "id": "mathematics_7_7492",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 90 ÷ 9?",
+      "answer": "10",
+      "variables": {
+        "a": 90,
+        "b": 9,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_7_7705",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 84 ÷ 7?",
+      "answer": "12",
+      "variables": {
+        "a": 84,
+        "b": 7,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_7_2252",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_1474",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 9 × 6?",
+      "answer": "54",
+      "variables": {
+        "a": 9,
+        "b": 6,
+        "result": 54
+      }
+    },
+    {
+      "id": "mathematics_7_7716",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 4 × 8?",
+      "answer": "32",
+      "variables": {
+        "a": 4,
+        "b": 8,
+        "result": 32
+      }
+    },
+    {
+      "id": "mathematics_7_3944",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_9729",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 9 × 7?",
+      "answer": "63",
+      "variables": {
+        "a": 9,
+        "b": 7,
+        "result": 63
+      }
+    },
+    {
+      "id": "mathematics_7_7012",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 11 × 6?",
+      "answer": "66",
+      "variables": {
+        "a": 11,
+        "b": 6,
+        "result": 66
+      }
+    },
+    {
+      "id": "mathematics_7_2615",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 1 ÷ 1?",
+      "answer": "1",
+      "variables": {
+        "a": 1,
+        "b": 1,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_7_1135",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 × 6?",
+      "answer": "72",
+      "variables": {
+        "a": 12,
+        "b": 6,
+        "result": 72
+      }
+    },
+    {
+      "id": "mathematics_7_8898",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_7762",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 4 × 2?",
+      "answer": "8",
+      "variables": {
+        "a": 4,
+        "b": 2,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_7_1066",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_2475",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 5 ÷ 5?",
+      "answer": "1",
+      "variables": {
+        "a": 5,
+        "b": 5,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_7_8118",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 × 4?",
+      "answer": "32",
+      "variables": {
+        "a": 8,
+        "b": 4,
+        "result": 32
+      }
+    },
+    {
+      "id": "mathematics_7_4151",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 35 ÷ 7?",
+      "answer": "5",
+      "variables": {
+        "a": 35,
+        "b": 7,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_7_5992",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_4494",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_3546",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_2131",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 100 ÷ 10?",
+      "answer": "10",
+      "variables": {
+        "a": 100,
+        "b": 10,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_7_7730",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_6921",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 8 ÷ 4?",
+      "answer": "2",
+      "variables": {
+        "a": 8,
+        "b": 4,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_7_5771",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_1200",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 72 ÷ 9?",
+      "answer": "8",
+      "variables": {
+        "a": 72,
+        "b": 9,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_7_1533",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_9587",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 48 ÷ 4?",
+      "answer": "12",
+      "variables": {
+        "a": 48,
+        "b": 4,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_7_3667",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_2395",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 45 ÷ 5?",
+      "answer": "9",
+      "variables": {
+        "a": 45,
+        "b": 5,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_7_5737",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_2434",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_6509",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_2400",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 81 ÷ 9?",
+      "answer": "9",
+      "variables": {
+        "a": 81,
+        "b": 9,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_7_6003",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 8 × 8?",
+      "answer": "64",
+      "variables": {
+        "a": 8,
+        "b": 8,
+        "result": 64
+      }
+    },
+    {
+      "id": "mathematics_7_8188",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_6468",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_8264",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 7 ÷ 1?",
+      "answer": "7",
+      "variables": {
+        "a": 7,
+        "b": 1,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_7_1223",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 12 × 4?",
+      "answer": "48",
+      "variables": {
+        "a": 12,
+        "b": 4,
+        "result": 48
+      }
+    },
+    {
+      "id": "mathematics_7_9584",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_9005",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 6 × 11?",
+      "answer": "66",
+      "variables": {
+        "a": 6,
+        "b": 11,
+        "result": 66
+      }
+    },
+    {
+      "id": "mathematics_7_5848",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 11 × 11?",
+      "answer": "121",
+      "variables": {
+        "a": 11,
+        "b": 11,
+        "result": 121
+      }
+    },
+    {
+      "id": "mathematics_7_5357",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 7 ÷ 7?",
+      "answer": "1",
+      "variables": {
+        "a": 7,
+        "b": 7,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_7_9574",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_2734",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 6 ÷ 6?",
+      "answer": "1",
+      "variables": {
+        "a": 6,
+        "b": 6,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_7_3438",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_7752",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_2153",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_3085",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_9251",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_3767",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_4257",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_4492",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_3746",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_5535",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_8816",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 6 ÷ 6?",
+      "answer": "1",
+      "variables": {
+        "a": 6,
+        "b": 6,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_7_4713",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_5283",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_2507",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_6709",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_4268",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_7125",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_2134",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 × 11?",
+      "answer": "88",
+      "variables": {
+        "a": 8,
+        "b": 11,
+        "result": 88
+      }
+    },
+    {
+      "id": "mathematics_7_2064",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 5 × 8?",
+      "answer": "40",
+      "variables": {
+        "a": 5,
+        "b": 8,
+        "result": 40
+      }
+    },
+    {
+      "id": "mathematics_7_8073",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 6 ÷ 3?",
+      "answer": "2",
+      "variables": {
+        "a": 6,
+        "b": 3,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_7_7435",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 4 × 9?",
+      "answer": "36",
+      "variables": {
+        "a": 4,
+        "b": 9,
+        "result": 36
+      }
+    },
+    {
+      "id": "mathematics_7_7932",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_2012",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 2 × 4?",
+      "answer": "8",
+      "variables": {
+        "a": 2,
+        "b": 4,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_7_7406",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 5 × 3?",
+      "answer": "15",
+      "variables": {
+        "a": 5,
+        "b": 3,
+        "result": 15
+      }
+    },
+    {
+      "id": "mathematics_7_4909",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 ÷ 2?",
+      "answer": "8",
+      "variables": {
+        "a": 16,
+        "b": 2,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_7_3432",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_2920",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 2 × 9?",
+      "answer": "18",
+      "variables": {
+        "a": 2,
+        "b": 9,
+        "result": 18
+      }
+    },
+    {
+      "id": "mathematics_7_1252",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 6 × 11?",
+      "answer": "66",
+      "variables": {
+        "a": 6,
+        "b": 11,
+        "result": 66
+      }
+    },
+    {
+      "id": "mathematics_7_5642",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 33 ÷ 3?",
+      "answer": "11",
+      "variables": {
+        "a": 33,
+        "b": 3,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_7_1335",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 4 ÷ 4?",
+      "answer": "1",
+      "variables": {
+        "a": 4,
+        "b": 4,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_7_2685",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_5229",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_1093",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_8639",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_4751",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 30 ÷ 5?",
+      "answer": "6",
+      "variables": {
+        "a": 30,
+        "b": 5,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_7_6991",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 40 ÷ 10?",
+      "answer": "4",
+      "variables": {
+        "a": 40,
+        "b": 10,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_7_3866",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 84 ÷ 12?",
+      "answer": "7",
+      "variables": {
+        "a": 84,
+        "b": 12,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_7_3451",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 × 7?",
+      "answer": "84",
+      "variables": {
+        "a": 12,
+        "b": 7,
+        "result": 84
+      }
+    },
+    {
+      "id": "mathematics_7_3724",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_4231",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 22 ÷ 2?",
+      "answer": "11",
+      "variables": {
+        "a": 22,
+        "b": 2,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_7_5117",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 5 × 10?",
+      "answer": "50",
+      "variables": {
+        "a": 5,
+        "b": 10,
+        "result": 50
+      }
+    },
+    {
+      "id": "mathematics_7_2046",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 63 ÷ 7?",
+      "answer": "9",
+      "variables": {
+        "a": 63,
+        "b": 7,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_7_4325",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 × 3?",
+      "answer": "24",
+      "variables": {
+        "a": 8,
+        "b": 3,
+        "result": 24
+      }
+    },
+    {
+      "id": "mathematics_7_4275",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_7574",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 ÷ 2?",
+      "answer": "6",
+      "variables": {
+        "a": 12,
+        "b": 2,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_7_3689",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 121 ÷ 11?",
+      "answer": "11",
+      "variables": {
+        "a": 121,
+        "b": 11,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_7_3326",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 132 ÷ 12?",
+      "answer": "11",
+      "variables": {
+        "a": 132,
+        "b": 12,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_7_5872",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_1992",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 × 1?",
+      "answer": "8",
+      "variables": {
+        "a": 8,
+        "b": 1,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_7_3487",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_9454",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_8713",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 2 ÷ 1?",
+      "answer": "2",
+      "variables": {
+        "a": 2,
+        "b": 1,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_7_1699",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 42 ÷ 7?",
+      "answer": "6",
+      "variables": {
+        "a": 42,
+        "b": 7,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_7_4351",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 6 × 6?",
+      "answer": "36",
+      "variables": {
+        "a": 6,
+        "b": 6,
+        "result": 36
+      }
+    },
+    {
+      "id": "mathematics_7_3019",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 3 × 1?",
+      "answer": "3",
+      "variables": {
+        "a": 3,
+        "b": 1,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_7_1202",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 6 × 7?",
+      "answer": "42",
+      "variables": {
+        "a": 6,
+        "b": 7,
+        "result": 42
+      }
+    },
+    {
+      "id": "mathematics_7_9316",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 1 × 4?",
+      "answer": "4",
+      "variables": {
+        "a": 1,
+        "b": 4,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_7_9095",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_8882",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 88 ÷ 11?",
+      "answer": "8",
+      "variables": {
+        "a": 88,
+        "b": 11,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_7_5193",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 66 ÷ 6?",
+      "answer": "11",
+      "variables": {
+        "a": 66,
+        "b": 6,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_7_8546",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 11 ÷ 11?",
+      "answer": "1",
+      "variables": {
+        "a": 11,
+        "b": 11,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_7_4986",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_2511",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_1221",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_3405",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 36 ÷ 6?",
+      "answer": "6",
+      "variables": {
+        "a": 36,
+        "b": 6,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_7_4713",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 ÷ 4?",
+      "answer": "3",
+      "variables": {
+        "a": 12,
+        "b": 4,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_7_9106",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_2650",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_7068",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 20 ÷ 10?",
+      "answer": "2",
+      "variables": {
+        "a": 20,
+        "b": 10,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_7_7882",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_2205",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 8 × 7?",
+      "answer": "56",
+      "variables": {
+        "a": 8,
+        "b": 7,
+        "result": 56
+      }
+    },
+    {
+      "id": "mathematics_7_2252",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_1399",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_6514",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_4518",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_4473",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 121 ÷ 11?",
+      "answer": "11",
+      "variables": {
+        "a": 121,
+        "b": 11,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_7_6395",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_7464",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 10 ÷ 10?",
+      "answer": "1",
+      "variables": {
+        "a": 10,
+        "b": 10,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_7_9855",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_8752",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 132 ÷ 12?",
+      "answer": "11",
+      "variables": {
+        "a": 132,
+        "b": 12,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_7_2269",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_5650",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_4255",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_1453",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_5737",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_8004",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 × 4?",
+      "answer": "32",
+      "variables": {
+        "a": 8,
+        "b": 4,
+        "result": 32
+      }
+    },
+    {
+      "id": "mathematics_7_2928",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_1373",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_5909",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 24 ÷ 3?",
+      "answer": "8",
+      "variables": {
+        "a": 24,
+        "b": 3,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_7_9500",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 45 ÷ 9?",
+      "answer": "5",
+      "variables": {
+        "a": 45,
+        "b": 9,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_7_3411",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 7 × 12?",
+      "answer": "84",
+      "variables": {
+        "a": 7,
+        "b": 12,
+        "result": 84
+      }
+    },
+    {
+      "id": "mathematics_7_8306",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_2871",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 × 9?",
+      "answer": "108",
+      "variables": {
+        "a": 12,
+        "b": 9,
+        "result": 108
+      }
+    },
+    {
+      "id": "mathematics_7_9291",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_1682",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 12 × 1?",
+      "answer": "12",
+      "variables": {
+        "a": 12,
+        "b": 1,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_7_2645",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 11 × 10?",
+      "answer": "110",
+      "variables": {
+        "a": 11,
+        "b": 10,
+        "result": 110
+      }
+    },
+    {
+      "id": "mathematics_7_2482",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 30 ÷ 3?",
+      "answer": "10",
+      "variables": {
+        "a": 30,
+        "b": 3,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_7_7596",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_9238",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 120 ÷ 12?",
+      "answer": "10",
+      "variables": {
+        "a": 120,
+        "b": 12,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_7_4594",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    },
+    {
+      "id": "mathematics_7_5489",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_5773",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 72 ÷ 9?",
+      "answer": "8",
+      "variables": {
+        "a": 72,
+        "b": 9,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_7_2320",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "geometry",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Find the area of a rectangle with length {a} and width {b}.",
+      "answer": "{result} square units"
+    },
+    {
+      "id": "mathematics_7_8244",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 11 × 5?",
+      "answer": "55",
+      "variables": {
+        "a": 11,
+        "b": 5,
+        "result": 55
+      }
+    },
+    {
+      "id": "mathematics_7_7081",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 5 × 10?",
+      "answer": "50",
+      "variables": {
+        "a": 5,
+        "b": 10,
+        "result": 50
+      }
+    },
+    {
+      "id": "mathematics_7_4552",
+      "subject": "mathematics",
+      "grade": "seventh_grade",
+      "topic": "algebra",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Solve for x: {a}x + {b} = {c}",
+      "answer": "x = {result}"
+    }
+  ]
+}

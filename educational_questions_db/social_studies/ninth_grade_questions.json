@@ -1,0 +1,1507 @@
+{
+  "subject": "social_studies",
+  "grade": "ninth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "social_studies_9_8296",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_2396",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_7804",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_5964",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_4318",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_2337",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_4570",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_5793",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_5164",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_3649",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_9516",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_6976",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_2820",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_2246",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_7533",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_1573",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_1221",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_3976",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_4183",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_9822",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_4266",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_9149",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_9098",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_5215",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_5085",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_9032",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_4909",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_4902",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_3897",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_5980",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_8277",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_4657",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_7066",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_9412",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_8300",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_7715",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_1431",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_1557",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_3550",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_3481",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_5815",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_6441",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_5499",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_8901",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_5828",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_3601",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_7918",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_3199",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_6836",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_2893",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_2034",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_9226",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_2769",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_2400",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_1498",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_3631",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_5766",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_7658",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_9130",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_1732",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_8841",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_8166",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_9726",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_2821",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_8566",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_4290",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_6308",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_4256",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_3333",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_1663",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_7916",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_1916",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_1776",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_3558",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_9911",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_8582",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_3565",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_2456",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_8043",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_7247",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_7515",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_3006",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_7655",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_4067",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_8367",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_5799",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_1808",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_5342",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_8026",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_9578",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_5566",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_8816",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_3111",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_3111",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_1503",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_9077",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_1674",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_7514",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_9684",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_9039",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_7501",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_5412",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_1759",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_4593",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_5464",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_7932",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_4238",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_8920",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_5291",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_4324",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_2345",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_6108",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_6895",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_5354",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_6235",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_2398",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_4706",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_8792",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_8583",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_2078",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_2303",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_9887",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_7977",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_9673",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_4116",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_9871",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_4791",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_9046",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_2206",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_2595",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_4777",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_4953",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_3858",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_8513",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_5852",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_8655",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_3297",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_3480",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_4175",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_4964",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_6244",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_9669",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "social_studies_9_6759",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_5914",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_2729",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_3818",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_9893",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_4483",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "civics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What are the three branches of government?",
+      "answer": "Executive, Legislative, Judicial"
+    },
+    {
+      "id": "social_studies_9_3002",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "history",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "Who was the {ordinal} president of the United States?",
+      "answer": "{president}"
+    },
+    {
+      "id": "social_studies_9_5403",
+      "subject": "social_studies",
+      "grade": "ninth_grade",
+      "topic": "economics",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What is {economic_term}?",
+      "answer": "{definition}"
+    }
+  ]
+}

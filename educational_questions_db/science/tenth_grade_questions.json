@@ -1,0 +1,1507 @@
+{
+  "subject": "science",
+  "grade": "tenth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "science_10_8007",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1729",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_8774",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_1536",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_4132",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5232",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_8735",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_8701",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_9169",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_6285",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_6182",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_3964",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_9647",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_9458",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_4421",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_8508",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_8248",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_8220",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_9830",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_9963",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5123",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_9039",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5725",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_6968",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_6045",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_6745",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_8529",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_9893",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5997",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_9488",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_7754",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_7284",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1712",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_4134",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_2582",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_8550",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_3946",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5379",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_3050",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_8218",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5391",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_2164",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_4817",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_7719",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1651",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_1273",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_1326",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1954",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_2184",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_3230",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_9386",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_6505",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_4697",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_6840",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_6964",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_9645",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_8440",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_1536",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_6918",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_1052",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_2571",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1046",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_8941",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_4540",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_2972",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_3187",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5655",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5261",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_3843",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_7388",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_7410",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_2261",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_6620",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_5558",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_6597",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5212",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_2315",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_2074",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_7919",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_9430",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5898",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_8698",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_5793",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_6449",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1145",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5416",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_2123",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_2648",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_8237",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_9210",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_8289",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_2088",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_5600",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_8192",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_6216",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_4821",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_4330",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_4749",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_7882",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_1289",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_3655",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_6855",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_2640",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5208",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_5147",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_8137",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_9679",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_4940",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_3339",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1309",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5669",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_9879",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_3803",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_9514",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_8180",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_4029",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_7449",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_8954",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_6060",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_4960",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_5446",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_3398",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_6305",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1204",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_9495",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_7571",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_4743",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_3809",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_8449",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_7511",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_5310",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_8668",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_7366",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1866",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5043",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_3817",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_2498",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_2303",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1974",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_5316",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1525",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_1226",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5430",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_7714",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_9242",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5546",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_5406",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_4890",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    },
+    {
+      "id": "science_10_3948",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "physics",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the speed of an object that travels {distance}m in {time}s?",
+      "answer": "{speed} m/s"
+    },
+    {
+      "id": "science_10_6052",
+      "subject": "science",
+      "grade": "tenth_grade",
+      "topic": "chemistry",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the chemical symbol for {element}?",
+      "answer": "{symbol}"
+    }
+  ]
+}

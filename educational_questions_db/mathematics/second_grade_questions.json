@@ -1,0 +1,2257 @@
+{
+  "subject": "mathematics",
+  "grade": "second_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "mathematics_2_8902",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 11 + 8?",
+      "answer": "19",
+      "variables": {
+        "a": 11,
+        "b": 8,
+        "result": 19
+      }
+    },
+    {
+      "id": "mathematics_2_2971",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 16 - 15?",
+      "answer": "1",
+      "variables": {
+        "a": 16,
+        "b": 15,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_2_7278",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 12 - 3?",
+      "answer": "9",
+      "variables": {
+        "a": 12,
+        "b": 3,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_9544",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 17 + 10?",
+      "answer": "27",
+      "variables": {
+        "a": 17,
+        "b": 10,
+        "result": 27
+      }
+    },
+    {
+      "id": "mathematics_2_2188",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 121 ÷ 11?",
+      "answer": "11",
+      "variables": {
+        "a": 121,
+        "b": 11,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_2_4511",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 6 × 11?",
+      "answer": "66",
+      "variables": {
+        "a": 6,
+        "b": 11,
+        "result": 66
+      }
+    },
+    {
+      "id": "mathematics_2_3970",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 60 ÷ 5?",
+      "answer": "12",
+      "variables": {
+        "a": 60,
+        "b": 5,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_2_9991",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 9 × 8?",
+      "answer": "72",
+      "variables": {
+        "a": 9,
+        "b": 8,
+        "result": 72
+      }
+    },
+    {
+      "id": "mathematics_2_5743",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 11 × 10?",
+      "answer": "110",
+      "variables": {
+        "a": 11,
+        "b": 10,
+        "result": 110
+      }
+    },
+    {
+      "id": "mathematics_2_9247",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 48 ÷ 4?",
+      "answer": "12",
+      "variables": {
+        "a": 48,
+        "b": 4,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_2_6641",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 10 × 1?",
+      "answer": "10",
+      "variables": {
+        "a": 10,
+        "b": 1,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_2_7441",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 99 ÷ 9?",
+      "answer": "11",
+      "variables": {
+        "a": 99,
+        "b": 9,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_2_2851",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 3 - 2?",
+      "answer": "1",
+      "variables": {
+        "a": 3,
+        "b": 2,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_2_7478",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 63 ÷ 9?",
+      "answer": "7",
+      "variables": {
+        "a": 63,
+        "b": 9,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_2_8128",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 13 - 11?",
+      "answer": "2",
+      "variables": {
+        "a": 13,
+        "b": 11,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_2_7412",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 120 ÷ 10?",
+      "answer": "12",
+      "variables": {
+        "a": 120,
+        "b": 10,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_2_3748",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 12 + 16?",
+      "answer": "28",
+      "variables": {
+        "a": 12,
+        "b": 16,
+        "result": 28
+      }
+    },
+    {
+      "id": "mathematics_2_3956",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 20 - 17?",
+      "answer": "3",
+      "variables": {
+        "a": 20,
+        "b": 17,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_2_8342",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 36 ÷ 4?",
+      "answer": "9",
+      "variables": {
+        "a": 36,
+        "b": 4,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_7157",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 63 ÷ 7?",
+      "answer": "9",
+      "variables": {
+        "a": 63,
+        "b": 7,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_2418",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 6 ÷ 3?",
+      "answer": "2",
+      "variables": {
+        "a": 6,
+        "b": 3,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_2_2020",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 20 + 10?",
+      "answer": "30",
+      "variables": {
+        "a": 20,
+        "b": 10,
+        "result": 30
+      }
+    },
+    {
+      "id": "mathematics_2_2603",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 1 + 18?",
+      "answer": "19",
+      "variables": {
+        "a": 1,
+        "b": 18,
+        "result": 19
+      }
+    },
+    {
+      "id": "mathematics_2_4670",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 2 - 1?",
+      "answer": "1",
+      "variables": {
+        "a": 2,
+        "b": 1,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_2_2209",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 20 + 11?",
+      "answer": "31",
+      "variables": {
+        "a": 20,
+        "b": 11,
+        "result": 31
+      }
+    },
+    {
+      "id": "mathematics_2_3056",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 77 ÷ 11?",
+      "answer": "7",
+      "variables": {
+        "a": 77,
+        "b": 11,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_2_6849",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 96 ÷ 8?",
+      "answer": "12",
+      "variables": {
+        "a": 96,
+        "b": 8,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_2_6672",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 6 + 3?",
+      "answer": "9",
+      "variables": {
+        "a": 6,
+        "b": 3,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_8409",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 × 12?",
+      "answer": "96",
+      "variables": {
+        "a": 8,
+        "b": 12,
+        "result": 96
+      }
+    },
+    {
+      "id": "mathematics_2_8540",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 17 + 11?",
+      "answer": "28",
+      "variables": {
+        "a": 17,
+        "b": 11,
+        "result": 28
+      }
+    },
+    {
+      "id": "mathematics_2_4171",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 25 ÷ 5?",
+      "answer": "5",
+      "variables": {
+        "a": 25,
+        "b": 5,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_2_3949",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 15 ÷ 3?",
+      "answer": "5",
+      "variables": {
+        "a": 15,
+        "b": 3,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_2_2229",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 11 × 9?",
+      "answer": "99",
+      "variables": {
+        "a": 11,
+        "b": 9,
+        "result": 99
+      }
+    },
+    {
+      "id": "mathematics_2_4814",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 14 + 18?",
+      "answer": "32",
+      "variables": {
+        "a": 14,
+        "b": 18,
+        "result": 32
+      }
+    },
+    {
+      "id": "mathematics_2_9790",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 7 + 20?",
+      "answer": "27",
+      "variables": {
+        "a": 7,
+        "b": 20,
+        "result": 27
+      }
+    },
+    {
+      "id": "mathematics_2_7904",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 17 + 5?",
+      "answer": "22",
+      "variables": {
+        "a": 17,
+        "b": 5,
+        "result": 22
+      }
+    },
+    {
+      "id": "mathematics_2_5774",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 12 × 1?",
+      "answer": "12",
+      "variables": {
+        "a": 12,
+        "b": 1,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_2_4970",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 11 + 4?",
+      "answer": "15",
+      "variables": {
+        "a": 11,
+        "b": 4,
+        "result": 15
+      }
+    },
+    {
+      "id": "mathematics_2_6231",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 9 + 2?",
+      "answer": "11",
+      "variables": {
+        "a": 9,
+        "b": 2,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_2_7223",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 1 × 12?",
+      "answer": "12",
+      "variables": {
+        "a": 1,
+        "b": 12,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_2_4074",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 9 + 19?",
+      "answer": "28",
+      "variables": {
+        "a": 9,
+        "b": 19,
+        "result": 28
+      }
+    },
+    {
+      "id": "mathematics_2_4440",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 2 × 7?",
+      "answer": "14",
+      "variables": {
+        "a": 2,
+        "b": 7,
+        "result": 14
+      }
+    },
+    {
+      "id": "mathematics_2_4182",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 15 + 7?",
+      "answer": "22",
+      "variables": {
+        "a": 15,
+        "b": 7,
+        "result": 22
+      }
+    },
+    {
+      "id": "mathematics_2_2134",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 88 ÷ 11?",
+      "answer": "8",
+      "variables": {
+        "a": 88,
+        "b": 11,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_2_6776",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 18 - 2?",
+      "answer": "16",
+      "variables": {
+        "a": 18,
+        "b": 2,
+        "result": 16
+      }
+    },
+    {
+      "id": "mathematics_2_1950",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 18 ÷ 9?",
+      "answer": "2",
+      "variables": {
+        "a": 18,
+        "b": 9,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_2_6126",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 12 + 8?",
+      "answer": "20",
+      "variables": {
+        "a": 12,
+        "b": 8,
+        "result": 20
+      }
+    },
+    {
+      "id": "mathematics_2_9119",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 15 - 12?",
+      "answer": "3",
+      "variables": {
+        "a": 15,
+        "b": 12,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_2_9026",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 16 + 17?",
+      "answer": "33",
+      "variables": {
+        "a": 16,
+        "b": 17,
+        "result": 33
+      }
+    },
+    {
+      "id": "mathematics_2_2366",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 14 + 8?",
+      "answer": "22",
+      "variables": {
+        "a": 14,
+        "b": 8,
+        "result": 22
+      }
+    },
+    {
+      "id": "mathematics_2_6313",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 5 + 4?",
+      "answer": "9",
+      "variables": {
+        "a": 5,
+        "b": 4,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_7410",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 7 + 20?",
+      "answer": "27",
+      "variables": {
+        "a": 7,
+        "b": 20,
+        "result": 27
+      }
+    },
+    {
+      "id": "mathematics_2_2387",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 6 × 9?",
+      "answer": "54",
+      "variables": {
+        "a": 6,
+        "b": 9,
+        "result": 54
+      }
+    },
+    {
+      "id": "mathematics_2_4385",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 7 + 1?",
+      "answer": "8",
+      "variables": {
+        "a": 7,
+        "b": 1,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_2_7185",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 17 - 10?",
+      "answer": "7",
+      "variables": {
+        "a": 17,
+        "b": 10,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_2_2202",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 16 - 6?",
+      "answer": "10",
+      "variables": {
+        "a": 16,
+        "b": 6,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_2_1572",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 22 ÷ 2?",
+      "answer": "11",
+      "variables": {
+        "a": 22,
+        "b": 2,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_2_4709",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 16 + 11?",
+      "answer": "27",
+      "variables": {
+        "a": 16,
+        "b": 11,
+        "result": 27
+      }
+    },
+    {
+      "id": "mathematics_2_1783",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 14 + 20?",
+      "answer": "34",
+      "variables": {
+        "a": 14,
+        "b": 20,
+        "result": 34
+      }
+    },
+    {
+      "id": "mathematics_2_1694",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 20 - 16?",
+      "answer": "4",
+      "variables": {
+        "a": 20,
+        "b": 16,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_2_2131",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 16 + 9?",
+      "answer": "25",
+      "variables": {
+        "a": 16,
+        "b": 9,
+        "result": 25
+      }
+    },
+    {
+      "id": "mathematics_2_5552",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 8 - 6?",
+      "answer": "2",
+      "variables": {
+        "a": 8,
+        "b": 6,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_2_1920",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 3 + 20?",
+      "answer": "23",
+      "variables": {
+        "a": 3,
+        "b": 20,
+        "result": 23
+      }
+    },
+    {
+      "id": "mathematics_2_7523",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 15 - 15?",
+      "answer": "0",
+      "variables": {
+        "a": 15,
+        "b": 15,
+        "result": 0
+      }
+    },
+    {
+      "id": "mathematics_2_4140",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 19 - 7?",
+      "answer": "12",
+      "variables": {
+        "a": 19,
+        "b": 7,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_2_3190",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 4 + 12?",
+      "answer": "16",
+      "variables": {
+        "a": 4,
+        "b": 12,
+        "result": 16
+      }
+    },
+    {
+      "id": "mathematics_2_6459",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 16 + 10?",
+      "answer": "26",
+      "variables": {
+        "a": 16,
+        "b": 10,
+        "result": 26
+      }
+    },
+    {
+      "id": "mathematics_2_3707",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 + 9?",
+      "answer": "17",
+      "variables": {
+        "a": 8,
+        "b": 9,
+        "result": 17
+      }
+    },
+    {
+      "id": "mathematics_2_3159",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 18 - 4?",
+      "answer": "14",
+      "variables": {
+        "a": 18,
+        "b": 4,
+        "result": 14
+      }
+    },
+    {
+      "id": "mathematics_2_1049",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 7 × 10?",
+      "answer": "70",
+      "variables": {
+        "a": 7,
+        "b": 10,
+        "result": 70
+      }
+    },
+    {
+      "id": "mathematics_2_5334",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 12 - 3?",
+      "answer": "9",
+      "variables": {
+        "a": 12,
+        "b": 3,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_5316",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 11 - 4?",
+      "answer": "7",
+      "variables": {
+        "a": 11,
+        "b": 4,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_2_8793",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 81 ÷ 9?",
+      "answer": "9",
+      "variables": {
+        "a": 81,
+        "b": 9,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_1465",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 16 - 14?",
+      "answer": "2",
+      "variables": {
+        "a": 16,
+        "b": 14,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_2_7339",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 15 - 6?",
+      "answer": "9",
+      "variables": {
+        "a": 15,
+        "b": 6,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_7027",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 5 × 10?",
+      "answer": "50",
+      "variables": {
+        "a": 5,
+        "b": 10,
+        "result": 50
+      }
+    },
+    {
+      "id": "mathematics_2_5392",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 18 + 6?",
+      "answer": "24",
+      "variables": {
+        "a": 18,
+        "b": 6,
+        "result": 24
+      }
+    },
+    {
+      "id": "mathematics_2_3167",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 10 + 5?",
+      "answer": "15",
+      "variables": {
+        "a": 10,
+        "b": 5,
+        "result": 15
+      }
+    },
+    {
+      "id": "mathematics_2_1535",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 42 ÷ 7?",
+      "answer": "6",
+      "variables": {
+        "a": 42,
+        "b": 7,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_2_9598",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 20 - 2?",
+      "answer": "18",
+      "variables": {
+        "a": 20,
+        "b": 2,
+        "result": 18
+      }
+    },
+    {
+      "id": "mathematics_2_3192",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 18 - 3?",
+      "answer": "15",
+      "variables": {
+        "a": 18,
+        "b": 3,
+        "result": 15
+      }
+    },
+    {
+      "id": "mathematics_2_8512",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 + 10?",
+      "answer": "22",
+      "variables": {
+        "a": 12,
+        "b": 10,
+        "result": 22
+      }
+    },
+    {
+      "id": "mathematics_2_6885",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 42 ÷ 6?",
+      "answer": "7",
+      "variables": {
+        "a": 42,
+        "b": 6,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_2_9907",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 27 ÷ 3?",
+      "answer": "9",
+      "variables": {
+        "a": 27,
+        "b": 3,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_4954",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 9 ÷ 1?",
+      "answer": "9",
+      "variables": {
+        "a": 9,
+        "b": 1,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_8986",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 72 ÷ 9?",
+      "answer": "8",
+      "variables": {
+        "a": 72,
+        "b": 9,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_2_9566",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 12 ÷ 3?",
+      "answer": "4",
+      "variables": {
+        "a": 12,
+        "b": 3,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_2_9366",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 11 - 7?",
+      "answer": "4",
+      "variables": {
+        "a": 11,
+        "b": 7,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_2_9467",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 14 + 11?",
+      "answer": "25",
+      "variables": {
+        "a": 14,
+        "b": 11,
+        "result": 25
+      }
+    },
+    {
+      "id": "mathematics_2_1477",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 - 4?",
+      "answer": "10",
+      "variables": {
+        "a": 14,
+        "b": 4,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_2_2401",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 11 - 7?",
+      "answer": "4",
+      "variables": {
+        "a": 11,
+        "b": 7,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_2_1880",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 33 ÷ 3?",
+      "answer": "11",
+      "variables": {
+        "a": 33,
+        "b": 3,
+        "result": 11
+      }
+    },
+    {
+      "id": "mathematics_2_3667",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 24 ÷ 4?",
+      "answer": "6",
+      "variables": {
+        "a": 24,
+        "b": 4,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_2_4143",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 5 + 13?",
+      "answer": "18",
+      "variables": {
+        "a": 5,
+        "b": 13,
+        "result": 18
+      }
+    },
+    {
+      "id": "mathematics_2_8870",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 18 + 10?",
+      "answer": "28",
+      "variables": {
+        "a": 18,
+        "b": 10,
+        "result": 28
+      }
+    },
+    {
+      "id": "mathematics_2_4697",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 96 ÷ 8?",
+      "answer": "12",
+      "variables": {
+        "a": 96,
+        "b": 8,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_2_6309",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 2 × 10?",
+      "answer": "20",
+      "variables": {
+        "a": 2,
+        "b": 10,
+        "result": 20
+      }
+    },
+    {
+      "id": "mathematics_2_1094",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 + 16?",
+      "answer": "24",
+      "variables": {
+        "a": 8,
+        "b": 16,
+        "result": 24
+      }
+    },
+    {
+      "id": "mathematics_2_2465",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 9 - 4?",
+      "answer": "5",
+      "variables": {
+        "a": 9,
+        "b": 4,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_2_7359",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 5 × 10?",
+      "answer": "50",
+      "variables": {
+        "a": 5,
+        "b": 10,
+        "result": 50
+      }
+    },
+    {
+      "id": "mathematics_2_2011",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 + 15?",
+      "answer": "27",
+      "variables": {
+        "a": 12,
+        "b": 15,
+        "result": 27
+      }
+    },
+    {
+      "id": "mathematics_2_2058",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 1 × 5?",
+      "answer": "5",
+      "variables": {
+        "a": 1,
+        "b": 5,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_2_5956",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 88 ÷ 11?",
+      "answer": "8",
+      "variables": {
+        "a": 88,
+        "b": 11,
+        "result": 8
+      }
+    },
+    {
+      "id": "mathematics_2_3164",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 12 × 6?",
+      "answer": "72",
+      "variables": {
+        "a": 12,
+        "b": 6,
+        "result": 72
+      }
+    },
+    {
+      "id": "mathematics_2_9203",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 4 ÷ 4?",
+      "answer": "1",
+      "variables": {
+        "a": 4,
+        "b": 4,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_2_9318",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 6 + 12?",
+      "answer": "18",
+      "variables": {
+        "a": 6,
+        "b": 12,
+        "result": 18
+      }
+    },
+    {
+      "id": "mathematics_2_6536",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 10 × 10?",
+      "answer": "100",
+      "variables": {
+        "a": 10,
+        "b": 10,
+        "result": 100
+      }
+    },
+    {
+      "id": "mathematics_2_4111",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 120 ÷ 12?",
+      "answer": "10",
+      "variables": {
+        "a": 120,
+        "b": 12,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_2_3147",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 - 6?",
+      "answer": "2",
+      "variables": {
+        "a": 8,
+        "b": 6,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_2_6244",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 17 - 16?",
+      "answer": "1",
+      "variables": {
+        "a": 17,
+        "b": 16,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_2_5036",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 18 - 4?",
+      "answer": "14",
+      "variables": {
+        "a": 18,
+        "b": 4,
+        "result": 14
+      }
+    },
+    {
+      "id": "mathematics_2_9580",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 7 × 4?",
+      "answer": "28",
+      "variables": {
+        "a": 7,
+        "b": 4,
+        "result": 28
+      }
+    },
+    {
+      "id": "mathematics_2_7503",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 9 × 2?",
+      "answer": "18",
+      "variables": {
+        "a": 9,
+        "b": 2,
+        "result": 18
+      }
+    },
+    {
+      "id": "mathematics_2_6152",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 9 - 2?",
+      "answer": "7",
+      "variables": {
+        "a": 9,
+        "b": 2,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_2_4962",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 6 × 2?",
+      "answer": "12",
+      "variables": {
+        "a": 6,
+        "b": 2,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_2_9204",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 3 + 6?",
+      "answer": "9",
+      "variables": {
+        "a": 3,
+        "b": 6,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_4005",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 11 × 6?",
+      "answer": "66",
+      "variables": {
+        "a": 11,
+        "b": 6,
+        "result": 66
+      }
+    },
+    {
+      "id": "mathematics_2_1338",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 20 - 4?",
+      "answer": "16",
+      "variables": {
+        "a": 20,
+        "b": 4,
+        "result": 16
+      }
+    },
+    {
+      "id": "mathematics_2_6488",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 1 - 1?",
+      "answer": "0",
+      "variables": {
+        "a": 1,
+        "b": 1,
+        "result": 0
+      }
+    },
+    {
+      "id": "mathematics_2_9945",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 12 + 8?",
+      "answer": "20",
+      "variables": {
+        "a": 12,
+        "b": 8,
+        "result": 20
+      }
+    },
+    {
+      "id": "mathematics_2_7844",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 8 × 3?",
+      "answer": "24",
+      "variables": {
+        "a": 8,
+        "b": 3,
+        "result": 24
+      }
+    },
+    {
+      "id": "mathematics_2_4045",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 120 ÷ 10?",
+      "answer": "12",
+      "variables": {
+        "a": 120,
+        "b": 10,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_2_5804",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 44 ÷ 11?",
+      "answer": "4",
+      "variables": {
+        "a": 44,
+        "b": 11,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_2_7395",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 36 ÷ 12?",
+      "answer": "3",
+      "variables": {
+        "a": 36,
+        "b": 12,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_2_8162",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 3 × 12?",
+      "answer": "36",
+      "variables": {
+        "a": 3,
+        "b": 12,
+        "result": 36
+      }
+    },
+    {
+      "id": "mathematics_2_3317",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 6 ÷ 1?",
+      "answer": "6",
+      "variables": {
+        "a": 6,
+        "b": 1,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_2_1648",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 30 ÷ 5?",
+      "answer": "6",
+      "variables": {
+        "a": 30,
+        "b": 5,
+        "result": 6
+      }
+    },
+    {
+      "id": "mathematics_2_8036",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 2 × 2?",
+      "answer": "4",
+      "variables": {
+        "a": 2,
+        "b": 2,
+        "result": 4
+      }
+    },
+    {
+      "id": "mathematics_2_3766",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 7 × 8?",
+      "answer": "56",
+      "variables": {
+        "a": 7,
+        "b": 8,
+        "result": 56
+      }
+    },
+    {
+      "id": "mathematics_2_4920",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 10 + 15?",
+      "answer": "25",
+      "variables": {
+        "a": 10,
+        "b": 15,
+        "result": 25
+      }
+    },
+    {
+      "id": "mathematics_2_5129",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 14 - 4?",
+      "answer": "10",
+      "variables": {
+        "a": 14,
+        "b": 4,
+        "result": 10
+      }
+    },
+    {
+      "id": "mathematics_2_9539",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 18 ÷ 9?",
+      "answer": "2",
+      "variables": {
+        "a": 18,
+        "b": 9,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_2_2954",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 14 - 1?",
+      "answer": "13",
+      "variables": {
+        "a": 14,
+        "b": 1,
+        "result": 13
+      }
+    },
+    {
+      "id": "mathematics_2_9976",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 7 + 12?",
+      "answer": "19",
+      "variables": {
+        "a": 7,
+        "b": 12,
+        "result": 19
+      }
+    },
+    {
+      "id": "mathematics_2_8033",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 - 13?",
+      "answer": "1",
+      "variables": {
+        "a": 14,
+        "b": 13,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_2_4864",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 8 - 5?",
+      "answer": "3",
+      "variables": {
+        "a": 8,
+        "b": 5,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_2_8133",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 3 × 6?",
+      "answer": "18",
+      "variables": {
+        "a": 3,
+        "b": 6,
+        "result": 18
+      }
+    },
+    {
+      "id": "mathematics_2_1949",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 18 - 9?",
+      "answer": "9",
+      "variables": {
+        "a": 18,
+        "b": 9,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_1391",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 2 × 1?",
+      "answer": "2",
+      "variables": {
+        "a": 2,
+        "b": 1,
+        "result": 2
+      }
+    },
+    {
+      "id": "mathematics_2_7484",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 1,
+      "type": "generated",
+      "question": "What is 14 + 18?",
+      "answer": "32",
+      "variables": {
+        "a": 14,
+        "b": 18,
+        "result": 32
+      }
+    },
+    {
+      "id": "mathematics_2_7035",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 12 × 4?",
+      "answer": "48",
+      "variables": {
+        "a": 12,
+        "b": 4,
+        "result": 48
+      }
+    },
+    {
+      "id": "mathematics_2_2345",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 14 - 5?",
+      "answer": "9",
+      "variables": {
+        "a": 14,
+        "b": 5,
+        "result": 9
+      }
+    },
+    {
+      "id": "mathematics_2_2607",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 8 × 9?",
+      "answer": "72",
+      "variables": {
+        "a": 8,
+        "b": 9,
+        "result": 72
+      }
+    },
+    {
+      "id": "mathematics_2_1889",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 42 ÷ 6?",
+      "answer": "7",
+      "variables": {
+        "a": 42,
+        "b": 6,
+        "result": 7
+      }
+    },
+    {
+      "id": "mathematics_2_8287",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 3 ÷ 3?",
+      "answer": "1",
+      "variables": {
+        "a": 3,
+        "b": 3,
+        "result": 1
+      }
+    },
+    {
+      "id": "mathematics_2_8607",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is 6 × 3?",
+      "answer": "18",
+      "variables": {
+        "a": 6,
+        "b": 3,
+        "result": 18
+      }
+    },
+    {
+      "id": "mathematics_2_9909",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "multiplication",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 2 × 6?",
+      "answer": "12",
+      "variables": {
+        "a": 2,
+        "b": 6,
+        "result": 12
+      }
+    },
+    {
+      "id": "mathematics_2_3297",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 14 - 11?",
+      "answer": "3",
+      "variables": {
+        "a": 14,
+        "b": 11,
+        "result": 3
+      }
+    },
+    {
+      "id": "mathematics_2_9280",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "division",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is 45 ÷ 9?",
+      "answer": "5",
+      "variables": {
+        "a": 45,
+        "b": 9,
+        "result": 5
+      }
+    },
+    {
+      "id": "mathematics_2_1850",
+      "subject": "mathematics",
+      "grade": "second_grade",
+      "topic": "arithmetic",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What is 13 - 6?",
+      "answer": "7",
+      "variables": {
+        "a": 13,
+        "b": 6,
+        "result": 7
+      }
+    }
+  ]
+}

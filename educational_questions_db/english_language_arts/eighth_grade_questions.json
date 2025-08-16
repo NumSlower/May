@@ -1,0 +1,1507 @@
+{
+  "subject": "english_language_arts",
+  "grade": "eighth_grade",
+  "question_count": 150,
+  "questions": [
+    {
+      "id": "english_language_arts_8_5296",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_4885",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_4192",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_3708",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_6398",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_7815",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_7324",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_6016",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_6104",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_9252",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_8550",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_4000",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_6076",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_6018",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_7793",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_3262",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_1183",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_9994",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_1165",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_1233",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_6532",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_2760",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_8751",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_6241",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_3268",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_2413",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_5524",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_4335",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_4985",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_1776",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_7459",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_8744",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_2272",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_5414",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_5200",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_9655",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_6831",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_6072",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_4775",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_1217",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_4445",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_5777",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_6344",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_3136",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_9861",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_8430",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_5266",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_3252",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_9714",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_3373",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_2452",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_8544",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_6765",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_7133",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_5545",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_2555",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_9191",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_3018",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_5594",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_7047",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_3558",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_8474",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_7642",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_3936",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_1089",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_3856",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_8389",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_8427",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_1179",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_2440",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_5609",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_7277",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_1113",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_9457",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_7869",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_4692",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_2571",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_6647",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_5177",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_5680",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_6663",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_2514",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_6905",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_9344",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_3847",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_2949",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_2455",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_9504",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_5402",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_6066",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_8896",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_7202",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_9250",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_3763",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_4375",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_1131",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_1240",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_2536",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_1150",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_9106",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_8715",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_6426",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_1515",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_8477",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_2977",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_6116",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_9821",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_4314",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_3448",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_6550",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_5571",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_3656",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_2941",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_6380",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_5600",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_9866",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_8237",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_6684",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_9582",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_1113",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_1441",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_9938",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_5857",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_7672",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_1814",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_1430",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_3227",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_8394",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_3527",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "grammar",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What type of word is '{word}' in the sentence '{sentence}'?",
+      "answer": "{part_of_speech}"
+    },
+    {
+      "id": "english_language_arts_8_8918",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_5274",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_8023",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_1889",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_6265",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_6325",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_6588",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_8950",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_8193",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_8928",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_2275",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_4277",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_5684",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_4441",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_3736",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_3215",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "writing",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "Write a {type} about {topic}.",
+      "answer": "Student response varies"
+    },
+    {
+      "id": "english_language_arts_8_7242",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_7132",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    },
+    {
+      "id": "english_language_arts_8_5987",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "reading",
+      "difficulty": 4,
+      "type": "generated",
+      "question": "What is the main idea of this passage: '{passage}'?",
+      "answer": "{main_idea}"
+    },
+    {
+      "id": "english_language_arts_8_9613",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "literature",
+      "difficulty": 5,
+      "type": "generated",
+      "question": "What literary device is used in '{example}'?",
+      "answer": "{device}"
+    },
+    {
+      "id": "english_language_arts_8_1436",
+      "subject": "english_language_arts",
+      "grade": "eighth_grade",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "type": "generated",
+      "question": "What does the word '{word}' mean?",
+      "answer": "{definition}"
+    }
+  ]
+}
